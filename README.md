@@ -1,4 +1,6 @@
-![Hello](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+<p align="center" style="width: 100%">
+    <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100%" alt="Hello">
+</p>
 
 <!--
 **Jibbarth/Jibbarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
