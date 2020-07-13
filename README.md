@@ -1,18 +1,55 @@
-<p align="center" style="width: 100%">
-    <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100%" alt="Hello">
+![banner image](https://images.unsplash.com/photo-1534137667199-675a46e143f3?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+
+## Hi, I'm Jibé 👋
+
+<p align="center">
+<a href="https://jibébarth.fr" title="Personal website"><img alt="rss" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/rss.svg" /></a>
+<a href="https://github.com/Jibbarth" title="Github"><img alt="github" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" /></a>
+<a href="https://twitter.com/jibbarth" title="Twitter"><img alt="twitter" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" /></a>
+<a href="https://linkedin.com/in/jibé-b-772884a3" title="Linkedin"><img alt="linkedin" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" /></a>
+<a href="https://connect.symfony.com/profile/jibbarth" title="Symfony"><img alt="symfony" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/symfony.svg" /></a>
 </p>
 
-<!--
-**Jibbarth/Jibbarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lead developer at **Synolia** based in **Bordeaux**.
 
-Here are some ideas to get you started:
+> Love working with **Symfony** 😍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### OSS Projects ⚡
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="33.333333333333%" align="center">
+          <a href="https://github.com/Jibbarth/slacknewsletter">
+            <p>Slack Newsletter</p>
+            <img src="https://images.unsplash.com/photo-1554774853-6a56f62c6451?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" />
+          </a>
+      </td>
+      <td width="33.333333333333%" align="center">
+          <a href="https://phpinsights.com">
+            <p>PHP Insights</p>
+            <img src="https://raw.githubusercontent.com/nunomaduro/phpinsights/v1.14.0/art/heart.png" width="200px" />
+          </a>
+      </td>
+      <td width="33.333333333333%" align="center">
+          <a href="https://github.com/Jibbarth/dev-pack">
+            <p>Symfony Dev pack</p>
+            <img src="https://images.unsplash.com/photo-1546146830-2cca9512c68e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=200&amp;h=150&amp;q=80" width="200px" />
+          </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<details>
+<summary> Want to see my github stats ? </summary>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Jibbarth&&show_icons=true)
+</details>
+
+
+
+---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Jibbarth.Jibbarth)
+[![HitCount](http://hits.dwyl.com/Jibbarth/Jibbarth.svg)](http://hits.dwyl.com/Jibbarth/Jibbarth)
