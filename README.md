@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1496346651079-6ca5cb67f42f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -22,7 +22,7 @@ I'm Lead developer at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1487505983481-9aa2d9f9901a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" />
+            <img src="https://images.unsplash.com/photo-1528372444006-1bfc81acab02?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -48,8 +48,5 @@ I'm Lead developer at **Synolia** based in **Bordeaux**.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Jibbarth&&show_icons=true)
 </details>
 
-
-
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jibbarth.Jibbarth)
-[![HitCount](http://hits.dwyl.com/Jibbarth/Jibbarth.svg)](http://hits.dwyl.com/Jibbarth/Jibbarth)
