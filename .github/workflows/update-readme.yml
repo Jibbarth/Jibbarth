@@ -1,0 +1,36 @@
+name: Update Readme
+
+on:
+  push:
+    branches:
+      - source
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Build and update readme
+    steps:
+      -   name: Checkout 🛎️
+          uses: actions/checkout@v2
+          with:
+            persist-credentials: false
+            ref: source
+      -   uses: shivammathur/setup-php@v1
+          with:
+            php-version: 7.4
+            coverage: none
+      -   run: composer install --prefer-dist --no-progress --no-interaction --no-dev --optimize-autoloader --no-suggest
+      -   name: Build 📦
+          run: bin/console generate-readme --ansi
+      -   name: Copy README to build dir
+          run: |
+            mkdir -p build
+            cp README.md build/README.md
+      -   name: Deploy 🚀
+          uses: JamesIves/github-pages-deploy-action@releases/v3
+          with:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            BRANCH: master
+            FOLDER: build
