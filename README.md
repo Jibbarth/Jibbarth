@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1543934915-d00b1ac54118?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
+            <img src="https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [angristan/openvpn-install](https://github.com/angristan/openvpn-install)  - _Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux._
 * [zenstruck/foundry](https://github.com/zenstruck/foundry)  - _A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine._
 * [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  - _ALL IN ONE Hacking Tool For Hackers_
 * [dubzzz/fast-check](https://github.com/dubzzz/fast-check)  - _Property based testing framework for JavaScript (like QuickCheck) written in TypeScript_
 * [florianv/symfony-swap](https://github.com/florianv/symfony-swap)  - _:euro: Currency exchange rates for Symfony_
-* [Innmind/BlackBox](https://github.com/Innmind/BlackBox) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
