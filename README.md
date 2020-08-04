@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1520275126937-9506f7dd123c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1514996937319-344454492b37?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
+            <img src="https://images.unsplash.com/photo-1592438780047-39f7fdc1a3a8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi)  - _The easy PHP Library for calculating holidays_
 * [arnaud-lb/php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler)  - _Memory leak profiler for PHP_
 * [angristan/openvpn-install](https://github.com/angristan/openvpn-install)  - _Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux._
 * [zenstruck/foundry](https://github.com/zenstruck/foundry)  - _A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine._
 * [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  - _ALL IN ONE Hacking Tool For Hackers_
-* [dubzzz/fast-check](https://github.com/dubzzz/fast-check)  - _Property based testing framework for JavaScript (like QuickCheck) written in TypeScript_
 
 <details>
 <summary> Want to see my github stats ? </summary>
