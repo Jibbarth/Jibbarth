@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
+            <img src="https://images.unsplash.com/photo-1496200186974-4293800e2c20?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[SyliusPayPlugPlugin] Feature : Display Oney informations on product page and checkout summary](https://github.com/synolia/SyliusPayPlugPlugin/pull/1) - _OPEN_
 * [[SyliusPayPlugPlugin] Feature/check oney still active](https://github.com/payplug/SyliusPayPlugPlugin/pull/43) - _OPEN_
 * [[SyliusPayPlugPlugin] feature/add-oney-gateway](https://github.com/payplug/SyliusPayPlugPlugin/pull/40) - _MERGED_
-* [[site-src] Feature/GitHub readme profile generator](https://github.com/Jibbarth/site-src/pull/13) - _MERGED_
 
 **🌟 Latest Stars**:
 
