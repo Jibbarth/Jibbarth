@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1520275126937-9506f7dd123c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1556155092-8707de31f9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
+            <img src="https://images.unsplash.com/photo-1516637090014-cb1ab78511f5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [ramsey/composer-repl](https://github.com/ramsey/composer-repl)  - _A REPL for PHP built into Composer (using PsySH)_
 * [zakirullin/mess](https://github.com/zakirullin/mess)  - _Convenient array-related routine &amp; better type casting_
 * [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php)  - _PHP implementation of Nanoid, secure URL-friendly unique ID generator_
 * [by-pinja/pdf-storage](https://github.com/by-pinja/pdf-storage)  - _Pdf storage is designed to be universally usable PDF generator from html templates._
 * [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi)  - _The easy PHP Library for calculating holidays_
-* [arnaud-lb/php-memory-profiler](https://github.com/arnaud-lb/php-memory-profiler)  - _Memory leak profiler for PHP_
 
 <details>
 <summary> Want to see my github stats ? </summary>
