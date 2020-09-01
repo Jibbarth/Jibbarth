@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1556155092-8707de31f9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
+            <img src="https://images.unsplash.com/photo-1592438780106-122246675ed7?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] Feature : Display Oney informations on product page and checkout summary](https://github.com/synolia/SyliusPayPlugPlugin/pull/1) - _OPEN_
-* [[SyliusPayPlugPlugin] Feature/check oney still active](https://github.com/payplug/SyliusPayPlugPlugin/pull/44) - _MERGED_
+* [[SyliusPayPlugPlugin] [Oney] Change FAQ URL](https://github.com/payplug/SyliusPayPlugPlugin/pull/47) - _OPEN_
 * [[SyliusPayPlugPlugin] Call Payplug with Oney Payment](https://github.com/synolia/SyliusPayPlugPlugin/pull/2) - _OPEN_
+* [[SyliusPayPlugPlugin] Feature : Display Oney informations on product page and checkout summary](https://github.com/synolia/SyliusPayPlugPlugin/pull/1) - _OPEN_
 
 **🌟 Latest Stars**:
 
