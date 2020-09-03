@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1520275126937-9506f7dd123c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,19 +25,19 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" width="200px" height="150px"/>
+            <img src="https://images.unsplash.com/photo-1556155092-8707de31f9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/dev-pack">
             <p>dev-pack</p>
-            <img src="https://images.unsplash.com/photo-1546146830-2cca9512c68e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=300&amp;q=80" width="200px" height="150px"/>
+            <img src="https://images.unsplash.com/photo-1546146830-2cca9512c68e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=400&amp;q=80&amp;h=150" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
           <a href="https://phpinsights.com">
             <p>PHP Insights</p>
-            <img src="https://raw.githubusercontent.com/nunomaduro/phpinsights/v1.14.0/art/heart.png" width="200px" height="150px"/>
+            <img src="https://raw.githubusercontent.com/nunomaduro/phpinsights/v1.14.0/art/heart.png" />
           </a>
       </td>
     </tr>
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[site-src] Fix/readme image size](https://github.com/Jibbarth/site-src/pull/17) - _MERGED_
+* [[SyliusPayPlugPlugin] Fix/Mark order authorized](https://github.com/payplug/SyliusPayPlugPlugin/pull/51) - _OPEN_
 * [[SyliusPayPlugPlugin] feature/hide oney payment method ](https://github.com/payplug/SyliusPayPlugPlugin/pull/50) - _OPEN_
-* [[SyliusPayPlugPlugin] Feature/display oney on legacy sonata block](https://github.com/payplug/SyliusPayPlugPlugin/pull/49) - _MERGED_
-* [[SyliusPayPlugPlugin] Call Payplug with Oney Payment](https://github.com/synolia/SyliusPayPlugPlugin/pull/2) - _OPEN_
 
 **🌟 Latest Stars**:
 
