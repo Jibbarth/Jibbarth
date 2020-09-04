@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1593720213411-697ba0ac0162?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [laminas/automatic-releases](https://github.com/laminas/automatic-releases)  - _Automated release process for `laminas/` projects, usable as github action_
 * [KnpLabs/DictionaryBundle](https://github.com/KnpLabs/DictionaryBundle)  - _Are you often tired to repeat static choices like gender or civility in your apps ?_
 * [ramsey/composer-repl](https://github.com/ramsey/composer-repl)  - _A REPL for PHP built into Composer (using PsySH)_
 * [zakirullin/mess](https://github.com/zakirullin/mess)  - _Convenient array-related routine &amp; better type casting_
 * [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php)  - _PHP implementation of Nanoid, secure URL-friendly unique ID generator_
-* [by-pinja/pdf-storage](https://github.com/by-pinja/pdf-storage)  - _Pdf storage is designed to be universally usable PDF generator from html templates._
 
 <details>
 <summary> Want to see my github stats ? </summary>
