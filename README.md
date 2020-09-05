@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1487505983481-9aa2d9f9901a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1586953208270-767889fa9b0e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle)  - _Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action_
+* [migrify/awesome-php-migrations](https://github.com/migrify/awesome-php-migrations)  - _Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs..._
 * [laminas/automatic-releases](https://github.com/laminas/automatic-releases)  - _Automated release process for `laminas/` projects, usable as github action_
 * [KnpLabs/DictionaryBundle](https://github.com/KnpLabs/DictionaryBundle)  - _Are you often tired to repeat static choices like gender or civility in your apps ?_
 * [ramsey/composer-repl](https://github.com/ramsey/composer-repl)  - _A REPL for PHP built into Composer (using PsySH)_
-* [zakirullin/mess](https://github.com/zakirullin/mess)  - _Convenient array-related routine &amp; better type casting_
-* [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php)  - _PHP implementation of Nanoid, secure URL-friendly unique ID generator_
 
 <details>
 <summary> Want to see my github stats ? </summary>
