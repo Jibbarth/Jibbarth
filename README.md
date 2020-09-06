@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1496346651079-6ca5cb67f42f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1592438780047-39f7fdc1a3a8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -56,8 +56,8 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 **👨‍💻 Latest Pull Requests**:
 
 * [[phpinsights] Feature/parallelization](https://github.com/nunomaduro/phpinsights/pull/414) - _OPEN_
+* [[phpinsights] feature/update php in dockerfile](https://github.com/nunomaduro/phpinsights/pull/435) - _OPEN_
 * [[SyliusPayPlugPlugin] feature/hide oney payment method ](https://github.com/payplug/SyliusPayPlugPlugin/pull/50) - _MERGED_
-* [[SyliusPayPlugPlugin] Fix/Mark order authorized](https://github.com/payplug/SyliusPayPlugPlugin/pull/51) - _MERGED_
 
 **🌟 Latest Stars**:
 
