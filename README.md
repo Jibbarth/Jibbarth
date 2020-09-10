@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1522071740424-8b337d0dfa93?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,8 +55,8 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] feature/oney-set-company](https://github.com/payplug/SyliusPayPlugPlugin/pull/56) - _OPEN_
-* [[SyliusPayPlugPlugin] [Oney] Add popin to fill missing or incorrect fields when choose oney as payment method](https://github.com/payplug/SyliusPayPlugPlugin/pull/54) - _OPEN_
+* [[SyliusPayPlugPlugin] feature/oney-set-company](https://github.com/payplug/SyliusPayPlugPlugin/pull/56) - _MERGED_
+* [[SyliusPayPlugPlugin] [Oney] Add popin to fill missing or incorrect fields when choose oney as payment method](https://github.com/payplug/SyliusPayPlugPlugin/pull/54) - _MERGED_
 * [[phpinsights] Feature/parallelization](https://github.com/nunomaduro/phpinsights/pull/414) - _OPEN_
 
 **🌟 Latest Stars**:
