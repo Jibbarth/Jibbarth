@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1592438780047-39f7fdc1a3a8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [material-shell/material-shell](https://github.com/material-shell/material-shell)  - _A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It&#039;s meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone._
 * [Setono/SyliusPluginSkeleton](https://github.com/Setono/SyliusPluginSkeleton)  - _The place to start when you want to develop a Sylius plugin_
 * [beefsack/webify](https://github.com/beefsack/webify)  - _Turn shell commands into web services_
 * [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle)  - _Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action_
 * [migrify/awesome-php-migrations](https://github.com/migrify/awesome-php-migrations)  - _Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs..._
-* [laminas/automatic-releases](https://github.com/laminas/automatic-releases)  - _Automated release process for `laminas/` projects, usable as github action_
 
 <details>
 <summary> Want to see my github stats ? </summary>
