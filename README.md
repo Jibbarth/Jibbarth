@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1496346651079-6ca5cb67f42f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1556155092-8707de31f9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,17 +55,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[SyliusPayPlugPlugin] [Oney] Add cache on Oney Simulation](https://github.com/payplug/SyliusPayPlugPlugin/pull/62) - _OPEN_
 * [[SyliusPayPlugPlugin] [Oney] Display oney popin on mobile](https://github.com/payplug/SyliusPayPlugPlugin/pull/64) - _OPEN_
 * [[SyliusPayPlugPlugin] feature/validate payplug key](https://github.com/payplug/SyliusPayPlugPlugin/pull/63) - _OPEN_
-* [[SyliusPayPlugPlugin] [Oney] Add cache on Oney Simulation](https://github.com/payplug/SyliusPayPlugPlugin/pull/62) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [yann-eugone/retwis-symfony](https://github.com/yann-eugone/retwis-symfony)  - _Twitter clone using Redis &amp; Symfony_
+* [scheb/2fa](https://github.com/scheb/2fa)  - _Two-factor authentication for Symfony applications  (bunde version ≥ 5)_
 * [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools)  - _A reviewed list of useful PHP static analysis tools_
 * [material-shell/material-shell](https://github.com/material-shell/material-shell)  - _A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It&#039;s meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone._
 * [Setono/SyliusPluginSkeleton](https://github.com/Setono/SyliusPluginSkeleton)  - _The place to start when you want to develop a Sylius plugin_
-* [beefsack/webify](https://github.com/beefsack/webify)  - _Turn shell commands into web services_
-* [staabm/annotate-pull-request-from-checkstyle](https://github.com/staabm/annotate-pull-request-from-checkstyle)  - _Annotate a GitHub Pull Request based on a Checkstyle XML-report within your GitHub Action_
 
 <details>
 <summary> Want to see my github stats ? </summary>
