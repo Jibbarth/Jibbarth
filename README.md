@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1599837487527-e009248aa71b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1586953208270-767889fa9b0e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[phpinsights] Refs #438 - Fix exception thrown when no internet connection](https://github.com/nunomaduro/phpinsights/pull/439) - _OPEN_
+* [[phpinsights] Feature/parallelization](https://github.com/nunomaduro/phpinsights/pull/414) - _OPEN_
+* [[phpinsights] Refs #438 - Fix exception thrown when no internet connection](https://github.com/nunomaduro/phpinsights/pull/439) - _MERGED_
 * [[SyliusPayPlugPlugin] feature/validate payplug key](https://github.com/payplug/SyliusPayPlugPlugin/pull/63) - _MERGED_
-* [[SyliusPayPlugPlugin] fix/refund payplug on custom code](https://github.com/payplug/SyliusPayPlugPlugin/pull/60) - _MERGED_
 
 **🌟 Latest Stars**:
 
