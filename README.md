@@ -1,4 +1,4 @@
-![banner image](https://source.unsplash.com/854x300/?programming,developer,design)
+![banner image](https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1520275126937-9506f7dd123c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [jawira/emoji-catalog](https://github.com/jawira/emoji-catalog)  - _Get access to +3500 emojis as class constants_
 * [yann-eugone/retwis-symfony](https://github.com/yann-eugone/retwis-symfony)  - _Twitter clone using Redis &amp; Symfony_
 * [scheb/2fa](https://github.com/scheb/2fa)  - _Two-factor authentication for Symfony applications  (bunde version ≥ 5)_
 * [exakat/php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools)  - _A reviewed list of useful PHP static analysis tools_
 * [material-shell/material-shell](https://github.com/material-shell/material-shell)  - _A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It&#039;s meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone._
-* [Setono/SyliusPluginSkeleton](https://github.com/Setono/SyliusPluginSkeleton)  - _The place to start when you want to develop a Sylius plugin_
 
 <details>
 <summary> Want to see my github stats ? </summary>
