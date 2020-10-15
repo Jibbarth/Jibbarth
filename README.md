@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1520275126937-9506f7dd123c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [mtarld/api-platform-ms-bundle](https://github.com/mtarld/api-platform-ms-bundle)  - _A set of tools to use Api Platfom in a microservice context_
 * [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle)  - _[READ ONLY] Webauthn Symfony Bundle_
 * [mobizel/markdown-docs-bundle](https://github.com/mobizel/markdown-docs-bundle)  - _Symfony bundle to explore your markdown documentation files._
 * [jawira/emoji-catalog](https://github.com/jawira/emoji-catalog)  - _Get access to +3500 emojis as class constants_
 * [yann-eugone/retwis-symfony](https://github.com/yann-eugone/retwis-symfony)  - _Twitter clone using Redis &amp; Symfony_
-* [scheb/2fa](https://github.com/scheb/2fa)  - _Two-factor authentication for Symfony applications  (bunde version ≥ 5)_
 
 <details>
 <summary> Want to see my github stats ? </summary>
