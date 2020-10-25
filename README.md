@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1496200186974-4293800e2c20?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1485856407642-7f9ba0268b51?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,17 +55,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] Improvement/readme](https://github.com/payplug/SyliusPayPlugPlugin/pull/67) - _OPEN_
-* [[SyliusPayPlugPlugin] fix/change payment method](https://github.com/payplug/SyliusPayPlugPlugin/pull/66) - _OPEN_
-* [[phpinsights] Feature/parallelization](https://github.com/nunomaduro/phpinsights/pull/414) - _MERGED_
+* [[site-src] Update dependencies](https://github.com/Jibbarth/site-src/pull/18) - _MERGED_
+* [[phpinsights] Feature/php8 and GitHub action](https://github.com/nunomaduro/phpinsights/pull/444) - _OPEN_
+* [[phpinsights] [WIP] Feature/php8 and GitHub action](https://github.com/Jibbarth/phpinsights/pull/1) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [shivammathur/setup-php](https://github.com/shivammathur/setup-php)  - _GitHub action to setup PHP with required extensions, php.ini configuration, code-coverage support and various tools like composer..._
 * [mtarld/api-platform-ms-bundle](https://github.com/mtarld/api-platform-ms-bundle)  - _A set of tools to use Api Platfom in a microservice context_
 * [web-auth/webauthn-symfony-bundle](https://github.com/web-auth/webauthn-symfony-bundle)  - _[READ ONLY] Webauthn Symfony Bundle_
 * [mobizel/markdown-docs-bundle](https://github.com/mobizel/markdown-docs-bundle)  - _Symfony bundle to explore your markdown documentation files._
 * [jawira/emoji-catalog](https://github.com/jawira/emoji-catalog)  - _Get access to +3500 emojis as class constants_
-* [yann-eugone/retwis-symfony](https://github.com/yann-eugone/retwis-symfony)  - _Twitter clone using Redis &amp; Symfony_
 
 <details>
 <summary> Want to see my github stats ? </summary>
