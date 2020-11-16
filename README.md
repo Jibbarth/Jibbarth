@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1496346651079-6ca5cb67f42f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[site-src] Feature/sf 52 php8](https://github.com/Jibbarth/site-src/pull/19) - _OPEN_
 * [[SyliusPayPlugPlugin] Feature/remove oney cgv](https://github.com/payplug/SyliusPayPlugPlugin/pull/73) - _MERGED_
 * [[DoctrineMigrationsExtraBundle] Feat: Add DoctrineMigrationsPathsAdderTrait](https://github.com/SyliusLabs/DoctrineMigrationsExtraBundle/pull/8) - _OPEN_
-* [[phpinsights] Feature/php8 and GitHub action](https://github.com/nunomaduro/phpinsights/pull/444) - _OPEN_
 
 **🌟 Latest Stars**:
 
