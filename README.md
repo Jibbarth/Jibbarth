@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1496346651079-6ca5cb67f42f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1542744094-24638eff58bb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1543269866-487350d6fa5e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=eyJhcHBfaWQiOjF9&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [swagindustries/Melodiia](https://github.com/swagindustries/Melodiia)  - _A library that helps you build nice and simple APIs._
 * [pharako/mysql-dbal](https://github.com/pharako/mysql-dbal)  - _MySQL extensions for Doctrine DBAL_
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector)  - _The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. _
 * [jesuisundev/yousmileyoulose](https://github.com/jesuisundev/yousmileyoulose) 
 * [loilo/storage-paths](https://github.com/loilo/storage-paths)  - _🗄 Get OS-specific paths for storing your project&#039;s config, cache, logs etc._
-* [FakerPHP/Faker](https://github.com/FakerPHP/Faker)  - _Faker is a PHP library that generates fake data for you_
 
 <details>
 <summary> Want to see my github stats ? </summary>
