@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1534137667199-675a46e143f3?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1559163330-c30bac8c5031?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1584714268709-c3dd9c92b378?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -50,8 +50,8 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🗞 Latest blogpost**:
 
+* [[Sylius] Test all admin menu links 🦢](https://jibébarth.fr/gist/87d11a489259049acc56b8254d411f62)
 * [PestPHP on Symfony demo](https://jibébarth.fr/gist/c45838ede5cde76b2856530d32df7754)
-* [🇫🇷  Gnome / Chrome / Dark mode](https://jibébarth.fr/gist/05cb7e0fd510525498b0528551a12409)
 
 **👨‍💻 Latest Pull Requests**:
 
