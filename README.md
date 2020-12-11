@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1484417894907-623942c8ee29?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1493119508027-2b584f234d6c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1596477602103-a64a83304ecf?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Roave/no-leaks](https://github.com/Roave/no-leaks)  - _:potable_water: PHPUnit Plugin for detecting Memory Leaks in code and tests_
 * [geocoder-php/BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle)  - _Integration of the Geocoder library into Symfony._
 * [swagindustries/Melodiia](https://github.com/swagindustries/Melodiia)  - _A library that helps you build nice and simple APIs._
 * [pharako/mysql-dbal](https://github.com/pharako/mysql-dbal)  - _MySQL extensions for Doctrine DBAL_
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector)  - _The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. _
-* [jesuisundev/yousmileyoulose](https://github.com/jesuisundev/yousmileyoulose) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
