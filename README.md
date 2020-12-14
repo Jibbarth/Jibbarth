@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1496346651079-6ca5cb67f42f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1596477602103-a64a83304ecf?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1601585612823-0d8787c1e019?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,17 +55,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[DoctrineMigrationsExtraBundle] Feat: Add DoctrineMigrationsPathsAdderTrait](https://github.com/SyliusLabs/DoctrineMigrationsExtraBundle/pull/8) - _OPEN_
 * [[phpinsights] Feature/php8 and GitHub action](https://github.com/nunomaduro/phpinsights/pull/448) - _OPEN_
 * [[phpinsights] [WIP] Feature/php8 and GitHub action](https://github.com/Jibbarth/phpinsights/pull/1) - _OPEN_
-* [[sandbox] Feature/GitHub action](https://github.com/Jibbarth/sandbox/pull/2) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [monsieurbiz/SyliusSettingsPlugin](https://github.com/monsieurbiz/SyliusSettingsPlugin)  - _Provide some custom settings to your favorite Sylius shop!_
 * [Roave/no-leaks](https://github.com/Roave/no-leaks)  - _:potable_water: PHPUnit Plugin for detecting Memory Leaks in code and tests_
 * [geocoder-php/BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle)  - _Integration of the Geocoder library into Symfony._
 * [swagindustries/Melodiia](https://github.com/swagindustries/Melodiia)  - _A library that helps you build nice and simple APIs._
 * [pharako/mysql-dbal](https://github.com/pharako/mysql-dbal)  - _MySQL extensions for Doctrine DBAL_
-* [matomo-org/device-detector](https://github.com/matomo-org/device-detector)  - _The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. _
 
 <details>
 <summary> Want to see my github stats ? </summary>
