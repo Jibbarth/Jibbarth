@@ -1,15 +1,15 @@
-![banner image](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
 <p align="center">
-<a href="https://jibébarth.fr" title="Personal website"><img alt="rss" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/rss.svg" />
+<a href="https://jibébarth.fr" title="Personal website"><img alt="rss" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/rss-solid-100.svg" />
 </a>
-<a href="https://twitter.com/jibbarth" title="Twitter"><img alt="twitter" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" />
+<a href="https://twitter.com/jibbarth" title="Twitter"><img alt="twitter" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/twitter-brands-100.svg" />
 </a>
-<a href="https://linkedin.com/in/jibé-b-772884a3" title="Linkedin"><img alt="linkedin" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" />
+<a href="https://linkedin.com/in/jibé-b-772884a3" title="Linkedin"><img alt="linkedin" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/linkedin-brands-100.svg" />
 </a>
-<a href="https://connect.symfony.com/profile/jibbarth" title="Symfony"><img alt="symfony" width="15px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/symfony.svg" />
+<a href="https://connect.symfony.com/profile/jibbarth" title="Symfony"><img alt="symfony" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/symfony-brands-100.svg" />
 </a>
 </p>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1603354351226-d82bd4a635a3?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1496200186974-4293800e2c20?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
