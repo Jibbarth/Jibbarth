@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1592435238135-cdd8df4f83f9?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1546652328-6a466f71e793?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1547265789-33afb037965c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1516934406976-ac3b5ceca2a0?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [RubixML/MNIST](https://github.com/RubixML/MNIST)  - _Handwritten digit recognizer using a feed-forward neural network and the MNIST dataset of 70,000 human-labeled handwritten digits._
 * [monsieurbiz/SyliusSettingsPlugin](https://github.com/monsieurbiz/SyliusSettingsPlugin)  - _Provide some custom settings to your favorite Sylius shop!_
 * [Roave/no-leaks](https://github.com/Roave/no-leaks)  - _:potable_water: PHPUnit Plugin for detecting Memory Leaks in code and tests_
 * [geocoder-php/BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle)  - _Integration of the Geocoder library into Symfony._
 * [swagindustries/Melodiia](https://github.com/swagindustries/Melodiia)  - _A library that helps you build nice and simple APIs._
-* [pharako/mysql-dbal](https://github.com/pharako/mysql-dbal)  - _MySQL extensions for Doctrine DBAL_
 
 <details>
 <summary> Want to see my github stats ? </summary>
