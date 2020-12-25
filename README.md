@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1607600443806-a81887657d23?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1607570838997-65f270035031?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1605918321371-584f5deab0a2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1604346349888-666d02b8255d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[site-src] Add a sitemap controller](https://github.com/Jibbarth/site-src/pull/22) - _MERGED_
 * [[phpinsights] Feature/php8 and GitHub action](https://github.com/nunomaduro/phpinsights/pull/448) - _OPEN_
 * [[hubkit] Fix typo in readme](https://github.com/park-manager/hubkit/pull/97) - _OPEN_
-* [[DoctrineMigrationsExtraBundle] Feat: Add DoctrineMigrationsPathsAdderTrait](https://github.com/SyliusLabs/DoctrineMigrationsExtraBundle/pull/8) - _OPEN_
 
 **🌟 Latest Stars**:
 
