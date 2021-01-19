@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1610898396901-333280bb7d33?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1611025238364-421b659cd428?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1578100584776-fdf3ff0b367f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1584947113973-cb90c09ff5da?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Guikingone/SchedulerBundle](https://github.com/Guikingone/SchedulerBundle) 
 * [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker)  - _PHP security vulnerabilities checker_
 * [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)  - _An ultra-simplified explanation to design patterns_
 * [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets)  - _Symfony Cheat Sheets_
 * [oliverlundquist/laravel-recommender-system](https://github.com/oliverlundquist/laravel-recommender-system)  - _Repository for a blog post i wrote._
-* [RubixML/MNIST](https://github.com/RubixML/MNIST)  - _Handwritten digit recognizer using a feed-forward neural network and the MNIST dataset of 70,000 human-labeled handwritten digits._
 
 <details>
 <summary> Want to see my github stats ? </summary>
