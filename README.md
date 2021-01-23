@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1611365643248-dd813e8c30e8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1607431067517-fda93b3e0aee?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1602265585142-6b221b9b2c24?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Bismuth-chatbot/chatbot](https://github.com/Bismuth-chatbot/chatbot) 
 * [cv65kr/SyliusPersonalizedProducts](https://github.com/cv65kr/SyliusPersonalizedProducts)  - _Personalized products, choices by machine learning (Prediction IO) for Sylius._
 * [Guikingone/SchedulerBundle](https://github.com/Guikingone/SchedulerBundle)  - _Repetitive tasks as a breath in Symfony_
 * [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker)  - _PHP security vulnerabilities checker_
 * [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)  - _An ultra-simplified explanation to design patterns_
-* [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets)  - _Symfony Cheat Sheets_
 
 <details>
 <summary> Want to see my github stats ? </summary>
