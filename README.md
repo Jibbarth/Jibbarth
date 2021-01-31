@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1611784237648-eeb9be60c61d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1612068661767-06b8b2295ab8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1583142305729-5cb119ce5d3e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1604307410297-081e0677d3fb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [yceruto/acme-bundle](https://github.com/yceruto/acme-bundle)  - _Upgrade your Symfony Bundle directories to standard skeleton_
 * [composer/packagist](https://github.com/composer/packagist)  - _Package Repository Website - try https://packagist.com if you need your own -_
 * [Grafikart/Grafikart.fr](https://github.com/Grafikart/Grafikart.fr)  - _Dépôt pour la nouvelle version de Grafikart.fr_
 * [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track)  - _Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain._
 * [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)  - _OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies._
-* [Bismuth-chatbot/chatbot](https://github.com/Bismuth-chatbot/chatbot) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
