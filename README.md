@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1613215428264-16f040dce665?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1613129931916-dd606eb5ed18?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1605905337157-caf31dfaa565?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,8 +55,8 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[phpinsights] [Cyclomatic Complexity] Improvements](https://github.com/nunomaduro/phpinsights/pull/460) - _OPEN_
 * [[phpinsights] [CI] Avoid launch on modified file if not a PR](https://github.com/nunomaduro/phpinsights/pull/459) - _OPEN_
-* [[phpinsights] Avoid launch on modified file if not a PR](https://github.com/Jibbarth/phpinsights/pull/3) - _OPEN_
 * [[phpinsights] Merge v1.x to master](https://github.com/nunomaduro/phpinsights/pull/454) - _MERGED_
 
 **🌟 Latest Stars**:
