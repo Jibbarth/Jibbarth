@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1613215524811-91c1ae2f5f3a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1613377739358-92aca92e9e13?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1590641531776-d9fb8683f458?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1612310952669-9f5e7737d3dc?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[site-src] Upgrade to github-api v3 and update all dependencies for php8](https://github.com/Jibbarth/site-src/pull/25) - _MERGED_
 * [[site-src] [Badges] Fetch and display Afup Badges](https://github.com/Jibbarth/site-src/pull/24) - _MERGED_
 * [[phpinsights] [Cyclomatic Complexity] Improvements](https://github.com/nunomaduro/phpinsights/pull/460) - _OPEN_
-* [[phpinsights] [CI] Avoid launch on modified file if not a PR](https://github.com/nunomaduro/phpinsights/pull/459) - _OPEN_
 
 **🌟 Latest Stars**:
 
