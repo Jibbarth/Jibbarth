@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1613377739358-92aca92e9e13?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1613199743247-50112e7f2e99?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1612310952669-9f5e7737d3dc?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1565106430482-8f6e74349ca1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,17 +55,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[phpinsights] [Cyclomatic Complexity] Improvements](https://github.com/nunomaduro/phpinsights/pull/460) - _OPEN_
 * [[site-src] Upgrade to github-api v3 and update all dependencies for php8](https://github.com/Jibbarth/site-src/pull/25) - _MERGED_
 * [[site-src] [Badges] Fetch and display Afup Badges](https://github.com/Jibbarth/site-src/pull/24) - _MERGED_
-* [[phpinsights] [Cyclomatic Complexity] Improvements](https://github.com/nunomaduro/phpinsights/pull/460) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [azjezz/psl](https://github.com/azjezz/psl)  - _PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers._
 * [RedDuckss/disneyplus-client](https://github.com/RedDuckss/disneyplus-client)  - _Client for interacting with the Disney+ private API_
 * [chaos-php/chaos-monkey-symfony-bundle](https://github.com/chaos-php/chaos-monkey-symfony-bundle)  - _Chaos Monkey for Symfony applications. Try to attack your running Symfony App._
 * [yceruto/acme-bundle](https://github.com/yceruto/acme-bundle)  - _Upgrade your Symfony Bundle directories to standard skeleton_
 * [composer/packagist](https://github.com/composer/packagist)  - _Package Repository Website - try https://packagist.com if you need your own -_
-* [Grafikart/Grafikart.fr](https://github.com/Grafikart/Grafikart.fr)  - _Dépôt pour la nouvelle version de Grafikart.fr_
 
 <details>
 <summary> Want to see my github stats ? </summary>
