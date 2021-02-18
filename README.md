@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1613391781198-de2b1c5b6c50?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1613279060119-2053dc14f8d2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1611762034688-004d2a99271a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1610986603166-f78428624e76?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [willmcgugan/rich](https://github.com/willmcgugan/rich)  - _Rich is a Python library for rich text and beautiful formatting in the terminal._
 * [azjezz/psl](https://github.com/azjezz/psl)  - _PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers._
 * [RedDuckss/disneyplus-client](https://github.com/RedDuckss/disneyplus-client)  - _Client for interacting with the Disney+ private API_
 * [chaos-php/chaos-monkey-symfony-bundle](https://github.com/chaos-php/chaos-monkey-symfony-bundle)  - _Chaos Monkey for Symfony applications. Try to attack your running Symfony App._
 * [yceruto/acme-bundle](https://github.com/yceruto/acme-bundle)  - _Upgrade your Symfony Bundle directories to standard skeleton_
-* [composer/packagist](https://github.com/composer/packagist)  - _Package Repository Website - try https://packagist.com if you need your own -_
 
 <details>
 <summary> Want to see my github stats ? </summary>
