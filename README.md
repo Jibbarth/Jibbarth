@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1614770149198-1a1be7bba351?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1614886203685-56ecf7541cfd?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1606146485595-d40e12dc4052?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1553830591-42e4fd7035ec?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [dolthub/dolt](https://github.com/dolthub/dolt)  - _Dolt – It&#039;s Git for Data_
 * [codeinthedark/awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode)  - _Awesome Power Mode_
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)  - _The Patterns of Scalable, Reliable, and Performant Large-Scale Systems_
 * [willmcgugan/rich](https://github.com/willmcgugan/rich)  - _Rich is a Python library for rich text and beautiful formatting in the terminal._
 * [azjezz/psl](https://github.com/azjezz/psl)  - _PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers._
-* [RedDuckss/disneyplus-client](https://github.com/RedDuckss/disneyplus-client)  - _Client for interacting with the Disney+ private API_
 
 <details>
 <summary> Want to see my github stats ? </summary>
