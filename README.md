@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1615454789101-f0211ca4109f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE1Nzg4Nzk3&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1615654673360-29898e4f857f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE1ODEwODI0&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1605907126332-53b63528ce99?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE1Nzg4Nzk5&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1600267175161-cfaa711b4a81?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE1ODEwODI2&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips)  - _Unit testing tips by examples in PHP_
 * [dolthub/dolt](https://github.com/dolthub/dolt)  - _Dolt – It&#039;s Git for Data_
 * [codeinthedark/awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode)  - _Awesome Power Mode_
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)  - _The Patterns of Scalable, Reliable, and Performant Large-Scale Systems_
 * [willmcgugan/rich](https://github.com/willmcgugan/rich)  - _Rich is a Python library for rich text and beautiful formatting in the terminal._
-* [azjezz/psl](https://github.com/azjezz/psl)  - _PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers._
 
 <details>
 <summary> Want to see my github stats ? </summary>
