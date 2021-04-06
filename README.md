@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1617529520608-42a0fe601be2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE3NjkwMDAw&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1617316289518-fb15c09c0dc4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE3NzExNTk4&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1612296727166-b44f0be45463?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE3NjkwMDAx&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE3NzExNjEx&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -57,7 +57,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 * [[maker-bundle] [make:controller] avoid require doctrine/annotation when can use attributes](https://github.com/symfony/maker-bundle/pull/858) - _OPEN_
 * [[symplify] [Static Dumper] [Docs] Add compiler pass in kernel](https://github.com/symplify/symplify/pull/1826) - _MERGED_
-* [[symfony-docs] [Framework reference] Fix parent node for retry_failed configuration](https://github.com/symfony/symfony-docs/pull/15190) - _OPEN_
+* [[phpinsights] [Cyclomatic Complexity] Improvements](https://github.com/nunomaduro/phpinsights/pull/460) - _MERGED_
 
 **🌟 Latest Stars**:
 
