@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1619545697000-59866347af9f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5ODQ5ODAw&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1619497370609-ac9be790757e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5ODcwODU4&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1585686024076-ed62f2d7cef6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5ODQ5ODAx&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1618171889969-0feeb769fe78?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5ODcwODU4&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,17 +55,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[site-src] [ux] add stimulus controller to render gist files](https://github.com/Jibbarth/site-src/pull/33) - _MERGED_
+* [[phpinsights] [Feature] Diff output configurable](https://github.com/nunomaduro/phpinsights/pull/482) - _OPEN_
 * [[symplify] [SSD] Handle render page created with TemplateController](https://github.com/symplify/symplify/pull/1875) - _MERGED_
-* [[phpinsights] [Feature] Add option to show summary only](https://github.com/nunomaduro/phpinsights/pull/481) - _MERGED_
-* [[phpinsights] [Release] v2.0](https://github.com/nunomaduro/phpinsights/pull/480) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [spatie/fork](https://github.com/spatie/fork)  - _A lightweight solution for running code concurrently in PHP_
 * [scienceetonnante/MCMC](https://github.com/scienceetonnante/MCMC)  - _Code used in the video https://www.youtube.com/watch?v=z4tkHuWZbRA_
 * [dandavison/delta](https://github.com/dandavison/delta)  - _A viewer for git and diff output_
 * [louisfb01/start-machine-learning-in-2020](https://github.com/louisfb01/start-machine-learning-in-2020)  - _A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!_
 * [zenstruck/browser](https://github.com/zenstruck/browser)  - _A fluent interface for your Symfony functional tests._
-* [pocky/ModernPluginSkeleton](https://github.com/pocky/ModernPluginSkeleton) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
