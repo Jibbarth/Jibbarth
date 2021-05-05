@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1619898382644-18ad0f1710ac?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIwMjE3MDIw&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1619983453269-98a0917b75bd?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIwMjM4ODYx&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1610795868681-4b4ebb6aec43?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIwMjE3MDIz&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1617718724515-aa24a4bf166a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIwMjM4ODYz&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [goetas-webservices/soap-client](https://github.com/goetas-webservices/soap-client)  - _PHP implementation of SOAP 1.1 and 1.2 client specifications_
 * [Stogon/unleash-bundle](https://github.com/Stogon/unleash-bundle)  - _An Unleash bundle for Symfony applications to provide an easy way to use feature flags_
 * [spatie/fork](https://github.com/spatie/fork)  - _A lightweight solution for running code concurrently in PHP_
 * [scienceetonnante/MCMC](https://github.com/scienceetonnante/MCMC)  - _Code used in the video https://www.youtube.com/watch?v=z4tkHuWZbRA_
 * [dandavison/delta](https://github.com/dandavison/delta)  - _A viewer for git and diff output_
-* [louisfb01/start-machine-learning-in-2020](https://github.com/louisfb01/start-machine-learning-in-2020)  - _A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!_
 
 <details>
 <summary> Want to see my github stats ? </summary>
