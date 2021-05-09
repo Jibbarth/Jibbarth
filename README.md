@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1620472685033-1672a4dd4057?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIwNTQwODM2&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1620325645116-82a352eee4d7?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIwNTYyNTkz&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1611175697352-c8a3d5719783?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIwNTQwODM3&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1606166325683-e6deb697d301?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIwNTYyNTk0&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[maker-bundle] [make:controller] avoid require doctrine/annotation when can use attributes](https://github.com/symfony/maker-bundle/pull/858) - _OPEN_
 * [[ux] [Dropzone] Fix prepend twig extension](https://github.com/symfony/ux/pull/67) - _OPEN_
 * [[symplify] [SSD] controller with multiple args](https://github.com/symplify/symplify/pull/1895) - _MERGED_
-* [[site-src] [feature] Local articles](https://github.com/Jibbarth/site-src/pull/34) - _MERGED_
 
 **🌟 Latest Stars**:
 
