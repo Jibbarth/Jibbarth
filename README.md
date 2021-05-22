@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1621465558398-d3f87bfaec26?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxNjY0MTk2&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1621431884725-6f04543b11a9?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxNjg1OTc3&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1466837703337-242d94d6b8c7?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxNjY0MTk4&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1611175695357-081a567c5c53?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxNjg1OTc3&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope)  - _Static website building tool for Symfony._
 * [0xABADCAFE/php-demo-engine](https://github.com/0xABADCAFE/php-demo-engine) 
 * [theofidry/console](https://github.com/theofidry/console)  - _Library for creating CLI commands or applications_
 * [goetas-webservices/soap-client](https://github.com/goetas-webservices/soap-client)  - _PHP implementation of SOAP 1.1 and 1.2 client specifications_
 * [Stogon/unleash-bundle](https://github.com/Stogon/unleash-bundle)  - _An Unleash bundle for Symfony applications to provide an easy way to use feature flags_
-* [spatie/fork](https://github.com/spatie/fork)  - _A lightweight solution for running code concurrently in PHP_
 
 <details>
 <summary> Want to see my github stats ? </summary>
