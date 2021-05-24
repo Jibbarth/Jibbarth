@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1621802743320-83199eb8075e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxODU4ODg3&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1621560806925-28e4ef91b6d0?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxODgxNDE2&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1612296727166-b44f0be45463?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxODU4ODg5&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1617718724515-aa24a4bf166a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIxODgxNDE5&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[phpinsights] [Fix] Continuous Integration fixes](https://github.com/nunomaduro/phpinsights/pull/494) - _OPEN_
+* [[phpinsights] Fix failure tests case on syntax check in lowest version](https://github.com/Jibbarth/phpinsights/pull/5) - _OPEN_
 * [[ux] [Dropzone] Fix prepend twig extension](https://github.com/symfony/ux/pull/67) - _MERGED_
-* [[phpinsights] [Feature] Diff output configurable](https://github.com/nunomaduro/phpinsights/pull/482) - _MERGED_
-* [[maker-bundle] [make:controller] avoid require doctrine/annotation when can use attributes](https://github.com/symfony/maker-bundle/pull/858) - _OPEN_
 
 **🌟 Latest Stars**:
 
