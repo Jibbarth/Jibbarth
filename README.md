@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1568723749212-b2710cf5bcf1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIyOTE5MjMy&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1603892972799-398685a88500?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIyOTQxMjEz&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIyOTE5MjMz&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1611762034688-004d2a99271a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjIyOTQxMjE0&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [erikaheidi/dynacover](https://github.com/erikaheidi/dynacover)  - _Dynamic Twitter cover images / profile headers - demo_
 * [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope)  - _Static website building tool for Symfony._
 * [0xABADCAFE/php-demo-engine](https://github.com/0xABADCAFE/php-demo-engine) 
 * [theofidry/console](https://github.com/theofidry/console)  - _Library for creating CLI commands or applications_
 * [goetas-webservices/soap-client](https://github.com/goetas-webservices/soap-client)  - _PHP implementation of SOAP 1.1 and 1.2 client specifications_
-* [Stogon/unleash-bundle](https://github.com/Stogon/unleash-bundle)  - _An Unleash bundle for Symfony applications to provide an easy way to use feature flags_
 
 <details>
 <summary> Want to see my github stats ? </summary>
