@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1562707653-09b61210b3f9?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI0MjU2MDkx&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1574802406791-ef6898f311d3?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI0Mjc0NTUz&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1553484771-371a605b060b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI0MjU2MDky&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1558895101-0b9cc10348f1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI0Mjc0NTUz&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -50,13 +50,13 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🗞 Latest blogpost**:
 
+* [PHPInsights v2 released](https://jibébarth.fr/post/phpinsights-v2-released)
 * [[Tips] Non blocking long api call](https://jibébarth.fr/post/non-blocking-long-api-call)
-* [[Sylius] Restrict Payment Methods depending on customer group](https://jibébarth.fr/gist/53569b2072996fe7d2a36faf2eaa577d)
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[phpinsights] [Release] v2.0](https://github.com/nunomaduro/phpinsights/pull/480) - _OPEN_
-* [[site-src] [Article] PHP Insights v2 release](https://github.com/Jibbarth/site-src/pull/40) - _OPEN_
+* [[site-src] [Article] PHP Insights v2 release](https://github.com/Jibbarth/site-src/pull/40) - _MERGED_
+* [[phpinsights] [Release] v2.0](https://github.com/nunomaduro/phpinsights/pull/480) - _MERGED_
 * [[site-src] Add stimulus controller to display tweet](https://github.com/Jibbarth/site-src/pull/39) - _MERGED_
 
 **🌟 Latest Stars**:
