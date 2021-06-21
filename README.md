@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1590438250320-68705a37778b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI0Mjc3ODcz&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1575819974033-21c1faf2adf0?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI0Mjk5MjIw&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI0Mjc3ODc0&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1603791445824-0050bd436b6d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI0Mjk5MjIx&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)  - _A collection of modern/faster/saner alternatives to common unix commands._
 * [ciareis/bypass](https://github.com/ciareis/bypass)  - _↪️ Bypass for PHP creates a custom HTTP Server to return predefined responses to client requests. Useful for tests with Pest PHP or PHPUnit._
 * [nedac-sorbo/SyliusMinimumOrderValuePlugin](https://github.com/nedac-sorbo/SyliusMinimumOrderValuePlugin)  - _With this Sylius plugin a minimum order value can be set for each channel._
 * [clue/reactphp-pq](https://github.com/clue/reactphp-pq)  - _PQ (&quot;peak&quot;), automatically wrap blocking functions in an async child process and turn blocking functions into non-blocking promises, built on top of ReactPHP_
 * [erikaheidi/dynacover](https://github.com/erikaheidi/dynacover)  - _Dynamic Twitter cover images / profile headers - demo_
-* [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope)  - _Static website building tool for Symfony._
 
 <details>
 <summary> Want to see my github stats ? </summary>
