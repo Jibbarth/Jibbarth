@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1529080300499-be9bf94e8acf?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI1MDM0MTY4&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1545072003-100062682afc?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI1MDU2MDEw&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1489506020498-e6c1cc350f10?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI1MDM0MTY5&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1528372444006-1bfc81acab02?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjI1MDU2MDEx&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [YerinAlexey/miniplug](https://github.com/YerinAlexey/miniplug)  - _:sunflower: Minimalistic plugin manager for ZSH (mirror)_
 * [junegunn/fzf](https://github.com/junegunn/fzf)  - _:cherry_blossom: A command-line fuzzy finder_
 * [weaverryan/live-demo](https://github.com/weaverryan/live-demo)  - _Demo App for Symfony Twig &amp; Live Components_
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)  - _A collection of modern/faster/saner alternatives to common unix commands._
 * [ciareis/bypass](https://github.com/ciareis/bypass)  - _↪️ Bypass for PHP creates a custom HTTP Server to return predefined responses to client requests. Useful for tests with Pest PHP or PHPUnit._
-* [nedac-sorbo/SyliusMinimumOrderValuePlugin](https://github.com/nedac-sorbo/SyliusMinimumOrderValuePlugin)  - _With this Sylius plugin a minimum order value can be set for each channel._
 
 <details>
 <summary> Want to see my github stats ? </summary>
