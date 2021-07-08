@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1523920020520-bc3e5db128b5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2MjU3NDY3NjI&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1501877008226-4fca48ee50c1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2MjU3Njg1NzE&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2MjU3NDY3NjM&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2MjU3Njg1NzI&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Sylius/PlusInformationCenter](https://github.com/Sylius/PlusInformationCenter)  - _Changelog and upgrade instructions for Sylius/Plus._
+* [ismay/stylelint-no-unsupported-browser-features](https://github.com/ismay/stylelint-no-unsupported-browser-features)  - _Disallow features that aren&#039;t supported by your target browser audience._
 * [Fyrd/caniuse](https://github.com/Fyrd/caniuse)  - _Raw browser/feature support data from caniuse.com_
 * [YerinAlexey/miniplug](https://github.com/YerinAlexey/miniplug)  - _:sunflower: Minimalistic plugin manager for ZSH (mirror)_
 * [junegunn/fzf](https://github.com/junegunn/fzf)  - _:cherry_blossom: A command-line fuzzy finder_
-* [weaverryan/live-demo](https://github.com/weaverryan/live-demo)  - _Demo App for Symfony Twig &amp; Live Components_
-* [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)  - _A collection of modern/faster/saner alternatives to common unix commands._
 
 <details>
 <summary> Want to see my github stats ? </summary>
