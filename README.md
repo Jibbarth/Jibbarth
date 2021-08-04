@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2MjgwODAwODg&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1554168153-e74124abd88f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2MjgxMDE0NDU&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2MjgwODAwODk&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1503619609774-87677812b060?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2MjgxMDE0NDU&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner)  - _A command line tool to run Jenkinsfile as a function_
 * [pk-fr/yakpro-po](https://github.com/pk-fr/yakpro-po)  - _YAK Pro - Php Obfuscator_
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy)  - _A new bootable USB solution._
 * [Sylius/PlusInformationCenter](https://github.com/Sylius/PlusInformationCenter)  - _Changelog and upgrade instructions for Sylius/Plus._
 * [ismay/stylelint-no-unsupported-browser-features](https://github.com/ismay/stylelint-no-unsupported-browser-features)  - _Disallow features that aren&#039;t supported by your target browser audience._
-* [Fyrd/caniuse](https://github.com/Fyrd/caniuse)  - _Raw browser/feature support data from caniuse.com_
 
 <details>
 <summary> Want to see my github stats ? </summary>
