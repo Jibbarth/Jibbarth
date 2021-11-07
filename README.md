@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1633250391894-397930e3f5f2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2MzU4MzQ0MjU&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1598367815092-a2c0cbc1ea3d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2MzYyODM3MTY&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2MzU4MzQ0Mjc&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1631376604263-5d803038b389?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2MzYyODM3MTc&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -50,22 +50,22 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🗞 Latest blogpost**:
 
+* [How to build a shareable Symfony App](https://jibébarth.fr/post/build-shareable-symfony-app)
 * [PHPInsights v2 released](https://jibébarth.fr/post/phpinsights-v2-released)
-* [[Tips] Non blocking long api call](https://jibébarth.fr/post/non-blocking-long-api-call)
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[site-src] Add article : build a shareable symfony app](https://github.com/Jibbarth/site-src/pull/48) - _MERGED_
 * [[SyliusMailTesterPlugin] Add new form resolvable type for SyliusRefundPlugin](https://github.com/synolia/SyliusMailTesterPlugin/pull/24) - _OPEN_
 * [[BootstrapTheme] [Front dependencies] Add missing popper.js deps](https://github.com/SyliusCrafts/BootstrapTheme/pull/97) - _MERGED_
-* [[site-src] [Feature] Prevent visitors when article is outdated](https://github.com/Jibbarth/site-src/pull/47) - _MERGED_
 
 **🌟 Latest Stars**:
 
+* [Elao/accesseo](https://github.com/Elao/accesseo)  - _Provide accessibility and SEO insights of your page in Symfony profiler_
+* [thecodingmachine/phpstan-strict-rules](https://github.com/thecodingmachine/phpstan-strict-rules)  - _A set of additional rules for PHPStan based on best practices followed at TheCodingMachine_
+* [ergebnis/phpstan-rules](https://github.com/ergebnis/phpstan-rules)  - _:eyeglasses: Provides additional rules for phpstan/phpstan._
 * [mad-coders/sylius-sizechart-plugin](https://github.com/mad-coders/sylius-sizechart-plugin)  - _Size chart plugin for Sylius ecommerce platform._
 * [symfony-tools/recipes-checker](https://github.com/symfony-tools/recipes-checker) 
-* [kafkiansky/symfony-middleware](https://github.com/kafkiansky/symfony-middleware)  - _PSR-15 middleware for Symfony framework._
-* [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)  - _Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）_
-* [phabelio/phabel](https://github.com/phabelio/phabel)  - _PHP transpiler - Write and deploy modern PHP 8 code, today._
 
 <details>
 <summary> Want to see my github stats ? </summary>
