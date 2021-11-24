@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2MzcxMTE0Mzg&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1519642918688-7e43b19245d8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2Mzc3NTc3NTI&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1591375275293-710d9b053a0d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2MzcxMTE0Mzg&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2Mzc3NTc3NTk&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [clue/framework-x](https://github.com/clue/framework-x)  - _Framework X – the simple and fast micro framework for building reactive web applications that run anywhere._
+* [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)  - _📗🌐 🚢 Comprehensive and exhaustive JavaScript &amp; Node.js testing best practices (August 2021)_
+* [ajaxray/markpdf](https://github.com/ajaxray/markpdf)  - _Watermark PDF files using image or text_
+* [loophp/service-alias-autoregister-bundle](https://github.com/loophp/service-alias-autoregister-bundle)  - _Auto register services aliases in the Symfony container._
 * [Elao/accesseo](https://github.com/Elao/accesseo)  - _Provide accessibility and SEO insights of your page in Symfony profiler_
-* [thecodingmachine/phpstan-strict-rules](https://github.com/thecodingmachine/phpstan-strict-rules)  - _A set of additional rules for PHPStan based on best practices followed at TheCodingMachine_
-* [ergebnis/phpstan-rules](https://github.com/ergebnis/phpstan-rules)  - _:eyeglasses: Provides additional rules for phpstan/phpstan._
-* [mad-coders/sylius-sizechart-plugin](https://github.com/mad-coders/sylius-sizechart-plugin)  - _Size chart plugin for Sylius ecommerce platform._
-* [symfony-tools/recipes-checker](https://github.com/symfony-tools/recipes-checker) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
