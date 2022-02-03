@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1523726491678-bf852e717f6a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NDM4OTE3NDY&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1510070009289-b5bc34383727?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NDM5MTI3OTQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1547371026-a3952b80acb5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NDM4OTE3NDc&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1521790361543-f645cf042ec4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NDM5MTI3OTY&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,9 +55,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[SyliusSearchPlugin] Add a way to prefix index names with var env](https://github.com/monsieurbiz/SyliusSearchPlugin/pull/97) - _OPEN_
 * [[SyliusResourceBundle] Remove resource when redirect on delete](https://github.com/Sylius/SyliusResourceBundle/pull/364) - _OPEN_
 * [[Sylius] [UX][Attribute] Use single_text widget for Date&amp;DateTime attribute form type](https://github.com/Sylius/Sylius/pull/13163) - _OPEN_
-* [[phpinsights] Fix #517 by always loading CodeSniffer tokens](https://github.com/nunomaduro/phpinsights/pull/542) - _OPEN_
 
 **🌟 Latest Stars**:
 
