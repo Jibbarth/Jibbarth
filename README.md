@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1536329583941-14287ec6fc4e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NDQyMzc1NzY&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1519074002996-a69e7ac46a42?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NDQyNTg5Njk&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1598316560453-0246d4611979?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NDQyMzc1Nzc&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NDQyNTg5NzE&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [jakzal/phpunit-injector](https://github.com/jakzal/phpunit-injector)  - _Injects services from a PSR-11 dependency injection container to PHPUnit test cases_
 * [JBDevLabs/SyliusCliContextPlugin](https://github.com/JBDevLabs/SyliusCliContextPlugin)  - _Sylius plugin to define a command cli context (ChannelContext)_
 * [chr-hertel/console-example](https://github.com/chr-hertel/console-example)  - _Example Application for Talk &quot;Better Console Applications&quot;_
 * [seregazhuk/php-watcher](https://github.com/seregazhuk/php-watcher)  - _Monitor for any changes in your php application and automatically restart it (suitable for async apps)._
 * [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) 
-* [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn)  - _Create On Demand Disposable OpenVPN Endpoints on AWS._
 
 <details>
 <summary> Want to see my github stats ? </summary>
