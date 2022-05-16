@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1475669698648-2f144fcaaeb1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NTI0NjY2Nzg&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NTI2NjYyMTk&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NTI0NjY2Nzk&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NTI2NjYyMjA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [uunicorn/python-validity](https://github.com/uunicorn/python-validity)  - _Validity fingerprint sensor prototype_
 * [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd)  - _An example of hexagonal API Platform 3 implementation_
 * [coollabsio/coolify](https://github.com/coollabsio/coolify)  - _An open-source &amp; self-hostable Heroku / Netlify alternative._
 * [halaxa/json-machine](https://github.com/halaxa/json-machine)  - _Efficient, easy-to-use, and fast PHP JSON stream parser_
 * [jakzal/phpunit-injector](https://github.com/jakzal/phpunit-injector)  - _Injects services from a PSR-11 dependency injection container to PHPUnit test cases_
-* [JBDevLabs/SyliusCliContextPlugin](https://github.com/JBDevLabs/SyliusCliContextPlugin)  - _Sylius plugin to define a command cli context (ChannelContext)_
 
 <details>
 <summary> Want to see my github stats ? </summary>
