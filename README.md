@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1576595580361-90a855b84b20?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NTMzOTY2NjY&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1609189184127-04652523de91?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NTM0MTcxNDc&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NTMzOTY2Njc&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1648724561485-dbe5ddf5af2b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NTM0MTcxNDk&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Happyr/service-mocking](https://github.com/Happyr/service-mocking)  - _Easy mock Symfony services for testing_
 * [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)  - _An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers._
 * [uunicorn/python-validity](https://github.com/uunicorn/python-validity)  - _Validity fingerprint sensor prototype_
 * [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd)  - _An example of hexagonal API Platform 3 implementation_
 * [coollabsio/coolify](https://github.com/coollabsio/coolify)  - _An open-source &amp; self-hostable Heroku / Netlify alternative._
-* [halaxa/json-machine](https://github.com/halaxa/json-machine)  - _Efficient, easy-to-use, and fast PHP JSON stream parser_
 
 <details>
 <summary> Want to see my github stats ? </summary>
