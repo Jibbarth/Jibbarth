@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1509343256512-d77a5cb3791b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NTg0OTQyNzY&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1613666384751-b2701f8a55c9?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NTg1MTQ3NDA&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1656508009752-65f22bf7674d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NTg0OTQyNzg&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1516886635086-2b3c423c0947?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NTg1MTQ3NDE&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -62,7 +62,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 **🌟 Latest Stars**:
 
 * [VerbalExpressions/PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions)  - _PHP Regular expressions made easy_
-* [T-Regx/T-Regx](https://github.com/T-Regx/T-Regx)  - _#StandWithUkraine PHP regular expression brought up to modern standards._
+* [T-Regx/T-Regx](https://github.com/T-Regx/T-Regx)  - _PHP regular expression brought up to modern standards._
 * [cerbero90/enum](https://github.com/cerbero90/enum)  - _🎲 Zero-dependencies PHP library to supercharge enum functionalities._
 * [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok)  - _Open source alternative frontend for TikTok made using PHP_
 * [photoprism/photoprism](https://github.com/photoprism/photoprism)  - _AI-Powered Photos App for the Decentralized Web 🌈💎✨_
