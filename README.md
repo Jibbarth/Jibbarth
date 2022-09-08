@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1650954934741-3a648866a897?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NjI2MTk5NzM&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1416339442236-8ceb164046f8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NjI2NDE0NjQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1545112969-bdd91ef544c7?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NjI2MTk5NzY&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1653385639179-52a75837d196?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NjI2NDE0NjQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [headwaymaps/headway](https://github.com/headwaymaps/headway)  - _Self-hostable maps stack, powered by OpenStreetMap._
 * [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee)  - _A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos._
 * [pheature-flags/pheature-flags](https://github.com/pheature-flags/pheature-flags)  - _Pheature flags main repository_
 * [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)  - _Fast subdomains enumeration tool for penetration testers_
 * [moyix/fauxpilot](https://github.com/moyix/fauxpilot)  - _FauxPilot - an open-source GitHub Copilot server_
-* [Sylius/SyliusRecipes](https://github.com/Sylius/SyliusRecipes) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
