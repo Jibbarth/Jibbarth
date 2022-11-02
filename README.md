@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1653971858625-9cb23d0dca80?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NjczOTM5OTU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1501127122-f385ca6ddd9d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2Njc0MTQwMjE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1659696928555-11a2769a4644?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NjczOTM5OTU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1631376604263-5d803038b389?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2Njc0MTQwMjI&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [emr-dev/sf-bug-bundle](https://github.com/emr-dev/sf-bug-bundle)  - _Package for share symfony profiler pages_
 * [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli)  - _Share terminal sessions via SVG and CSS_
 * [soheilpro/mailwind](https://github.com/soheilpro/mailwind)  - _Use Tailwind CSS to design HTML emails._
 * [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)  - _This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a &quot;dream bot&quot; style interface, and multiple features and other enhancements. For more info, see the website link below._
 * [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)  - _A collaboration friendly studio for NeRFs_
-* [web-auth/ux](https://github.com/web-auth/ux)  - _[READ ONLY] Stimulus component for easy integration_
 
 <details>
 <summary> Want to see my github stats ? </summary>
