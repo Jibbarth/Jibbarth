@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1416339442236-8ceb164046f8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2Njc4ODkyMzQ&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1613297851529-3e292363149d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2Njc5MTIxNjE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2Njc4ODkyMzU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1608452964553-9b4d97b2752f?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2Njc5MTIxNjM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)  - _A simple notebook demonstrating prompt-based music generation via Mubert API_
 * [qossmic/deptrac](https://github.com/qossmic/deptrac)  - _Keep your architecture clean._
 * [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper)  - _A universal web-util for PHP_
 * [emr-dev/sf-bug-bundle](https://github.com/emr-dev/sf-bug-bundle)  - _Package for share symfony profiler pages_
 * [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli)  - _Share terminal sessions via SVG and CSS_
-* [soheilpro/mailwind](https://github.com/soheilpro/mailwind)  - _Use Tailwind CSS to design HTML emails._
 
 <details>
 <summary> Want to see my github stats ? </summary>
