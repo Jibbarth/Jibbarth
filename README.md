@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1533090161767-e6ffed986c88?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzA2MTAzODE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1525909002-1b05e0c869d8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzA4MDk3MTI&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1518933165971-611dbc9c412d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzA2MTAzODI&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1601342632507-e1a73c674fa6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzA4MDk3MTM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  - _This repo includes ChatGPT promt curation to use ChatGPT better._
 * [heiglandreas/holidayChecker](https://github.com/heiglandreas/holidayChecker)  - _Check for holidays - locale-aware_
 * [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)  - _A simple notebook demonstrating prompt-based music generation via Mubert API_
 * [qossmic/deptrac](https://github.com/qossmic/deptrac)  - _Keep your architecture clean._
 * [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper)  - _A universal web-util for PHP._
-* [emr-dev/sf-bug-bundle](https://github.com/emr-dev/sf-bug-bundle)  - _Package for share symfony profiler pages_
 
 <details>
 <summary> Want to see my github stats ? </summary>
