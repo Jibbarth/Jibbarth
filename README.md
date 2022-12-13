@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1558655146-d09347e92766?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzA5MTI4ODE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1585421926133-8a3123b6d93c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzA5MzUyMjU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1521383899078-1c7c03c76b59?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzA5MTI4ODI&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1514996937319-344454492b37?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzA5MzUyMjY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [spinbits/sylius-google-analytics-plugin](https://github.com/spinbits/sylius-google-analytics-plugin)  - _Sylius ecommerce plugin for support Google Analytics 4, using gtag._
+* [theofidry/cpu-core-counter](https://github.com/theofidry/cpu-core-counter) 
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  - _This repo includes ChatGPT promt curation to use ChatGPT better._
 * [heiglandreas/holidayChecker](https://github.com/heiglandreas/holidayChecker)  - _Check for holidays - locale-aware_
 * [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)  - _A simple notebook demonstrating prompt-based music generation via Mubert API_
-* [qossmic/deptrac](https://github.com/qossmic/deptrac)  - _Keep your architecture clean._
-* [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper)  - _A universal web-util for PHP._
 
 <details>
 <summary> Want to see my github stats ? </summary>
