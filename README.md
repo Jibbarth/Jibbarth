@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1519074002996-a69e7ac46a42?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzQ1NjQwNjA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1653974123689-4eefaa73945d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzQ1ODQ3Mzk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1524135329990-07660cd5bf10?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzQ1NjQwNjk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1521383899078-1c7c03c76b59?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzQ1ODQ3Mzk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index)  - _A curated index to track AI-powered products._
+* [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)  - _Port of OpenAI&#039;s Whisper model in C/C++_
+* [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)  - _🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data._
+* [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) 
 * [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework)  - _FIDO-U2F / FIDO2 / Webauthn Framework_
-* [ranky/media-bundle](https://github.com/ranky/media-bundle)  - _MediaBundle is a media file manager bundle for Symfony with a REST API and an admin interface (React)_
-* [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos)  - _Restoring old and blurry face photos with AI._
-* [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)  - _Curated list of awesome resources for the Stable Diffusion AI Model._
-* [upscayl/upscayl](https://github.com/upscayl/upscayl)  - _🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy._
 
 <details>
 <summary> Want to see my github stats ? </summary>
