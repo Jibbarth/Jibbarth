@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1653974123689-4eefaa73945d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzQ1ODQ3Mzk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzQ2MTA5MjU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1521383899078-1c7c03c76b59?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzQ1ODQ3Mzk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1603791452906-af1740e171bc?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzQ2MTA5MjU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [parsica-php/parsica](https://github.com/parsica-php/parsica)  - _Parsica - PHP Parser Combinators - The easiest way to build robust parsers._
 * [dair-ai/AI-Product-Index](https://github.com/dair-ai/AI-Product-Index)  - _A curated index to track AI-powered products._
 * [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)  - _Port of OpenAI&#039;s Whisper model in C/C++_
 * [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)  - _🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data._
 * [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) 
-* [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework)  - _FIDO-U2F / FIDO2 / Webauthn Framework_
 
 <details>
 <summary> Want to see my github stats ? </summary>
