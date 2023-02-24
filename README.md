@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzcyMjAwOTY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1461344577544-4e5dc9487184?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzcyNDI0NzA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1550438496-8c6e269e7886?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzcyMjAwOTY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1516886635086-2b3c423c0947?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzcyNDI0NzE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [fkunn1326/openpose-editor](https://github.com/fkunn1326/openpose-editor)  - _Openpose Editor for AUTOMATIC1111&#039;s stable-diffusion-webui_
 * [php-vcr/php-vcr](https://github.com/php-vcr/php-vcr)  - _Record your test suite&#039;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests._
 * [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)  - _Let us control diffusion models_
 * [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map)  - _Visualise a git repository by diff activity_
 * [replicate/paint-by-text](https://github.com/replicate/paint-by-text)  - _A microsite for InstructPix2Pix_
-* [eddiechu/File-Smuggling](https://github.com/eddiechu/File-Smuggling)  - _HTML smuggling is not an evil, it can be useful_
 
 <details>
 <summary> Want to see my github stats ? </summary>
