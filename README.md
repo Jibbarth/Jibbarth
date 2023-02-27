@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1599837487527-e009248aa71b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2NzcyNjMyMzA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2Nzc0NjI2MjM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1496200186974-4293800e2c20?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2NzcyNjMyMzI&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2Nzc0NjI2MjU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -63,7 +63,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 * [fkunn1326/openpose-editor](https://github.com/fkunn1326/openpose-editor)  - _Openpose Editor for AUTOMATIC1111&#039;s stable-diffusion-webui_
 * [php-vcr/php-vcr](https://github.com/php-vcr/php-vcr)  - _Record your test suite&#039;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests._
-* [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)  - _Let us control diffusion models_
+* [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)  - _Let us control diffusion models!_
 * [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map)  - _Visualise a git repository by diff activity_
 * [replicate/paint-by-text](https://github.com/replicate/paint-by-text)  - _A microsite for InstructPix2Pix_
 
