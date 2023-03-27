@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1613297851529-3e292363149d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2Nzk2ODIzMzE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1613666384751-b2701f8a55c9?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2Nzk4ODA5NzI&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2Nzk2ODIzMzM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1553272725-086100aecf5e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2Nzk4ODA5NzQ&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [nsarrazin/serge](https://github.com/nsarrazin/serge)  - _A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API._
 * [iptv-org/iptv](https://github.com/iptv-org/iptv)  - _Collection of publicly available IPTV channels from all over the world_
 * [TomasVotruba/type-coverage](https://github.com/TomasVotruba/type-coverage)  - _PHPStan extension to require minimal type-coverage_
 * [immich-app/immich](https://github.com/immich-app/immich)  - _Self-hosted photo and video backup solution directly from your mobile phone._
 * [fkunn1326/openpose-editor](https://github.com/fkunn1326/openpose-editor)  - _Openpose Editor for AUTOMATIC1111&#039;s stable-diffusion-webui_
-* [php-vcr/php-vcr](https://github.com/php-vcr/php-vcr)  - _Record your test suite&#039;s HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests._
 
 <details>
 <summary> Want to see my github stats ? </summary>
