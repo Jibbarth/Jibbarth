@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1487088678257-3a541e6e3922?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODEzNjcwNTk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1494475673543-6a6a27143fc8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODEzODk1NzU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1656508009752-65f22bf7674d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODEzNjcwNjA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODEzODk1NzY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy)  - _Magic Copy is a Chrome extension that uses Meta&#039;s Segment Anything Model to extract a foreground object from an image and copy it to the clipboard._
+* [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)  - _Checklist of the most important security countermeasures when designing, testing, and releasing your API_
 * [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)  - _One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️_
 * [coryetzkorn/twitter-algorithm](https://github.com/coryetzkorn/twitter-algorithm)  - _The official Twitter ranking algorithm_
 * [MarioBlazek/road-to-symfony-certification](https://github.com/MarioBlazek/road-to-symfony-certification)  - _Repository dedicated to help you with the Symfony certification exam._
-* [nsarrazin/serge](https://github.com/nsarrazin/serge)  - _A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API._
-* [iptv-org/iptv](https://github.com/iptv-org/iptv)  - _Collection of publicly available IPTV channels from all over the world_
 
 <details>
 <summary> Want to see my github stats ? </summary>
