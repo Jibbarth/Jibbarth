@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1554168144-6e3acf601113?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODE0NzU3ODI&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1489389944381-3471b5b30f04?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODE0OTY2MDQ&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODE0NzU3ODQ&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1591375275293-710d9b053a0d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODE0OTY2MDY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [alexschachne/leap-ai-avatars](https://github.com/alexschachne/leap-ai-avatars) 
 * [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)  - _An even simpler way to run Alpaca_
 * [anuragxel/salt](https://github.com/anuragxel/salt)  - _Segment Anything Labelling Tool_
 * [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy)  - _Magic Copy is a Chrome extension that uses Meta&#039;s Segment Anything Model to extract a foreground object from an image and copy it to the clipboard._
 * [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)  - _Checklist of the most important security countermeasures when designing, testing, and releasing your API_
-* [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet)  - _One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️_
 
 <details>
 <summary> Want to see my github stats ? </summary>
