@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1533090161767-e6ffed986c88?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODE4ODU1MzY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1574790398664-0cb03682ed1c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODE5MDc4MjU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1583142305729-5cb119ce5d3e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODE4ODU1Mzc&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1573496529574-be85d6a60704?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODE5MDc4MjY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)  - _The PHP Unit Testing framework._
 * [alexschachne/leap-ai-avatars](https://github.com/alexschachne/leap-ai-avatars) 
 * [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)  - _An even simpler way to run Alpaca_
 * [anuragxel/salt](https://github.com/anuragxel/salt)  - _Segment Anything Labelling Tool_
 * [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy)  - _Magic Copy is a Chrome extension that uses Meta&#039;s Segment Anything Model to extract a foreground object from an image and copy it to the clipboard._
-* [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)  - _Checklist of the most important security countermeasures when designing, testing, and releasing your API_
 
 <details>
 <summary> Want to see my github stats ? </summary>
