@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODI3MDYxODE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1455849318743-b2233052fcff?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODI5MDUxNDM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODI3MDYxODU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1675495277087-10598bf7bcd1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODI5MDUxNDM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -64,7 +64,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 * [tales-from-a-dev/flowbite-bundle](https://github.com/tales-from-a-dev/flowbite-bundle)  - _🎨 A Symfony form theme for Flowbite_
 * [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)  - _The PHP Unit Testing framework._
 * [alexschachne/leap-ai-avatars](https://github.com/alexschachne/leap-ai-avatars) 
-* [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)  - _An even simpler way to run Alpaca_
+* [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)  - _The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer_
 * [anuragxel/salt](https://github.com/anuragxel/salt)  - _Segment Anything Labelling Tool_
 
 <details>
