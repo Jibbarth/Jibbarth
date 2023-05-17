@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1653971858526-97f2ba1914c4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODQzMDQ2NTc&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1507120410856-1f35574c3b45?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODQzMjY5OTg&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1667372531881-6f975b1c86db?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODQzMDQ2NTc&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODQzMjY5OTk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [bmericskay/Explore-Google-Location-Historic](https://github.com/bmericskay/Explore-Google-Location-Historic) 
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat)  - _An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5._
 * [tales-from-a-dev/flowbite-bundle](https://github.com/tales-from-a-dev/flowbite-bundle)  - _🎨 A Symfony form theme for Flowbite_
 * [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)  - _The PHP Unit Testing framework._
 * [alexschachne/leap-ai-avatars](https://github.com/alexschachne/leap-ai-avatars) 
-* [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)  - _The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer_
 
 <details>
 <summary> Want to see my github stats ? </summary>
