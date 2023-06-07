@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODYxMTkwNzU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODYxNDE1MjE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODYxMTkwNzY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1529078155058-5d716f45d604?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODYxNDE1MjM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)  - _Enable everyone to develop, optimize and deploy AI models natively on everyone&#039;s devices._
 * [jolicode/castor](https://github.com/jolicode/castor)  - _🦫 DX oriented task runner and command launcher built with PHP._
 * [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) 
 * [bmericskay/Explore-Google-Location-Historic](https://github.com/bmericskay/Explore-Google-Location-Historic) 
 * [lm-sys/FastChat](https://github.com/lm-sys/FastChat)  - _An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5._
-* [tales-from-a-dev/flowbite-bundle](https://github.com/tales-from-a-dev/flowbite-bundle)  - _🎨 A Symfony form theme for Flowbite_
 
 <details>
 <summary> Want to see my github stats ? </summary>
