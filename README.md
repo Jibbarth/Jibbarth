@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)  - _Delightful Tailwind Support for Symfony + AssetMapper_
 * [vikas5914/google-photos-backup](https://github.com/vikas5914/google-photos-backup)  - _Backup photos from Google Photos using Playwright._
 * [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)  - _OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use._
 * [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)  - _Enable everyone to develop, optimize and deploy AI models natively on everyone&#039;s devices._
 * [jolicode/castor](https://github.com/jolicode/castor)  - _🦫 DX oriented task runner and command launcher built with PHP._
-* [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
