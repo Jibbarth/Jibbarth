@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1565538810643-b5bdb714032a?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODkxNDMyNTA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2ODkxNjU4Njg&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODkxNDMyNTE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1543269664-76bc3997d9ea?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2ODkxNjU4Njk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [mderoullers/awesome-veille-tech-fr](https://github.com/mderoullers/awesome-veille-tech-fr)  - _Pour aider les tech français à faire leur veille_
 * [Drenso/symfony-oidc](https://github.com/Drenso/symfony-oidc)  - _This project contains the Symfony OIDC bundle, which is directly based on https://github.com/jumbojett/OpenID-Connect-PHP_
 * [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)  - _Delightful Tailwind Support for Symfony + AssetMapper_
 * [vikas5914/google-photos-backup](https://github.com/vikas5914/google-photos-backup)  - _Backup photos from Google Photos using Playwright._
 * [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)  - _OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use._
-* [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)  - _Enable everyone to develop, optimize and deploy AI models natively on everyone&#039;s devices._
 
 <details>
 <summary> Want to see my github stats ? </summary>
