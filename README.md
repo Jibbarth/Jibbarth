@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1576595580361-90a855b84b20?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2OTA0MjExMDU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1653974124164-a7addbad7678?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2OTA0MzkwMzA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1533906966484-a9c978a3f090?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2OTA0MjExMDY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1496200186974-4293800e2c20?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2OTA0MzkwMzE&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [MTES-MCT/dossierfacile-backend](https://github.com/MTES-MCT/dossierfacile-backend) 
 * [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners)  - _Spinners for use in the terminal_
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  - _A list of Free Software network services and web applications which can be hosted on your own servers_
 * [mderoullers/awesome-veille-tech-fr](https://github.com/mderoullers/awesome-veille-tech-fr)  - _Pour aider les tech français à faire leur veille_
 * [Drenso/symfony-oidc](https://github.com/Drenso/symfony-oidc)  - _This project contains the Symfony OIDC bundle, which is directly based on https://github.com/jumbojett/OpenID-Connect-PHP_
-* [SymfonyCasts/tailwind-bundle](https://github.com/SymfonyCasts/tailwind-bundle)  - _Delightful Tailwind Support for Symfony + AssetMapper_
 
 <details>
 <summary> Want to see my github stats ? </summary>
