@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2OTgxMjg1MDc&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1501556466850-7c9fa1fccb4c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2OTgxNTA2NTY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1507209696998-3c532be9b2b5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2OTgxMjg1MDc&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2OTgxNTA2NTc&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -65,7 +65,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)  - _🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker_
 * [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant)  - _LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex_
 * [6dreams/doctrine-bulk](https://github.com/6dreams/doctrine-bulk)  - _Bulk Insert classes for doctrine_
-* [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit)  - _A simple testing library for bash scripts._
+* [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit)  - _Test your bash scripts in the fastest and simplest way, discover the most modern bash testing framework._
 
 <details>
 <summary> Want to see my github stats ? </summary>
