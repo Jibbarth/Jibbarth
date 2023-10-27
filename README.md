@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1631376604914-572212a3ede5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2OTgzODc2ODI&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1628258334105-2a0b3d6efee1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE2OTg0MDk4MDU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1634983969492-67d3caca1c3b?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2OTgzODc2ODM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1556155092-8707de31f9c4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE2OTg0MDk4MDc&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools)  - _Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website_
 * [angristan/wireguard-install](https://github.com/angristan/wireguard-install)  - _WireGuard VPN installer for Linux servers_
 * [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)  - _CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system._
 * [Kreyu/data-table-bundle](https://github.com/Kreyu/data-table-bundle)  - _Streamlines creation process of the data tables in Symfony applications._
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)  - _🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker_
-* [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant)  - _LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex_
 
 <details>
 <summary> Want to see my github stats ? </summary>
