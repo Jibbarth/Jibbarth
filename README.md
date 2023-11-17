@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1416339442236-8ceb164046f8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE3MDAyMjQyODU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1472289065668-ce650ac443d2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE3MDAyNDUyODM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1598316560453-0246d4611979?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE3MDAyMjQyODY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1522071740424-8b337d0dfa93?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE3MDAyNDUyODU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [m2mtech/weblate-translation-provider](https://github.com/m2mtech/weblate-translation-provider)  - _Weblate translation provider for Symfony Translation._
 * [vemonet/EmojiMart](https://github.com/vemonet/EmojiMart)  - _🏪 Modern emoji picker popup for desktop, based on Emoji Mart, built with Tauri and Svelte_
 * [php-tui/php-tui](https://github.com/php-tui/php-tui)  - _PHP TUI_
 * [free-explorers/veshell](https://github.com/free-explorers/veshell)  - _Veshell is a Wayland compositor providing an innovative workflow that utilizes humans natural spatial cognition to enhance navigation and organization in the digital environment._
 * [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd)  - _perfect programming language_
-* [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire)  - _A modular and extensible wayland compositor_
 
 <details>
 <summary> Want to see my github stats ? </summary>
