@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE3MDE0MzM5MDU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE3MDE0NTQ4NjM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1520509414578-d9cbf09933a1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE3MDE0MzM5MDY&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE3MDE0NTQ4NjM&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -56,16 +56,16 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 **👨‍💻 Latest Pull Requests**:
 
 * [[Sylius] [Checkout] Prevent extra fields when login in on addressing page](https://github.com/Sylius/Sylius/pull/15435) - _OPEN_
-* [[Sylius] [DOC] Fix display link in authorize page](https://github.com/Sylius/Sylius/pull/15565) - _OPEN_
 * [[ux] [StimulusBundle] Remove stimulus.asset_mapper.loader_javascript_compiler when no asset-mapper](https://github.com/symfony/ux/pull/1319) - _OPEN_
+* [[Sylius] [UX][Shop] Redirect to dashboard a logged-in user who reach register page](https://github.com/Sylius/Sylius/pull/15418) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer)  - _PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards._
 * [WebMamba/SymfonyStarterKit](https://github.com/WebMamba/SymfonyStarterKit)  - _A Symfony starter kit to start with a basic app_
 * [workos/authkit](https://github.com/workos/authkit)  - _The world&#039;s best login box powered by WorkOS and Radix._
 * [php-tui/term](https://github.com/php-tui/term)  - _low-level terminal manipulation library for PHP_
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  - _A fancy self-hosted monitoring tool_
-* [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web)  - _A free and open-source inpainting tool powered by webgpu and wasm on the browser._
 
 <details>
 <summary> Want to see my github stats ? </summary>
