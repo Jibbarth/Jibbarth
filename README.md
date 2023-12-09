@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1650954935872-d66bbef89989?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE3MDIwNTk2Njg&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1525498128493-380d1990a112?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE3MDIxMjIyODA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1527254059249-f52d831cbff1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE3MDIwNTk2NzA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1508830524289-0adcbe822b40?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE3MDIxMjIyODA&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -50,13 +50,13 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🗞 Latest blogpost**:
 
+* [[Sylius] Get ready to add a behat feature that use javascript](https://jibébarth.fr/gist/727a6220c00ce807aec8bb4d2749747a)
 * [[PHP-CS-Fixer] Configure any rule with except paths](https://jibébarth.fr/post/configure-any-phpcsfixer-rule-with-except-paths)
-* [How to build a shareable Symfony App](https://jibébarth.fr/post/build-shareable-symfony-app)
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[symfony] [Translation] Allow to add bundles translations path in commands](https://github.com/symfony/symfony/pull/52456) - _OPEN_
 * [[Sylius] [Checkout] Prevent extra fields when login in on addressing page](https://github.com/Sylius/Sylius/pull/15435) - _OPEN_
+* [[symfony] [Translation] Allow to add bundles translations path in commands](https://github.com/symfony/symfony/pull/52456) - _OPEN_
 * [[Sylius] [UX][Shop] Redirect to dashboard a logged-in user who reach register page](https://github.com/Sylius/Sylius/pull/15418) - _OPEN_
 
 **🌟 Latest Stars**:
