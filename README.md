@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1468421870903-4df1664ac249?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE3MDQxOTg2MzQ&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGVyLGRlc2lnbnx8fHx8fDE3MDQyMTk2Njg&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1561250056-32d1988f5157?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE3MDQxOTg2MzU&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1623520333087-62b8793e3d23?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm9ncmFtbWluZ3x8fHx8fDE3MDQyMTk2Njk&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)  - _Instant voice cloning by MyShell. Join our Discord community https://discord.gg/myshell and select the Developer role upon joining to gain exclusive access to our developer-only channel! Don&#039;t miss out on valuable discussions and collaboration opportunities._
+* [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  - _🎧 Open source Spotify client that doesn&#039;t require Premium nor uses Electron! Available for both desktop &amp; mobile!_
 * [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)  - _Experimental Nintendo Switch Emulator written in C#_
 * [movie-web/movie-web](https://github.com/movie-web/movie-web)  - _A small web app for watching movies and shows easily_
 * [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by)  - _Todo comments with expiration_
-* [opentelemetry-php/contrib-auto-symfony](https://github.com/opentelemetry-php/contrib-auto-symfony)  - _[READONLY] Symfony auto-instrumentation_
-* [AlmosniShirley/JobsBuildRH](https://github.com/AlmosniShirley/JobsBuildRH)  - _Annonces Build RH_
 
 <details>
 <summary> Want to see my github stats ? </summary>
