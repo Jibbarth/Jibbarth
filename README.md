@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzA1NTU4NDUx&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1623520333087-62b8793e3d23?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzA1NTgwMjg0&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzA1NTU4NDUz&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzA1NTgwMjg5&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)  - _PhotoMaker_
 * [tkashkin/GameHub](https://github.com/tkashkin/GameHub)  - _All your games in one place_
 * [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)  - _Instant voice cloning by MyShell._
 * [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  - _🎧 Open source Spotify client that doesn&#039;t require Premium nor uses Electron! Available for both desktop &amp; mobile!_
 * [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)  - _Experimental Nintendo Switch Emulator written in C#_
-* [movie-web/movie-web](https://github.com/movie-web/movie-web)  - _A small web app for watching movies and shows easily_
 
 <details>
 <summary> Want to see my github stats ? </summary>
