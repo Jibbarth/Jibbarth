@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1610576661792-72db77be0900?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzA2NTA4NzY0&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1529078155058-5d716f45d604?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzA2NTMwNTk2&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1592919933511-ea9d487c85e4?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzA2NTA4NzY2&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1485115905815-74a5c9fda2f5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzA2NTMwNTk3&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)  - _Script to get your site indexed on Google in less than 48 hours_
 * [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio)  - _AI Browser_
 * [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)  - _PhotoMaker_
 * [tkashkin/GameHub](https://github.com/tkashkin/GameHub)  - _All your games in one place_
 * [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)  - _Instant voice cloning by MyShell._
-* [KRTirtho/spotube](https://github.com/KRTirtho/spotube)  - _🎧 Open source Spotify client that doesn&#039;t require Premium nor uses Electron! Available for both desktop &amp; mobile!_
 
 <details>
 <summary> Want to see my github stats ? </summary>
