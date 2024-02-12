@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzA3NTAyMzEz&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzA3Njk4NDUy&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzA3NTAyMzEz&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1585236616251-9fd0f67b0000?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzA3Njk4NDU0&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,17 +55,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[Sylius] [UX] Allow to redirect logged-in user on any routes and add a redirection for registration page](https://github.com/Sylius/Sylius/pull/15418) - _OPEN_
 * [[Sylius-Standard] [UI] Remove default override of _payment to allow using ui event](https://github.com/Sylius/Sylius-Standard/pull/912) - _OPEN_
 * [[symfony] [Translation] Allow to add bundles translations path in commands](https://github.com/symfony/symfony/pull/52456) - _OPEN_
-* [[Sylius] [DX][Checkout][ShippingMethod] Dispatch new ui events](https://github.com/Sylius/Sylius/pull/15417) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [tummychow/git-absorb](https://github.com/tummychow/git-absorb)  - _git commit --fixup, but automatic_
 * [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum)  - _Home Assistant integration for Dreame robot vacuums with map support_
 * [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle)  - _a set of Symfony Console Commands to interact with your database_
 * [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy)  - _Install and run GNU/Linux on Android_
 * [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa)  - _PHP library for generating a full featured PWA manifest_
-* [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)  - _The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools._
 
 <details>
 <summary> Want to see my github stats ? </summary>
