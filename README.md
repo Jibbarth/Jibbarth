@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1489506020498-e6c1cc350f10?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzA3NzE4MzY5&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1667372393138-3a5dc3ba517d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzA3NzQwMTgw&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1527254059249-f52d831cbff1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzA3NzE4MzY5&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1654593114209-d915f46be333?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzA3NzQwMTgx&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -63,7 +63,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 * [tummychow/git-absorb](https://github.com/tummychow/git-absorb)  - _git commit --fixup, but automatic_
 * [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum)  - _Home Assistant integration for Dreame robot vacuums with map support_
-* [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle)  - _a set of Symfony Console Commands to interact with your database_
+* [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle)  - _a Symfony bundle to backup, restore and anonymize your data_
 * [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy)  - _Install and run GNU/Linux on Android_
 * [Spomky-Labs/phpwa](https://github.com/Spomky-Labs/phpwa)  - _PHP library for generating a full featured PWA manifest_
 
