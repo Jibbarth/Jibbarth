@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1657537272240-4af01beb5c79?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzEyODE2MDE0&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1631378297854-185cff6b0986?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzEyODM3ODA5&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1601342550031-d6df73676153?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzEyODE2MDE1&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzEyODM3ODEx&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [symfony/ux](https://github.com/symfony/ux)  - _Symfony UX initiative: a JavaScript ecosystem for Symfony_
+* [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle)  - _Batteries included UI to monitor your Messenger workers, transports, schedules, and messages._
 * [CommerceWeavers/SyliusAlsoBoughtPlugin](https://github.com/CommerceWeavers/SyliusAlsoBoughtPlugin)  - _This plugin adds a new section to the product page, which displays products that were also bought by other customers._
 * [dockur/windows](https://github.com/dockur/windows)  - _Windows in a Docker container._
 * [Y2Z/monolith](https://github.com/Y2Z/monolith)  - _⬛️ CLI tool for saving complete web pages as a single HTML file_
-* [vtsykun/packeton](https://github.com/vtsykun/packeton)  - _:package: Private, self-hosted Packagist/Composer/Satis repository with unlimited private repos._
-* [acon96/home-llm](https://github.com/acon96/home-llm)  - _A Home Assistant integration that allows you to control your house using an LLM running locally_
 
 <details>
 <summary> Want to see my github stats ? </summary>
