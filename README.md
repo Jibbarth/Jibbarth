@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1526374870839-e155464bb9b2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzEzODc0Njkw&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1542831371-d531d36971e6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzEzODk1OTU2&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1548092372-6fa982d00458?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzEzODc0Njky&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1569350691771-34ce8273f865?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzEzODk1OTU4&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [getparthenon/parthenon](https://github.com/getparthenon/parthenon)  - _The Symfony SaaS boilerplate_
 * [8lines/SyliusNotificationPlugin](https://github.com/8lines/SyliusNotificationPlugin)  - _Listen on events produced by Sylius and make custom notification rules_
 * [symfony/ux](https://github.com/symfony/ux)  - _Symfony UX initiative: a JavaScript ecosystem for Symfony_
 * [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle)  - _Batteries included UI to monitor your Messenger workers, transports, schedules, and messages._
 * [CommerceWeavers/SyliusAlsoBoughtPlugin](https://github.com/CommerceWeavers/SyliusAlsoBoughtPlugin)  - _This plugin adds a new section to the product page, which displays products that were also bought by other customers._
-* [dockur/windows](https://github.com/dockur/windows)  - _Windows in a Docker container._
 
 <details>
 <summary> Want to see my github stats ? </summary>
