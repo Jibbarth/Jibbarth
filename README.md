@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1547421619-a4c9ed0f9fc3?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzEzOTYxMTk2&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1600080404522-0d188a6a7971?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzEzOTgyMzM2&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -25,7 +25,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1606856526397-3cd3ca4fc533?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzEzOTYxMTk4&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1586953208270-767889fa9b0e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzEzOTgyMzM3&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -61,11 +61,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  - _Customize your git commit hashes!_
+* [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard)  - _A simple dashboard with weather and NYC subway information for ESPHome_
 * [siburuxue/doctrine-helper](https://github.com/siburuxue/doctrine-helper)  - _instead of `php bin/console doctrine:mapping:import App\\Entity attribute --path=src/Entity_
 * [getparthenon/parthenon](https://github.com/getparthenon/parthenon)  - _The Symfony SaaS boilerplate_
 * [8lines/SyliusNotificationPlugin](https://github.com/8lines/SyliusNotificationPlugin)  - _Listen on events produced by Sylius and make custom notification rules_
-* [symfony/ux](https://github.com/symfony/ux)  - _Symfony UX initiative: a JavaScript ecosystem for Symfony_
-* [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle)  - _Batteries included UI to monitor your Messenger workers, transports, schedules, and messages._
 
 <details>
 <summary> Want to see my github stats ? </summary>
