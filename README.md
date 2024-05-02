@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE0NjUyMjU3&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1558843196-6a1ed3250d80?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE0NjczNTM2&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1601342550031-d6df73676153?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE0NjUyMjU5&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1507209696998-3c532be9b2b5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE0NjczNTM3&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
-* [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos)  - _ロゴを可愛く作ろう　節度を持って利用してくださいね🫠_
 * [openeuropa/composer-artifacts](https://github.com/openeuropa/composer-artifacts)  - _Composer plugin that allows to download a specified artifact instead of the project source._
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)  - _SmartTube - an advanced player for set-top boxes and tvs running Android OS_
 * [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  - _Customize your git commit hashes!_
 * [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard)  - _A simple dashboard with weather and NYC subway information for ESPHome_
+* [siburuxue/doctrine-helper](https://github.com/siburuxue/doctrine-helper)  - _instead of `php bin/console doctrine:mapping:import App\\Entity attribute --path=src/Entity_
 
 <details>
 <summary> Want to see my github stats ? </summary>
