@@ -1,11 +1,11 @@
-![banner image](https://images.unsplash.com/photo-1541728472741-03e45a58cf88?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE0ODM5MDg3&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1622050756792-5b1180bbb873?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE0ODM5NzQ3&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
-<p align="center"><a href="https://jibébarth.fr" title="Personal website"><img alt="rss" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/rss-solid-100.svg" /></a>
-&nbsp;&nbsp;<a href="https://twitter.com/jibbarth" title="Twitter"><img alt="twitter" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/twitter-brands-100.svg" /></a>
-&nbsp;&nbsp;<a href="https://linkedin.com/in/jibébarth" title="Linkedin"><img alt="linkedin" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/linkedin-brands-100.svg" /></a>
-&nbsp;&nbsp;<a href="https://connect.symfony.com/profile/jibbarth" title="Symfony"><img alt="symfony" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/symfony-brands-100.svg" /></a></p>
+<p align="center"><a href="https://jibébarth.fr" title="Personal website"><img alt="rss" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/rss-solid.svg" /></a>
+&nbsp;&nbsp;<a href="https://twitter.com/jibbarth" title="Twitter"><img alt="twitter" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/twitter-brands.svg" /></a>
+&nbsp;&nbsp;<a href="https://linkedin.com/in/jibébarth" title="Linkedin"><img alt="linkedin" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/linkedin-brands.svg" /></a>
+&nbsp;&nbsp;<a href="https://connect.symfony.com/profile/jibbarth" title="Symfony"><img alt="symfony" width="15px" src="https://raw.githubusercontent.com/Jibbarth/jibbarth.github.io/master/img/fa/symfony-brands.svg" /></a></p>
 
 I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644308414850-893551d6d4c3?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE0ODM5MDkw&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1603539279542-e7cf76a92801?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE0ODM5NzU3&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
