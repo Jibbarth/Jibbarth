@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1631624210938-539575f92e3c?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE1MDA2Mzgw&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE1MDE5Mjc2&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1577360375304-b25ff5e701db?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE1MDA2Mzgw&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1668713790671-16bd2102feef?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE1MDE5Mjc3&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)  - _SponsorBlock client for all YouTube TV clients._
 * [openeuropa/composer-artifacts](https://github.com/openeuropa/composer-artifacts)  - _Composer plugin that allows to download a specified artifact instead of the project source._
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)  - _SmartTube - an advanced player for set-top boxes and tvs running Android OS_
 * [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  - _Customize your git commit hashes!_
 * [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard)  - _A simple dashboard with weather and NYC subway information for ESPHome_
-* [siburuxue/doctrine-helper](https://github.com/siburuxue/doctrine-helper)  - _instead of `php bin/console doctrine:mapping:import App\\Entity attribute --path=src/Entity_
 
 <details>
 <summary> Want to see my github stats ? </summary>
