@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1508317469940-e3de49ba902e?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE1MDYyNDM5&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1610576661792-72db77be0900?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE1MDg0MTk2&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1559075471-b8a6c70b56c2?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE1MDYyNDQw&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1553290529-7c44894fdae1?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE1MDg0MTk4&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [sonnymilton/flexhub](https://github.com/sonnymilton/flexhub)  - _Server for private Symfony Flex recipes_
 * [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)  - _SponsorBlock client for all YouTube TV clients._
 * [openeuropa/composer-artifacts](https://github.com/openeuropa/composer-artifacts)  - _Composer plugin that allows to download a specified artifact instead of the project source._
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)  - _SmartTube - an advanced player for set-top boxes and tvs running Android OS_
 * [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  - _Customize your git commit hashes!_
-* [Madelena/esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard)  - _A simple dashboard with weather and NYC subway information for ESPHome_
 
 <details>
 <summary> Want to see my github stats ? </summary>
