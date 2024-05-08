@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE1MTQ4NzEw&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1615938801655-3b17dbc3c090?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE1MTcwNjgz&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1623858898311-55c0c487f5f9?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE1MTQ4NzE0&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1507209696998-3c532be9b2b5?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE1MTcwNjg1&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[Sylius] Add wider support for deprecation contract](https://github.com/Sylius/Sylius/pull/16233) - _OPEN_
 * [[Sylius] [UX] Allow to redirect logged-in user on any routes and add a redirection for registration page](https://github.com/Sylius/Sylius/pull/15418) - _OPEN_
 * [[symfony] [Translation] Allow to add bundles translations path in commands](https://github.com/symfony/symfony/pull/52456) - _OPEN_
-* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [yceruto/bundle-flex](https://github.com/yceruto/bundle-flex)  - _Composer plugin for Symfony bundles_
 * [sonnymilton/flexhub](https://github.com/sonnymilton/flexhub)  - _Server for private Symfony Flex recipes_
 * [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV)  - _SponsorBlock client for all YouTube TV clients._
 * [openeuropa/composer-artifacts](https://github.com/openeuropa/composer-artifacts)  - _Composer plugin that allows to download a specified artifact instead of the project source._
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)  - _SmartTube - an advanced player for set-top boxes and tvs running Android OS_
-* [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)  - _Customize your git commit hashes!_
 
 <details>
 <summary> Want to see my github stats ? </summary>
