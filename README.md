@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1536859355448-76f92ebdc33d?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE3NTY4MDQ4&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
+![banner image](https://images.unsplash.com/photo-1542831371-d531d36971e6?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=300&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmcsZGV2ZWxvcGV8fHx8fHwxNzE3NTg2Njc4&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=854)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1559163330-c30bac8c5031?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE3NTY4MDUw&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
+            <img src="https://images.unsplash.com/photo-1606856526397-3cd3ca4fc533?crop=entropy&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;h=150&amp;ixid=MnwxfDB8MXxyYW5kb218MHx8U2xhY2sgTmV3c2xldHRlcixwcm98fHx8fHwxNzE3NTg2Njc5&amp;ixlib=rb-4.0.3&amp;q=80&amp;utm_campaign=api-credit&amp;utm_medium=referral&amp;utm_source=unsplash_source&amp;w=200" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [mamazu/grid-config-converter](https://github.com/mamazu/grid-config-converter)  - _Convert the Yaml Grid Configuration to Grid Classes in Sylius_
 * [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)  - _🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)_
 * [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot)  - _An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities._
 * [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle)  - _Use Biome.js with Symfony_
 * [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan)  - _Get error count for each PHPStan level_
-* [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx)  - _A simple &amp; straight-to-the-point PHP profiling extension with its built-in web UI_
 
 <details>
 <summary> Want to see my github stats ? </summary>
