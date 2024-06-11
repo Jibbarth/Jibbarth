@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
-* [[symfony] [Translation] Allow to add bundles translations path in commands](https://github.com/symfony/symfony/pull/52456) - _OPEN_
+* [[ux] [Docs][Stimulus] use camelCase for target naming](https://github.com/symfony/ux/pull/1910) - _OPEN_
 * [[Sylius] [UX] Allow to redirect logged-in user on any routes and add a redirection for registration page](https://github.com/Sylius/Sylius/pull/15418) - _OPEN_
+* [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [coopTilleuls/multitenant-poc](https://github.com/coopTilleuls/multitenant-poc) 
 * [mamazu/grid-config-converter](https://github.com/mamazu/grid-config-converter)  - _Convert the Yaml Grid Configuration to Grid Classes in Sylius_
 * [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)  - _🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)_
 * [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot)  - _An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities._
 * [Kocal/BiomeJsBundle](https://github.com/Kocal/BiomeJsBundle)  - _Use Biome.js with Symfony_
-* [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan)  - _Get error count for each PHPStan level_
 
 <details>
 <summary> Want to see my github stats ? </summary>
