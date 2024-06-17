@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [bertybuttface/addons](https://github.com/bertybuttface/addons) 
 * [Sylius/Sylius](https://github.com/Sylius/Sylius)  - _Open Source eCommerce Framework on Symfony_
 * [coopTilleuls/multitenant-poc](https://github.com/coopTilleuls/multitenant-poc) 
 * [mamazu/grid-config-converter](https://github.com/mamazu/grid-config-converter)  - _Convert the Yaml Grid Configuration to Grid Classes in Sylius_
 * [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)  - _🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)_
-* [h4r5h1t/webcopilot](https://github.com/h4r5h1t/webcopilot)  - _An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities._
 
 <details>
 <summary> Want to see my github stats ? </summary>
