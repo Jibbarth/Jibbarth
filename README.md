@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [theajack/disable-devtool](https://github.com/theajack/disable-devtool)  - _Disable web developer tools from the f12 button, right-click and browser menu_
 * [bertybuttface/addons](https://github.com/bertybuttface/addons) 
 * [Sylius/Sylius](https://github.com/Sylius/Sylius)  - _Open Source eCommerce Framework on Symfony_
 * [coopTilleuls/multitenant-poc](https://github.com/coopTilleuls/multitenant-poc) 
 * [mamazu/grid-config-converter](https://github.com/mamazu/grid-config-converter)  - _Convert the Yaml Grid Configuration to Grid Classes in Sylius_
-* [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)  - _🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)_
 
 <details>
 <summary> Want to see my github stats ? </summary>
