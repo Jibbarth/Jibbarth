@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [jetify-com/devbox](https://github.com/jetify-com/devbox)  - _Instant, easy, and predictable development environments_
+* [funkymed/tenant-aware-bundle](https://github.com/funkymed/tenant-aware-bundle)  - _Symfony bundle to handle tenant-specific configurations_
+* [fujiapple852/trippy](https://github.com/fujiapple852/trippy)  - _A network diagnostic tool_
 * [Stremio/stremio-php-addon-example](https://github.com/Stremio/stremio-php-addon-example)  - _PHP Add-on Example for Stremio_
 * [theajack/disable-devtool](https://github.com/theajack/disable-devtool)  - _Disable web developer tools from the f12 button, right-click and browser menu_
-* [bertybuttface/addons](https://github.com/bertybuttface/addons) 
-* [Sylius/Sylius](https://github.com/Sylius/Sylius)  - _Open Source eCommerce Framework on Symfony_
-* [coopTilleuls/multitenant-poc](https://github.com/coopTilleuls/multitenant-poc) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
