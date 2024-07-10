@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode)  - _A PHP QR Code generator and reader with a user-friendly API._
 * [starship/starship](https://github.com/starship/starship)  - _☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!_
 * [sonata-project/EntityAuditBundle](https://github.com/sonata-project/EntityAuditBundle)  - _Audit for Doctrine Entities_
 * [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle)  - _A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !_
 * [hotwired/turbo-android](https://github.com/hotwired/turbo-android)  - _Android framework for making Turbo native apps_
-* [jetify-com/devbox](https://github.com/jetify-com/devbox)  - _Instant, easy, and predictable development environments_
 
 <details>
 <summary> Want to see my github stats ? </summary>
