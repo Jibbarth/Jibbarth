@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/uploads/141103282695035fa1380/95cdfeef?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE0MTI4NDZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE2MDkzMDl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE0MTI4NTF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1529101091764-c3526daf38fe?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE2MDkzMTR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [flow-php/flow](https://github.com/flow-php/flow)  - _Flow PHP - data processing framework_
 * [ShipStream/ups-rest-php-sdk](https://github.com/ShipStream/ups-rest-php-sdk)  - _A PHP client library for the UPS REST API, generated from the official OpenAPI spec._
 * [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode)  - _A PHP QR Code generator and reader with a user-friendly API._
 * [starship/starship](https://github.com/starship/starship)  - _☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!_
 * [sonata-project/EntityAuditBundle](https://github.com/sonata-project/EntityAuditBundle)  - _Audit for Doctrine Entities_
-* [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle)  - _A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !_
 
 <details>
 <summary> Want to see my github stats ? </summary>
