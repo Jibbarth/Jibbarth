@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1646345041488-eacb16944e76?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE2Mjg5MTl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1461344577544-4e5dc9487184?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE2NTA3NzF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1632910110458-435eb54b8d9a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE2Mjg5MjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE2NTA3NzV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)  - _This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL_
+* [jbtronics/settings-bundle](https://github.com/jbtronics/settings-bundle)  - _A bundle to easily create typesafe, user-configurable settings for symfony applications_
 * [flow-php/flow](https://github.com/flow-php/flow)  - _Flow PHP - data processing framework_
 * [ShipStream/ups-rest-php-sdk](https://github.com/ShipStream/ups-rest-php-sdk)  - _A PHP client library for the UPS REST API, generated from the official OpenAPI spec._
 * [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode)  - _A PHP QR Code generator and reader with a user-friendly API._
-* [starship/starship](https://github.com/starship/starship)  - _☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!_
-* [sonata-project/EntityAuditBundle](https://github.com/sonata-project/EntityAuditBundle)  - _Audit for Doctrine Entities_
 
 <details>
 <summary> Want to see my github stats ? </summary>
