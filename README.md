@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1467043153537-a4fba2cd39ef?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIyMzM3MjF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIyNTU1ODF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1516637090014-cb1ab78511f5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIyMzM3MjZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1662116137257-6e5793c365ec?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIyNTU1ODV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv)  - _:zap:A curated list of awesome resources for building Smart TV apps_
 * [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)  - _This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL_
 * [jbtronics/settings-bundle](https://github.com/jbtronics/settings-bundle)  - _A bundle to easily create typesafe, user-configurable settings for symfony applications_
 * [flow-php/flow](https://github.com/flow-php/flow)  - _Flow PHP - data processing framework_
 * [ShipStream/ups-rest-php-sdk](https://github.com/ShipStream/ups-rest-php-sdk)  - _A PHP client library for the UPS REST API, generated from the official OpenAPI spec._
-* [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode)  - _A PHP QR Code generator and reader with a user-friendly API._
 
 <details>
 <summary> Want to see my github stats ? </summary>
