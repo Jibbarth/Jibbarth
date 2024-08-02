@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1652449823136-b279fbe5dfd3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI2MDExMjR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1518349619113-03114f06ac3a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI2MjI0NjZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1556155092-8707de31f9c4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI2MDExMjl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1483817101829-339b08e8d83f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI2MjI0NzF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)  - _Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers._
 * [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool)  - _Native cross-platform full feature terminal-based sequence editor for git interactive rebase._
 * [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv)  - _:zap:A curated list of awesome resources for building Smart TV apps_
 * [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)  - _This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL_
 * [jbtronics/settings-bundle](https://github.com/jbtronics/settings-bundle)  - _A bundle to easily create typesafe, user-configurable settings for symfony applications_
-* [flow-php/flow](https://github.com/flow-php/flow)  - _Flow PHP - data processing framework_
 
 <details>
 <summary> Want to see my github stats ? </summary>
