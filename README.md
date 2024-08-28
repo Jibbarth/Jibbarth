@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1461958508236-9a742665a0d5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ4MjU3MjB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ4NDc2NjF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1520509414578-d9cbf09933a1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ4MjU3MjV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1687603917313-ccae1a289a9d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ4NDc2NjV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter)  - _A minimalistic error formatter for PHPStan_
 * [sussy-code/providers](https://github.com/sussy-code/providers)  - _Providers and sources for sudo-flix_
 * [SolidWorx/Toggler](https://github.com/SolidWorx/Toggler)  - _Feature toggle library for PHP_
 * [robinsimonklein/stimulus-devtools](https://github.com/robinsimonklein/stimulus-devtools)  - _A Chrome extension for inspecting and debugging Stimulus applications._
 * [Kodi-vStream/venom-xbmc-addons](https://github.com/Kodi-vStream/venom-xbmc-addons)  - _Addon de Streaming français pour Xbmc_
-* [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)  - _Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers._
 
 <details>
 <summary> Want to see my github stats ? </summary>
