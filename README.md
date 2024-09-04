@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU0NTI0NTh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1565538810643-b5bdb714032a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU0NzM2MjR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1662116137257-6e5793c365ec?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU0NTI0NjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1667372531881-6f975b1c86db?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU0NzM2Mjh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [slab/quill](https://github.com/slab/quill)  - _Quill is a modern WYSIWYG editor built for compatibility and extensibility_
 * [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)  - _An open-source RAG-based tool for chatting with your documents._
 * [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter)  - _A minimalistic error formatter for PHPStan_
 * [sussy-code/providers](https://github.com/sussy-code/providers)  - _Providers and sources for sudo-flix_
 * [SolidWorx/Toggler](https://github.com/SolidWorx/Toggler)  - _Feature toggle library for PHP_
-* [robinsimonklein/stimulus-devtools](https://github.com/robinsimonklein/stimulus-devtools)  - _A Chrome extension for inspecting and debugging Stimulus applications._
 
 <details>
 <summary> Want to see my github stats ? </summary>
