@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1496449903678-68ddcb189a24?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU1MTY5NDB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1598367815092-a2c0cbc1ea3d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU1Mzg4Mjh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1584714268709-c3dd9c92b378?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU1MTY5NDV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1667372393086-9d4001d51cf1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU1Mzg4MzN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Freika/dawarich](https://github.com/Freika/dawarich)  - _Self-hosted alternative to Google Location History (Google Maps Timeline)_
 * [slab/quill](https://github.com/slab/quill)  - _Quill is a modern WYSIWYG editor built for compatibility and extensibility_
 * [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)  - _An open-source RAG-based tool for chatting with your documents._
 * [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter)  - _A minimalistic error formatter for PHPStan_
 * [sussy-code/providers](https://github.com/sussy-code/providers)  - _Providers and sources for sudo-flix_
-* [SolidWorx/Toggler](https://github.com/SolidWorx/Toggler)  - _Feature toggle library for PHP_
 
 <details>
 <summary> Want to see my github stats ? </summary>
