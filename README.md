@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1502014822147-1aedfb0676e0?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4MTI5NTl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1487700160041-babef9c3cb55?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4MzQ5MjV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1508317469940-e3de49ba902e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4MTI5NjR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1514996937319-344454492b37?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4MzQ5MzB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [llm-agents-php/agents](https://github.com/llm-agents-php/agents)  - _LLM Agents abstraction_
+* [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php)  - _Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily._
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)  - _😎 Awesome lists about all kinds of interesting topics_
 * [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)  - _1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.._
 * [Freika/dawarich](https://github.com/Freika/dawarich)  - _Self-hosted alternative to Google Location History (Google Maps Timeline)_
-* [slab/quill](https://github.com/slab/quill)  - _Quill is a modern WYSIWYG editor built for compatibility and extensibility_
-* [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)  - _An open-source RAG-based tool for chatting with your documents._
-* [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter)  - _A minimalistic error formatter for PHPStan_
 
 <details>
 <summary> Want to see my github stats ? </summary>
