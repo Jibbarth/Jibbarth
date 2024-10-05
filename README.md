@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1525909002-1b05e0c869d8?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgwNjU3MTN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1499028203764-8669cfd05719?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxMjc3ODR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgwNjU3MTh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1493119508027-2b584f234d6c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxMjc3ODh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,7 +55,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
-* [keploy/keploy](https://github.com/keploy/keploy)  - _Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!_
+* [keploy/keploy](https://github.com/keploy/keploy)  - _Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!_
 * [imliam/cpx](https://github.com/imliam/cpx)  - _Run any command from any composer package, even if it&#039;s not installed in your project._
 * [llm-agents-php/agents](https://github.com/llm-agents-php/agents)  - _LLM Agents abstraction_
 * [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php)  - _Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily._
