@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1653398792259-1b31e48c29c4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgyODE4MzB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1501556424050-d4816356b73e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgzMDM3MzR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1601342632507-e1a73c674fa6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgyODE4MzV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1658086351750-1ec43149a713?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgzMDM3Mzl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[symfony-docs] [Console] Document FinishedIndicator for Progress indicator](https://github.com/symfony/symfony-docs/pull/20300) - _OPEN_
 * [[Sylius] [Admin][Grid][Customer] Fix show orders icon](https://github.com/Sylius/Sylius/pull/17116) - _OPEN_
-* [[sass-bundle] [DOC] Fix load_path path example](https://github.com/SymfonyCasts/sass-bundle/pull/72) - _OPEN_
+* [[Sylius] [UX] Allow to redirect logged-in user on any routes and add a redirection for registration page](https://github.com/Sylius/Sylius/pull/15418) - _OPEN_
+* [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [aratinau/api-platform-doctrine-discriminatormap](https://github.com/aratinau/api-platform-doctrine-discriminatormap)  - _This repository demonstrates the use of DiscriminatorMap, an automatic user-attaching listener, a Doctrine extension that filters data by the authenticated user, and a SerializerContextBuilder for handling attribute access._
 * [keploy/keploy](https://github.com/keploy/keploy)  - _Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!_
 * [imliam/cpx](https://github.com/imliam/cpx)  - _Run any command from any composer package, even if it&#039;s not installed in your project._
 * [llm-agents-php/agents](https://github.com/llm-agents-php/agents)  - _LLM Agents abstraction_
 * [CodeWithKyrian/transformers-php](https://github.com/CodeWithKyrian/transformers-php)  - _Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily._
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)  - _😎 Awesome lists about all kinds of interesting topics_
 
 <details>
 <summary> Want to see my github stats ? </summary>
