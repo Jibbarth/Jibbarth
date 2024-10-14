@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1502014822147-1aedfb0676e0?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg2NzA1MDh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1505576391880-b3f9d713dc4f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg4NjczMjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1596477602103-a64a83304ecf?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg2NzA1MTN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg4NjczMjh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[phpinsights] Refs #695 - Fix deprecation for dynamic property](https://github.com/nunomaduro/phpinsights/pull/697) - _OPEN_
 * [[Sylius] [UX] Allow to redirect logged-in user on any routes and add a redirection for registration page](https://github.com/Sylius/Sylius/pull/15418) - _OPEN_
 * [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
-* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [flixclusiveorg/flx-providers](https://github.com/flixclusiveorg/flx-providers)  - _Temporary built-in providers_
 * [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle)  - _The missing audit log library_
 * [aratinau/api-platform-doctrine-discriminatormap](https://github.com/aratinau/api-platform-doctrine-discriminatormap)  - _This repository demonstrates the use of DiscriminatorMap, an automatic user-attaching listener, a Doctrine extension that filters data by the authenticated user, and a SerializerContextBuilder for handling attribute access._
 * [keploy/keploy](https://github.com/keploy/keploy)  - _Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!_
 * [imliam/cpx](https://github.com/imliam/cpx)  - _Run any command from any composer package, even if it&#039;s not installed in your project._
-* [llm-agents-php/agents](https://github.com/llm-agents-php/agents)  - _LLM Agents abstraction_
 
 <details>
 <summary> Want to see my github stats ? </summary>
