@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1521194263619-39ecc5b55c61?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkwODEzMzF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1505576391880-b3f9d713dc4f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkxMDI1Mzd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1662039206928-3d9991f6136a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkwODEzMzZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkxMDI1NDF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [serengil/deepface](https://github.com/serengil/deepface)  - _A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python_
 * [twigstan/twigstan](https://github.com/twigstan/twigstan)  - _TwigStan is a static analyzer for Twig templates powered by PHPStan_
 * [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)  - _Doctrine entity preloading: Efficient &amp; easy to use solution to n+1 problem in Doctrine ORM_
 * [flixclusiveorg/flx-providers](https://github.com/flixclusiveorg/flx-providers)  - _Temporary built-in providers_
 * [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle)  - _The missing audit log library_
-* [aratinau/api-platform-doctrine-discriminatormap](https://github.com/aratinau/api-platform-doctrine-discriminatormap)  - _This repository demonstrates the use of DiscriminatorMap, an automatic user-attaching listener, a Doctrine extension that filters data by the authenticated user, and a SerializerContextBuilder for handling attribute access._
 
 <details>
 <summary> Want to see my github stats ? </summary>
