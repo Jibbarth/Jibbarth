@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1509343256512-d77a5cb3791b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkxNDU4MDh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1519642918688-7e43b19245d8?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkxNjc2OTd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkxNDU4MTJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1556155092-8707de31f9c4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkxNjc3MDJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Seldaek/monolog](https://github.com/Seldaek/monolog)  - _Sends your logs to files, sockets, inboxes, databases and various web services_
+* [tempestphp/highlight](https://github.com/tempestphp/highlight)  - _🎨 Fast, extensible, server-side code highlighting for web and terminal_
 * [serengil/deepface](https://github.com/serengil/deepface)  - _A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python_
 * [twigstan/twigstan](https://github.com/twigstan/twigstan)  - _TwigStan is a static analyzer for Twig templates powered by PHPStan_
-* [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)  - _Doctrine entity preloading: Efficient &amp; easy to use solution to n+1 problem in Doctrine ORM_
-* [flixclusiveorg/flx-providers](https://github.com/flixclusiveorg/flx-providers)  - _Temporary built-in providers_
-* [DamienHarper/auditor-bundle](https://github.com/DamienHarper/auditor-bundle)  - _The missing audit log library_
+* [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)  - _💡 Doctrine entity preloading: Efficient &amp; easy to use solution to n+1 problem in Doctrine ORM_
 
 <details>
 <summary> Want to see my github stats ? </summary>
