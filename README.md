@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1558655146-d09347e92766?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkyNTQwODF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1652449823136-b279fbe5dfd3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkyNzUzMTh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkyNTQwODZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1611647832580-377268dba7cb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkyNzUzMjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [ismail1432/safe-migrations-bundle](https://github.com/ismail1432/safe-migrations-bundle)  - _Warn you when a migration is unsafe_
 * [Seldaek/monolog](https://github.com/Seldaek/monolog)  - _Sends your logs to files, sockets, inboxes, databases and various web services_
 * [tempestphp/highlight](https://github.com/tempestphp/highlight)  - _🎨 Fast, extensible, server-side code highlighting for web and terminal_
 * [serengil/deepface](https://github.com/serengil/deepface)  - _A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python_
 * [twigstan/twigstan](https://github.com/twigstan/twigstan)  - _TwigStan is a static analyzer for Twig templates powered by PHPStan_
-* [shipmonk-rnd/doctrine-entity-preloader](https://github.com/shipmonk-rnd/doctrine-entity-preloader)  - _💡 Doctrine entity preloading: Efficient &amp; easy to use solution to n+1 problem in Doctrine ORM_
 
 <details>
 <summary> Want to see my github stats ? </summary>
