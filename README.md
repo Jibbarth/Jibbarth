@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1653971858332-bf68a22f7e22?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk1Nzc3ODh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1506097425191-7ad538b29cef?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk1OTk3NjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk1Nzc3OTN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1598316560453-0246d4611979?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk1OTk3Njh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [sensiolabs/minify-bundle](https://github.com/sensiolabs/minify-bundle)  - _Asset Minifier for Symfony Asset Mapper - Made by SensioLabs_
 * [lucduke/proxmox](https://github.com/lucduke/proxmox) 
 * [tteck/Proxmox](https://github.com/tteck/Proxmox)  - _Proxmox VE Helper-Scripts_
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)  - _Self-hosted game stream host for Moonlight._
 * [ismail1432/safe-migrations-bundle](https://github.com/ismail1432/safe-migrations-bundle)  - _Warn you when a migration is unsafe_
-* [Seldaek/monolog](https://github.com/Seldaek/monolog)  - _Sends your logs to files, sockets, inboxes, databases and various web services_
 
 <details>
 <summary> Want to see my github stats ? </summary>
