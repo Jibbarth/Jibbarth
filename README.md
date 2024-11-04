@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1498075702571-ecb018f3752d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA0ODQ5MzB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1461958508236-9a742665a0d5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA2ODE3Njl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA0ODQ5MzR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA2ODE3NzR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
-* [yamadashy/repopack](https://github.com/yamadashy/repopack)  - _📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini._
+* [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)  - _Proxmox VE Helper-Scripts (Community Edition)_
+* [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)  - _Bare metal to production ready in mins; your own fly server on your VPS._
+* [yamadashy/repomix](https://github.com/yamadashy/repomix)  - _📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini._
 * [Upinel/PVE-Intel-vGPU](https://github.com/Upinel/PVE-Intel-vGPU)  - _This is a step-by-step guide to enable Gen 12/13 Intel vGPU using SR-IOV Technology so up to 7 Client VMs can enjoy hardware GPU decoding_
 * [sensiolabs/minify-bundle](https://github.com/sensiolabs/minify-bundle)  - _Asset Minifier for Symfony Asset Mapper - Made by SensioLabs_
-* [lucduke/proxmox](https://github.com/lucduke/proxmox) 
-* [tteck/Proxmox](https://github.com/tteck/Proxmox)  - _Proxmox VE Helper-Scripts_
 
 <details>
 <summary> Want to see my github stats ? </summary>
