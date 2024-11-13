@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1540932239986-30128078f3c5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE1MDA1MDZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1653974123689-4eefaa73945d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE1MTg1NzV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1632910110458-435eb54b8d9a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE1MDA1MTB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1508317469940-e3de49ba902e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE1MTg1ODB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
