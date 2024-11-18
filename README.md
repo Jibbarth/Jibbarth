@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1558655146-d09347e92766?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE2OTQ1NzF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1650954933593-6c9342ba0331?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE4OTE0OTF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1613490900233-141c5560d75d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE2OTQ1NzZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1524135329990-07660cd5bf10?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE4OTE0OTZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [leaningtech/webvm](https://github.com/leaningtech/webvm)  - _Virtual Machine for the Web_
 * [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib)  - _Symfony Contrib Recipes Repositories_
 * [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)  - _Proxmox VE Helper-Scripts (Community Edition)_
 * [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)  - _Bare metal to production ready in mins; your own fly server on your VPS._
 * [yamadashy/repomix](https://github.com/yamadashy/repomix)  - _📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini._
-* [Upinel/PVE-Intel-vGPU](https://github.com/Upinel/PVE-Intel-vGPU)  - _This is a step-by-step guide to enable Gen 12/13 Intel vGPU using SR-IOV Technology so up to 7 Client VMs can enjoy hardware GPU decoding_
 
 <details>
 <summary> Want to see my github stats ? </summary>
