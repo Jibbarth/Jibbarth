@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIxMDUzNzR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIxMjY1OTd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIxMDUzNzh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1520717214176-885c3b3b6ca5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIxMjY2MDJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [appwrite/php-clamav](https://github.com/appwrite/php-clamav)  - _ClamAV network and pipe client for PHP_
 * [docker/awesome-compose](https://github.com/docker/awesome-compose)  - _Awesome Docker Compose samples_
 * [leaningtech/webvm](https://github.com/leaningtech/webvm)  - _Virtual Machine for the Web_
 * [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib)  - _Symfony Contrib Recipes Repositories_
 * [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)  - _Proxmox VE Helper-Scripts (Community Edition)_
-* [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick)  - _Bare metal to production ready in mins; your own fly server on your VPS._
 
 <details>
 <summary> Want to see my github stats ? </summary>
