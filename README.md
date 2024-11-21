@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1505576391880-b3f9d713dc4f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIxOTE3ODV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1518349619113-03114f06ac3a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIyMTI5OTV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1617240016072-d92174e44171?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIxOTE3OTB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1667372335937-d03be6fb0a9c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIyMTI5OTl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[SyliusPayPlugPlugin] PPSYL-98 - Add new checkbox to enable integrated payment](https://github.com/synolia/SyliusPayPlugPlugin/pull/138) - _OPEN_
 * [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 * [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
-* [[sandbox] Feature/GitHub action](https://github.com/Jibbarth/sandbox/pull/2) - _OPEN_
 
 **🌟 Latest Stars**:
 
