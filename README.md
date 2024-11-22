@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIyNzgxNzR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1650954934741-3a648866a897?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIyOTk0MzZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1707929592069-d3a638d86b17?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIyNzgxNzl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIyOTk0NDB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier)  - _✂️ Split PHPStan baseline to multiple files per each error identifier._
 * [appwrite/php-clamav](https://github.com/appwrite/php-clamav)  - _ClamAV network and pipe client for PHP_
 * [docker/awesome-compose](https://github.com/docker/awesome-compose)  - _Awesome Docker Compose samples_
 * [leaningtech/webvm](https://github.com/leaningtech/webvm)  - _Virtual Machine for the Web_
 * [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib)  - _Symfony Contrib Recipes Repositories_
-* [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)  - _Proxmox VE Helper-Scripts (Community Edition)_
 
 <details>
 <summary> Want to see my github stats ? </summary>
