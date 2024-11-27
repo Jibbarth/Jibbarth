@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1558655146-d09347e92766?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI3MTAyMzh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1653974123689-4eefaa73945d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI3MzE0MDd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1594553950475-0a69e5252577?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI3MTAyNDN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1603380353725-f8a4d39cc41e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI3MzE0MTN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -50,8 +50,8 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 **👨‍💻 Latest Pull Requests**:
 
 * [[SyliusPayPlugPlugin] PPSYL-87 - On post select payment, mark order as checkout completed](https://github.com/synolia/SyliusPayPlugPlugin/pull/141) - _OPEN_
+* [[SyliusPayPlugPlugin] PPSYL-101 - Add is_payplug_test_mode_enabled twig function](https://github.com/synolia/SyliusPayPlugPlugin/pull/139) - _OPEN_
 * [[SyliusPayPlugPlugin] PPSYL-86 - Add endpoint to init payment integrated](https://github.com/synolia/SyliusPayPlugPlugin/pull/140) - _OPEN_
-* [[SyliusPayPlugPlugin] PPSYL-101 - Add is_payplug_live twig function](https://github.com/synolia/SyliusPayPlugPlugin/pull/139) - _OPEN_
 
 **🌟 Latest Stars**:
 
