@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1646345041488-eacb16944e76?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI4ODI5Nzh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI5MDQxOTB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1487505983481-9aa2d9f9901a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI4ODI5ODN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1643409329501-f17776d3823a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI5MDQxOTV8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [CodeWithKyrian/whisper.php](https://github.com/CodeWithKyrian/whisper.php)  - _Local Speech to Text in PHP made easy thanks to Whisper.cpp and OpenAI_
 * [Huluti/altcha-bundle](https://github.com/Huluti/altcha-bundle)  - _A Symfony bundle to help integrate ALTCHA with Symfony forms._
 * [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)  - _Proxy server to bypass Cloudflare protection_
 * [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier)  - _✂️ Split PHPStan baseline to multiple files per each error identifier._
 * [appwrite/php-clamav](https://github.com/appwrite/php-clamav)  - _ClamAV network and pipe client for PHP_
-* [docker/awesome-compose](https://github.com/docker/awesome-compose)  - _Awesome Docker Compose samples_
 
 <details>
 <summary> Want to see my github stats ? </summary>
