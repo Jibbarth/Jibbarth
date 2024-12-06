@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1558603668-6570496b66f8?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM0ODc4MDd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1653974124184-d273748e42a0?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM1MDkwNDN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM0ODc4MTJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1560837131-7c9a3329a6cf?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM1MDkwNDh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[SyliusPayPlugPlugin] PPSYL-107 - Add a processor to capture an authorized payment](https://github.com/synolia/SyliusPayPlugPlugin/pull/148) - _OPEN_
 * [[SyliusPayPlugPlugin] PPSYL-106 - Switch amount to authorized_amount when deferred capture is on](https://github.com/synolia/SyliusPayPlugPlugin/pull/147) - _OPEN_
 * [[SyliusPayPlugPlugin] PPSYL-105 - Add deferred capture config](https://github.com/synolia/SyliusPayPlugPlugin/pull/146) - _OPEN_
-* [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 
 **🌟 Latest Stars**:
 
