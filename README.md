@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1532323544230-7191fd51bc1b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4MzM0NTl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4NTQ2Njh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1516637090014-cb1ab78511f5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4MzM0NjR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4NTQ2NzJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] PPSYL-111 - Trigger capture auto from a command](https://github.com/synolia/SyliusPayPlugPlugin/pull/149) - _OPEN_
-* [[SyliusPayPlugPlugin] PPSYL-107 - Add a processor to capture an authorized payment](https://github.com/synolia/SyliusPayPlugPlugin/pull/148) - _OPEN_
-* [[SyliusPayPlugPlugin] PPSYL-106 - Switch amount to authorized_amount when deferred capture is on](https://github.com/synolia/SyliusPayPlugPlugin/pull/147) - _OPEN_
+* [[SyliusPayPlugPlugin] [PI] CI fixes](https://github.com/synolia/SyliusPayPlugPlugin/pull/151) - _OPEN_
+* [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
+* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [soyuka/pmu](https://github.com/soyuka/pmu)  - _PHP Monorepo Utility_
 * [playox/flagception-bundle](https://github.com/playox/flagception-bundle)  - _Feature flags on steroids!_
 * [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)  - _Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch._
 * [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  - _:link: Some useful websites for programmers._
 * [bearstech/phptop](https://github.com/bearstech/phptop)  - _PHP basic ressource profiler (CPU/memory), safe and useful for production sites_
-* [CodeWithKyrian/whisper.php](https://github.com/CodeWithKyrian/whisper.php)  - _Local Speech to Text in PHP made easy thanks to Whisper.cpp and OpenAI_
 
 <details>
 <summary> Want to see my github stats ? </summary>
