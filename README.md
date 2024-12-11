@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1654015064357-0437ef521b0e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4OTc4ODh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1503551723145-6c040742065b-v2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM5MTk4NTZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1524135329990-07660cd5bf10?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4OTc4OTJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM5MTk4NjB8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] [PI] CI fixes](https://github.com/synolia/SyliusPayPlugPlugin/pull/151) - _OPEN_
 * [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 * [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
+* [[sandbox] Feature/GitHub action](https://github.com/Jibbarth/sandbox/pull/2) - _OPEN_
 
 **🌟 Latest Stars**:
 
