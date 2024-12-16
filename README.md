@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1487088678257-3a541e6e3922?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQzNTE4OTR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1505577058444-a3dab90d4253?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQzNzMwNDJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1487505983481-9aa2d9f9901a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQzNTE4OTh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1601342632507-e1a73c674fa6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQzNzMwNDd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 * [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 * [[SyliusPayPlugPlugin] PPSYL-126 - Mention that the payment will not be captured immediately](https://github.com/synolia/SyliusPayPlugPlugin/pull/154) - _OPEN_
-* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 
 **🌟 Latest Stars**:
 
