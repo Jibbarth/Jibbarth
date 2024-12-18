@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1532372320572-cda25653a26d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ1MDI2NTJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1471897488648-5eae4ac6686b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ1MjQ1OTN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ1MDI2NTd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1520717178299-4cf2701a5bc0?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ1MjQ1OTh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid)  - _in case I forget one_
 * [maxperei/sylius-last-stack-plugin](https://github.com/maxperei/sylius-last-stack-plugin) 
 * [soyuka/pmu](https://github.com/soyuka/pmu)  - _PHP Monorepo Utility_
 * [playox/flagception-bundle](https://github.com/playox/flagception-bundle)  - _Feature flags on steroids!_
 * [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)  - _Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch._
-* [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  - _:link: Some useful websites for programmers._
 
 <details>
 <summary> Want to see my github stats ? </summary>
