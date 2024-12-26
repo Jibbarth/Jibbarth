@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUxOTM4MTl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUyMTU2OTh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1529078155058-5d716f45d604?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUxOTM4MjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1631378297854-185cff6b0986?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUyMTU3MDJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load)  - _🧠 Cognitive Load is what matters_
 * [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid)  - _in case I forget one_
 * [maxperei/sylius-last-stack-plugin](https://github.com/maxperei/sylius-last-stack-plugin) 
 * [soyuka/pmu](https://github.com/soyuka/pmu)  - _PHP Monorepo Utility_
 * [playox/flagception-bundle](https://github.com/playox/flagception-bundle)  - _Feature flags on steroids!_
-* [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card)  - _Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch._
 
 <details>
 <summary> Want to see my github stats ? </summary>
