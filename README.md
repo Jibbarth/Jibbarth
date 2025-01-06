@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1475669698648-2f144fcaaeb1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU5MjgxNDJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1476357471311-43c0db9fb2b4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYxMjUwMjd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1543269664-76bc3997d9ea?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU5MjgxNDd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1603791445824-0050bd436b6d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYxMjUwMzJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [musana/CF-Hero](https://github.com/musana/CF-Hero)  - _CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications_
 * [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink)  - _Self-hosted image sharing service._
 * [joshuar/go-hass-agent](https://github.com/joshuar/go-hass-agent)  - _A Home Assistant, native app for desktop/laptop devices._
 * [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)  - _Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!_
 * [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load)  - _🧠 Cognitive Load is what matters_
-* [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid)  - _in case I forget one_
 
 <details>
 <summary> Want to see my github stats ? </summary>
