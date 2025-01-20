@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1611606063065-ee7946f0787a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcwMzAwODN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1653971858653-f11f062bca5b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzczOTY5MjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1527356900876-cae61d8d8462?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzcwMzAwODh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1516101922849-2bf0be616449?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzczOTY5Mjh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] Integrated payment part 2](https://github.com/payplug/SyliusPayPlugPlugin/pull/260) - _OPEN_
 * [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 * [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
+* [[sandbox] Feature/GitHub action](https://github.com/Jibbarth/sandbox/pull/2) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [amir20/dozzle](https://github.com/amir20/dozzle)  - _Realtime log viewer for docker containers._
+* [elie222/inbox-zero](https://github.com/elie222/inbox-zero)  - _Open source email app to reach inbox zero fast._
 * [makinghappen/caddy-ui](https://github.com/makinghappen/caddy-ui) 
 * [musana/CF-Hero](https://github.com/musana/CF-Hero)  - _CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications_
 * [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink)  - _Self-hosted image sharing service._
-* [joshuar/go-hass-agent](https://github.com/joshuar/go-hass-agent)  - _A Home Assistant, native app for desktop/laptop devices._
-* [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)  - _Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!_
 
 <details>
 <summary> Want to see my github stats ? </summary>
