@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1517467139951-f5a925c9f9de?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc3NDI1MjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1734543920841-649450b4e093?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc5MzkyNjd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1622050756792-5b1180bbb873?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc3NDI1Mjh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1508317469940-e3de49ba902e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc5MzkyNzJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 * [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
+* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 * [[sandbox] Feature/GitHub action](https://github.com/Jibbarth/sandbox/pull/2) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms)  - _dkms module of Linux i915 driver with SR-IOV support_
 * [dougiteixeira/proxmoxve](https://github.com/dougiteixeira/proxmoxve)  - _Proxmox VE Custom Integration Home Assistant_
 * [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)  - _DeepSeek LLM: Let there be answers_
 * [amir20/dozzle](https://github.com/amir20/dozzle)  - _Realtime log viewer for docker containers._
 * [elie222/inbox-zero](https://github.com/elie222/inbox-zero)  - _Open source email app to reach inbox zero fast._
-* [makinghappen/caddy-ui](https://github.com/makinghappen/caddy-ui) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
