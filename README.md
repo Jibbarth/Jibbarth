@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1576153192396-180ecef2a715?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgyMTc3ODR8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1521194263619-39ecc5b55c61?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgyMzk2ODd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1563371351-e53ebb744a1f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgyMTc3ODl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgyMzk2OTJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -58,8 +58,8 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 * [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)  - _Ubuntu/Debian (.deb) packages for Ghostty_
 * [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms)  - _dkms module of Linux i915 driver with SR-IOV support_
 * [dougiteixeira/proxmoxve](https://github.com/dougiteixeira/proxmoxve)  - _Proxmox VE Custom Integration Home Assistant_
-* [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)  - _DeepSeek LLM: Let there be answers_
 * [amir20/dozzle](https://github.com/amir20/dozzle)  - _Realtime log viewer for docker containers._
+* [elie222/inbox-zero](https://github.com/elie222/inbox-zero)  - _Open source email app to reach inbox zero fast._
 
 <details>
 <summary> Want to see my github stats ? </summary>
