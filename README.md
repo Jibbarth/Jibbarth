@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1491147334573-44cbb4602074?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg4MjI2MjN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1655474396177-e727349f44dc?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg4NDQ1NDJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1563371351-e53ebb744a1f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg4MjI2Mjd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1603539279542-e7cf76a92801?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg4NDQ1NDd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  - _View HTTP/HTTPS requests made by any Linux program_
 * [is-a-dev/register](https://github.com/is-a-dev/register)  - _Grab your own sweet-looking &#039;.is-a.dev&#039; subdomain._
 * [smoqadam/pvm](https://github.com/smoqadam/pvm)  - _php version manager_
 * [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)  - _Ubuntu/Debian (.deb) packages for Ghostty_
 * [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms)  - _dkms module of Linux i915 driver with SR-IOV support_
-* [dougiteixeira/proxmoxve](https://github.com/dougiteixeira/proxmoxve)  - _Proxmox VE Custom Integration Home Assistant_
 
 <details>
 <summary> Want to see my github stats ? </summary>
