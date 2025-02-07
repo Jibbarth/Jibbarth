@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1519974719765-e6559eac2575?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg5MzA4Njh8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1653398792259-1b31e48c29c4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg5NTIxNjJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1543966888-cbd9a4456f85?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg5MzA4NzN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1455849318743-b2233052fcff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg5NTIxNjZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy)  - _A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption._
 * [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  - _View HTTP/HTTPS requests made by any Linux program_
 * [is-a-dev/register](https://github.com/is-a-dev/register)  - _Grab your own sweet-looking &#039;.is-a.dev&#039; subdomain._
 * [smoqadam/pvm](https://github.com/smoqadam/pvm)  - _php version manager_
 * [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)  - _Ubuntu/Debian (.deb) packages for Ghostty_
-* [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms)  - _dkms module of Linux i915 driver with SR-IOV support_
 
 <details>
 <summary> Want to see my github stats ? </summary>
