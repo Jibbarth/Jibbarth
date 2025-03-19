@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1576595580361-90a855b84b20?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkxNDg5Mjd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1531829039722-d3fb3e705a4b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIzNzE5Njl8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1643409329501-f17776d3823a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkxNDg5MzF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIzNzE5NzN8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
-* [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy)  - _A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption._
-* [monasticacademy/httptap](https://github.com/monasticacademy/httptap)  - _View HTTP/HTTPS requests made by any Linux program_
-* [is-a-dev/register](https://github.com/is-a-dev/register)  - _Grab your own sweet-looking &#039;.is-a.dev&#039; subdomain._
-* [smoqadam/pvm](https://github.com/smoqadam/pvm)  - _php version manager_
-* [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)  - _Ubuntu/Debian (.deb) packages for Ghostty_
+* [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)  - _🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software._
+* [browser-use/browser-use](https://github.com/browser-use/browser-use)  - _Make websites accessible for AI agents_
+* [mroth/git-muzak](https://github.com/mroth/git-muzak)  - _:notes: Background music for your git commits_
+* [php-llm/ecosystem](https://github.com/php-llm/ecosystem)  - _A list of AI &amp; LLM frameworks and libraries in PHP_
+* [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)  - _record and replay the web_
 
 <details>
 <summary> Want to see my github stats ? </summary>
