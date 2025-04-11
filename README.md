@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1598367815092-a2c0cbc1ea3d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQzNzUxNzF8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1650954934136-49a644cda481?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQzOTYwNzJ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1508830524289-0adcbe822b40?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQzNzUxNzZ8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1527254059249-f52d831cbff1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQzOTYwNzd8&amp;ixlib=rb-4.0.3&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [idosal/git-mcp](https://github.com/idosal/git-mcp) 
 * [DJDoubleD/refreezer](https://github.com/DJDoubleD/refreezer)  - _An alternative Deezer music streaming &amp; downloading client, based on Freezer._
 * [medialab/xan](https://github.com/medialab/xan)  - _The CSV magician_
 * [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)  - _🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software._
 * [browser-use/browser-use](https://github.com/browser-use/browser-use)  - _Make websites accessible for AI agents_
-* [mroth/git-muzak](https://github.com/mroth/git-muzak)  - _:notes: Background music for your git commits_
 
 <details>
 <summary> Want to see my github stats ? </summary>
