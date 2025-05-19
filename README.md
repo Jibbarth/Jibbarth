@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1501159599894-155982264a55?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc0MjAwOTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1470790376778-a9fbc86d70e2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc2MTkxODB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1734007148406-525aa9cb1099?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc0MjAxMDB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1516820827855-3ea1bd6f79ea?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc2MTkxODV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog)  - _Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server_
 * [panteLx/aiocatalogs](https://github.com/panteLx/aiocatalogs)  - _AIOCatalogs is an open-source addon that combines multiple catalog addons into a single one. It offers enhanced performance, user-friendly configuration, and supports various platforms like Stremio, Omni, Vidi, Fusion and more. Developed for maximum flexibility and compatibility._
 * [DarabT/vStreamIO](https://github.com/DarabT/vStreamIO)  - _Portage de l&#039;addon vStream vers StremIO_
 * [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  - _🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server._
 * [idosal/git-mcp](https://github.com/idosal/git-mcp)  - _Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project_
-* [DJDoubleD/refreezer](https://github.com/DJDoubleD/refreezer)  - _An alternative Deezer music streaming &amp; downloading client, based on Freezer._
 
 <details>
 <summary> Want to see my github stats ? </summary>
