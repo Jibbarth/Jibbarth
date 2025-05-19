@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1512314889357-e157c22f938d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc2NTg1NjZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1538577880403-f9998e75dd06?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc2NzkzNTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1509966756634-9c23dd6e6815?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc2NTg1NzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1632910073143-6d2c52a448e5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc2NzkzNTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 * [[Sylius-Standard] [Stimulus] Ease of use in real app](https://github.com/Sylius/Sylius-Standard/pull/1126) - _OPEN_
 * [[Sylius] [Stimulus] Ease of use in real app](https://github.com/Sylius/Sylius/pull/17923) - _OPEN_
-* [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [zenstruck/commonmark-extensions](https://github.com/zenstruck/commonmark-extensions)  - _A collection of CommonMark extensions._
 * [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog)  - _Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server_
 * [panteLx/aiocatalogs](https://github.com/panteLx/aiocatalogs)  - _AIOCatalogs is an open-source addon that combines multiple catalog addons into a single one. It offers enhanced performance, user-friendly configuration, and supports various platforms like Stremio, Omni, Vidi, Fusion and more. Developed for maximum flexibility and compatibility._
 * [DarabT/vStreamIO](https://github.com/DarabT/vStreamIO)  - _Portage de l&#039;addon vStream vers StremIO_
 * [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)  - _🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server._
-* [idosal/git-mcp](https://github.com/idosal/git-mcp)  - _Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project_
 
 <details>
 <summary> Want to see my github stats ? </summary>
