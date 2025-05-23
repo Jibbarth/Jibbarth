@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1487700160041-babef9c3cb55?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc5ODE3OTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1653971858653-f11f062bca5b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgwMDQwNDJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1668854096784-3ce7679fa841?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc5ODE3OTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1623520333087-62b8793e3d23?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgwMDQwNDZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[flex] [AssetMapper] Allow to define entrypoint in importmap.php](https://github.com/symfony/flex/pull/1026) - _OPEN_
 * [[Sylius-Standard] [Stimulus] Ease of use in real app](https://github.com/Sylius/Sylius-Standard/pull/1126) - _OPEN_
 * [[Sylius] [Stimulus] Ease of use in real app](https://github.com/Sylius/Sylius/pull/17923) - _OPEN_
+* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [saadeghi/daisyui](https://github.com/saadeghi/daisyui)  - _🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library_
 * [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)  - _Developer &amp; translator friendly web-based localization platform_
 * [zenstruck/commonmark-extensions](https://github.com/zenstruck/commonmark-extensions)  - _A collection of CommonMark extensions._
 * [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog)  - _Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server_
 * [panteLx/aiocatalogs](https://github.com/panteLx/aiocatalogs)  - _AIOCatalogs is an open-source addon that combines multiple catalog addons into a single one. It offers enhanced performance, user-friendly configuration, and supports various platforms like Stremio, Omni, Vidi, Fusion and more. Developed for maximum flexibility and compatibility._
-* [DarabT/vStreamIO](https://github.com/DarabT/vStreamIO)  - _Portage de l&#039;addon vStream vers StremIO_
 
 <details>
 <summary> Want to see my github stats ? </summary>
