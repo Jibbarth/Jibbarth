@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1464564531096-f0163633a18a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkwMTg2MzZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1564078516393-cf04bd966897?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkwNDA5NzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkwMTg2NDF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1541560052-77ec1bbc09f7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkwNDA5NzV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[Sylius-Standard] [Stimulus] Ease of use in real app](https://github.com/Sylius/Sylius-Standard/pull/1126) - _OPEN_
 * [[SyliusPayPlugPlugin] PPSYL-138 - Use Payment request flow for payplug](https://github.com/synolia/SyliusPayPlugPlugin/pull/169) - _OPEN_
 * [[SyliusPayPlugPlugin] [SelectPayment] Unify display](https://github.com/synolia/SyliusPayPlugPlugin/pull/168) - _OPEN_
+* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 
 **🌟 Latest Stars**:
 
