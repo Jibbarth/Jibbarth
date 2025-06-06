@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1487088678257-3a541e6e3922?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxMjczNDR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1653974123446-3eeff06fb6fb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxNzQxNTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1631624210938-539575f92e3c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxMjczNDl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1596477602103-a64a83304ecf?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxNzQxNjJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -56,7 +56,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 **🌟 Latest Stars**:
 
 * [boson-php/boson](https://github.com/boson-php/boson)  - _⚡ Boson Kernel_
-* [tapframe/NuvioStreamsAddon](https://github.com/tapframe/NuvioStreamsAddon) 
+* [tapframe/NuvioStreamsAddon](https://github.com/tapframe/NuvioStreamsAddon)  - _HTTP Streaming for Stremio_
 * [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)  - _Android app for streaming and downloading media._
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui)  - _🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library_
 * [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform)  - _Developer &amp; translator friendly web-based localization platform_
