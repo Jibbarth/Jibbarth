@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1532372320572-cda25653a26d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk4MzkzNjh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1650954935872-d66bbef89989?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAwMzg0OTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1667372531881-6f975b1c86db?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk4MzkzNzN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1583142305729-5cb119ce5d3e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAwMzg0OTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Madh93/prxy](https://github.com/Madh93/prxy)  - _🔌 Command-line reverse proxy for forwarding HTTP requests through an outbound proxy_
 * [Sylius/DemoCreator](https://github.com/Sylius/DemoCreator) 
 * [boson-php/boson](https://github.com/boson-php/boson)  - _⚡ Boson Kernel_
 * [tapframe/NuvioStreamsAddon](https://github.com/tapframe/NuvioStreamsAddon)  - _HTTP Streaming for Stremio_
 * [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)  - _Android app for streaming and downloading media._
-* [saadeghi/daisyui](https://github.com/saadeghi/daisyui)  - _🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library_
 
 <details>
 <summary> Want to see my github stats ? </summary>
