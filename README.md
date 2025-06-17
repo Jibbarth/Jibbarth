@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1609189184127-04652523de91?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNDE4NjZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1536329583941-14287ec6fc4e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNjQyMDB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1529078155058-5d716f45d604?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNDE4NzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1707929592069-d3a638d86b17?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNjQyMDV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] [SelectPayment] Unify display](https://github.com/synolia/SyliusPayPlugPlugin/pull/168) - _OPEN_
 * [[SyliusPayPlugPlugin] PPSYL-138 - Use Payment request flow for payplug](https://github.com/synolia/SyliusPayPlugPlugin/pull/169) - _OPEN_
 * [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
+* [[sandbox] Feature/GitHub action](https://github.com/Jibbarth/sandbox/pull/2) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)  - _Add dynamic/dependent fields to Symfony forms_
 * [Madh93/prxy](https://github.com/Madh93/prxy)  - _🔌 Command-line reverse proxy for forwarding HTTP requests through an outbound proxy_
 * [Sylius/DemoCreator](https://github.com/Sylius/DemoCreator) 
 * [boson-php/boson](https://github.com/boson-php/boson)  - _⚡ Boson Kernel_
 * [tapframe/NuvioStreamsAddon](https://github.com/tapframe/NuvioStreamsAddon)  - _HTTP Streaming for Stremio_
-* [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)  - _Android app for streaming and downloading media._
 
 <details>
 <summary> Want to see my github stats ? </summary>
