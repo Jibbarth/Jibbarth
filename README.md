@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1491147334573-44cbb4602074?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEwMDU4ODd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1521194263619-39ecc5b55c61?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEwMjgxMTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1533906966484-a9c978a3f090?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEwMDU4OTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEwMjgxMjJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [faressoft/terminalizer](https://github.com/faressoft/terminalizer)  - _🦄 Record your terminal and generate animated gif images or share a web player_
 * [php/frankenphp](https://github.com/php/frankenphp)  - _🧟 The modern PHP app server_
 * [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper)  - _A Python module to bypass Cloudflare&#039;s anti-bot page._
 * [coopTilleuls/template-sync](https://github.com/coopTilleuls/template-sync)  - _Update projects started from a template with the latest changes made to the template_
 * [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms)  - _Add dynamic/dependent fields to Symfony forms_
-* [Madh93/prxy](https://github.com/Madh93/prxy)  - _🔌 Command-line reverse proxy for forwarding HTTP requests through an outbound proxy_
 
 <details>
 <summary> Want to see my github stats ? </summary>
