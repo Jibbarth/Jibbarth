@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1514070706115-47c142769603?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1NDY1MDF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1NjczODh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1675495666589-94cdafbcfcc8?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1NDY1MDZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1604403428907-673e7f4cd341?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1NjczOTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [mi-lopez/claude-git-hook](https://github.com/mi-lopez/claude-git-hook)  - _Git hook that uses Claude AI to automatically generate commit messages with issue extraction_
 * [aliyss/syncribullet](https://github.com/aliyss/syncribullet)  - _Allows for syncing currently watched items from Stremio_
 * [faressoft/terminalizer](https://github.com/faressoft/terminalizer)  - _🦄 Record your terminal and generate animated gif images or share a web player_
 * [php/frankenphp](https://github.com/php/frankenphp)  - _🧟 The modern PHP app server_
 * [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper)  - _A Python module to bypass Cloudflare&#039;s anti-bot page._
-* [coopTilleuls/template-sync](https://github.com/coopTilleuls/template-sync)  - _Update projects started from a template with the latest changes made to the template_
 
 <details>
 <summary> Want to see my github stats ? </summary>
