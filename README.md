@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1551033406-611cf9a28f67?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxMDIwNTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1638741631188-a42a58d5499c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxMDgzMjh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1579351177084-a7f88f55507b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxMDIwNTh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxMDgzMzN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[SyliusPayPlugPlugin] [Tests] Sylius TestApplication](https://github.com/synolia/SyliusPayPlugPlugin/pull/176) - _OPEN_
+* [[SyliusPayPlugPlugin] [v2] Update CI](https://github.com/synolia/SyliusPayPlugPlugin/pull/174) - _OPEN_
 * [[SyliusPayPlugPlugin] [Stimulus] Extends form selection ](https://github.com/synolia/SyliusPayPlugPlugin/pull/175) - _OPEN_
-* [[SyliusPayPlugPlugin] [WIP] Update CI](https://github.com/synolia/SyliusPayPlugPlugin/pull/174) - _OPEN_
-* [[SyliusPayPlugPlugin] PPSYL-138 - Use Payment request flow for payplug](https://github.com/synolia/SyliusPayPlugPlugin/pull/169) - _OPEN_
 
 **🌟 Latest Stars**:
 
