@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1556309560-d05ad493c83a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIyMTU1NTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1551033406-611cf9a28f67?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxMDIwNTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1675552561484-f11fca689bc4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIyMTU1NTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1579351177084-a7f88f55507b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxMDIwNTh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[site-src] Regular update](https://github.com/Jibbarth/site-src/pull/121) - _OPEN_
+* [[SyliusPayPlugPlugin] [Stimulus] Extends form selection ](https://github.com/synolia/SyliusPayPlugPlugin/pull/175) - _OPEN_
+* [[SyliusPayPlugPlugin] [WIP] Update CI](https://github.com/synolia/SyliusPayPlugPlugin/pull/174) - _OPEN_
 * [[SyliusPayPlugPlugin] PPSYL-138 - Use Payment request flow for payplug](https://github.com/synolia/SyliusPayPlugPlugin/pull/169) - _OPEN_
-* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle)  - _Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi._
+* [symfony/ai](https://github.com/symfony/ai) 
 * [webtor-io/embed-sdk-js](https://github.com/webtor-io/embed-sdk-js)  - _Webtor.io embed SDK for online torrent streaming and download on your site_
 * [mi-lopez/claude-git-hook](https://github.com/mi-lopez/claude-git-hook)  - _Git hook that uses Claude AI to automatically generate commit messages with issue extraction_
 * [aliyss/syncribullet](https://github.com/aliyss/syncribullet)  - _Allows for syncing currently watched items from Stremio_
-* [faressoft/terminalizer](https://github.com/faressoft/terminalizer)  - _🦄 Record your terminal and generate animated gif images or share a web player_
-* [php/frankenphp](https://github.com/php/frankenphp)  - _🧟 The modern PHP app server_
 
 <details>
 <summary> Want to see my github stats ? </summary>
