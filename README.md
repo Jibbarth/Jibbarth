@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1545670723-196ed0954986?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM0MjUyNjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1634838083208-ce7a36701fe4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM0NDc1MTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM0MjUyNjl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649451844934-d33042e93092?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM0NDc1MjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,8 +49,8 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] [v2] Update CI](https://github.com/synolia/SyliusPayPlugPlugin/pull/174) - _OPEN_
 * [[SyliusPayPlugPlugin] [Tests] Sylius TestApplication](https://github.com/synolia/SyliusPayPlugPlugin/pull/176) - _OPEN_
+* [[SyliusPayPlugPlugin] [v2] Update CI](https://github.com/synolia/SyliusPayPlugPlugin/pull/174) - _OPEN_
 * [[SyliusPayPlugPlugin] [CI] Update PHPunit to use it through testApplication](https://github.com/synolia/SyliusPayPlugPlugin/pull/177) - _OPEN_
 
 **🌟 Latest Stars**:
