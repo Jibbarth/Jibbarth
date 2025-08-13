@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1656863678565-b7576b9363bb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM3NzA5MDF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1575314027842-c33656c1f3dc?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUxMDk4MjV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1702144418583-db89bc40c33d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM3NzA5MDZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1575126402761-8cd00dd29a47?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUxMDk4MzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] [Stimulus] Extends form selection ](https://github.com/synolia/SyliusPayPlugPlugin/pull/175) - _OPEN_
-* [[SyliusPayPlugPlugin] [v2] Update CI](https://github.com/synolia/SyliusPayPlugPlugin/pull/174) - _OPEN_
-* [[SyliusPayPlugPlugin] PPSYL-138 - Use Payment request flow for payplug](https://github.com/synolia/SyliusPayPlugPlugin/pull/169) - _OPEN_
+* [[SyliusAkeneoPlugin] [Sylius 2.x] Added post flush event for product](https://github.com/synolia/SyliusAkeneoPlugin/pull/208) - _OPEN_
+* [[site-src] Regular update](https://github.com/Jibbarth/site-src/pull/121) - _OPEN_
+* [[symfony-docs] [Cache] Add new cache.adapter.doctrine_dbal](https://github.com/symfony/symfony-docs/pull/16502) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)  - _State-of-the-art TTS model under 25MB 😻_
+* [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  - _The easiest way to run WireGuard VPN + Web-based Admin UI._
+* [trustedsec/tap](https://github.com/trustedsec/tap)  - _The TrustedSec Attack Platform is a reliable method for droppers on an infrastructure in order to ensure established connections to an organization._
+* [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)  - _all of the workflows of n8n i could find (also from the site itself)_
 * [michelle-avery/custom-conversation](https://github.com/michelle-avery/custom-conversation)  - _A very customizable version of a Conversation Agent for Home Assistant_
-* [mifi/lossless-cut](https://github.com/mifi/lossless-cut)  - _The swiss army knife of lossless video/audio editing_
-* [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle)  - _Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi._
-* [symfony/ai](https://github.com/symfony/ai) 
-* [webtor-io/embed-sdk-js](https://github.com/webtor-io/embed-sdk-js)  - _Webtor.io embed SDK for online torrent streaming and download on your site_
 
 <details>
 <summary> Want to see my github stats ? </summary>
