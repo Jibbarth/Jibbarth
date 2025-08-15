@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1650600538903-ec09f670c391?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUyMzk1NTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1669023414180-4dcf35d943e1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUyNjE3MDJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1630852722133-b0e7bd31aaf7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUyMzk1NjF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1739903215568-8f05d85489ab?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUyNjE3MDd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [revoltphp/event-loop](https://github.com/revoltphp/event-loop)  - _Revolt is a rock-solid event loop for concurrent PHP applications._
 * [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)  - _State-of-the-art TTS model under 25MB 😻_
 * [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  - _The easiest way to run WireGuard VPN + Web-based Admin UI._
 * [trustedsec/tap](https://github.com/trustedsec/tap)  - _The TrustedSec Attack Platform is a reliable method for droppers on an infrastructure in order to ensure established connections to an organization._
 * [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)  - _all of the workflows of n8n i could find (also from the site itself)_
-* [michelle-avery/custom-conversation](https://github.com/michelle-avery/custom-conversation)  - _A very customizable version of a Conversation Agent for Home Assistant_
 
 <details>
 <summary> Want to see my github stats ? </summary>
