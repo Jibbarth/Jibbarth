@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1649451844924-0d7a218e02c9?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU0OTg5MjJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1599837487527-e009248aa71b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU1MjExNTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1669023414166-a4cc7c0fe1f5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU0OTg5Mjd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602629978879-e7ed887988d1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU1MjExNjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [ajgarlag/feature-flag-bundle](https://github.com/ajgarlag/feature-flag-bundle) 
 * [revoltphp/event-loop](https://github.com/revoltphp/event-loop)  - _Revolt is a rock-solid event loop for concurrent PHP applications._
 * [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)  - _State-of-the-art TTS model under 25MB 😻_
 * [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  - _The easiest way to run WireGuard VPN + Web-based Admin UI._
 * [trustedsec/tap](https://github.com/trustedsec/tap)  - _The TrustedSec Attack Platform is a reliable method for droppers on an infrastructure in order to ensure established connections to an organization._
-* [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)  - _all of the workflows of n8n i could find (also from the site itself)_
 
 <details>
 <summary> Want to see my github stats ? </summary>
