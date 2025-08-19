@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1681164315430-6159b2361615?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU1NDE5MjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1642669541978-9f88bff46189?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU1Njc2NzZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1566915896913-549d796d2166?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU1NDE5MjV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1699462516277-7294d37e5cc3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU1Njc2ODF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)  - _Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS._
 * [ajgarlag/feature-flag-bundle](https://github.com/ajgarlag/feature-flag-bundle) 
 * [revoltphp/event-loop](https://github.com/revoltphp/event-loop)  - _Revolt is a rock-solid event loop for concurrent PHP applications._
 * [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)  - _State-of-the-art TTS model under 25MB 😻_
 * [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)  - _The easiest way to run WireGuard VPN + Web-based Admin UI._
-* [trustedsec/tap](https://github.com/trustedsec/tap)  - _The TrustedSec Attack Platform is a reliable method for droppers on an infrastructure in order to ensure established connections to an organization._
 
 <details>
 <summary> Want to see my github stats ? </summary>
