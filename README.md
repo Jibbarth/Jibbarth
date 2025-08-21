@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1634838083208-ce7a36701fe4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU3NDAzMzN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU3NTg0MTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1591453089343-9ee5e4ac7e2d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU3NDAzMzh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1572641085736-c1c63fcc8630?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU3NTg0MjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -57,7 +57,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 * [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)  - _A CLI tool for analyzing Claude Code usage from local JSONL files._
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)  - _Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS._
-* [ajgarlag/feature-flag-bundle](https://github.com/ajgarlag/feature-flag-bundle) 
+* [ajgarlag/feature-flag-bundle](https://github.com/ajgarlag/feature-flag-bundle)  - _Provides a feature flag mechanism for Symfony Appllications_
 * [revoltphp/event-loop](https://github.com/revoltphp/event-loop)  - _Revolt is a rock-solid event loop for concurrent PHP applications._
 * [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)  - _State-of-the-art TTS model under 25MB 😻_
 
