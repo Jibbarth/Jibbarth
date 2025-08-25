@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1725800066480-7ccf189e9513?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU4ODczNDV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1649482258237-8c1976c42c7d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYwODYyMDl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1750041888982-67a58e6c9014?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU4ODczNTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYwODYyMTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [xXCrash2BomberXx/YouTubio](https://github.com/xXCrash2BomberXx/YouTubio) 
+* [TheGrimmChester/Musicarr](https://github.com/TheGrimmChester/Musicarr) 
 * [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)  - _A CLI tool for analyzing Claude Code usage from local JSONL files._
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)  - _Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS._
 * [ajgarlag/feature-flag-bundle](https://github.com/ajgarlag/feature-flag-bundle)  - _Provides a feature flag mechanism for Symfony Appllications_
-* [revoltphp/event-loop](https://github.com/revoltphp/event-loop)  - _Revolt is a rock-solid event loop for concurrent PHP applications._
-* [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)  - _State-of-the-art TTS model under 25MB 😻_
 
 <details>
 <summary> Want to see my github stats ? </summary>
