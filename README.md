@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1603297638322-c7a08d52966c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3NzczMTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1650600538903-ec09f670c391?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3OTQ3NzZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1657405826726-ac52271d3bb1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3NzczMTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1654481427023-d98873753774?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3OTQ3ODJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,7 +55,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
-* [xXCrash2BomberXx/YouTubio](https://github.com/xXCrash2BomberXx/YouTubio) 
+* [xXCrash2BomberXx/YouTubio](https://github.com/xXCrash2BomberXx/YouTubio)  - _Watch YouTube videos, subscriptions, watch later, and history in Stremio._
 * [TheGrimmChester/Musicarr](https://github.com/TheGrimmChester/Musicarr) 
 * [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)  - _A CLI tool for analyzing Claude Code usage from local JSONL files._
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)  - _Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS._
