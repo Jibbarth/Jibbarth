@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1521185496955-15097b20c5fe?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczMTMxODd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1574547777892-5046c9dae4b2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjExMzcyMjh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1649451844813-3130d6f42f8a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczMTMxOTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1585314455738-55f248937b76?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjExMzcyMzN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] Fixes after tests](https://github.com/synolia/SyliusPayPlugPlugin/pull/178) - _OPEN_
 * [[symfony-docs] [UX] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 * [[SyliusAkeneoPlugin] [Sylius 2.x] Added post flush event for product](https://github.com/synolia/SyliusAkeneoPlugin/pull/208) - _OPEN_
+* [[site-src] Regular update](https://github.com/Jibbarth/site-src/pull/121) - _OPEN_
 
 **🌟 Latest Stars**:
 
-* [xXCrash2BomberXx/YouTubio](https://github.com/xXCrash2BomberXx/YouTubio)  - _Watch YouTube videos, subscriptions, watch later, and history in Stremio._
-* [TheGrimmChester/Musicarr](https://github.com/TheGrimmChester/Musicarr) 
-* [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)  - _A CLI tool for analyzing Claude Code usage from local JSONL files._
-* [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)  - _Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS._
-* [ajgarlag/feature-flag-bundle](https://github.com/ajgarlag/feature-flag-bundle)  - _Provides a feature flag mechanism for Symfony Appllications_
+* [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)  - _Discover best root apps, Magisk &amp; LSPosed(xposed) modules with step-by-step rooting guides_
+* [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf)  - _Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)_
+* [surajverma/homehub](https://github.com/surajverma/homehub)  - _A lightweight, no-login, self-hosted family utility for your home._
+* [strandnerd/tunn](https://github.com/strandnerd/tunn)  - _SSH tunnels made simple: Launch and monitor SSH tunnels from a single YAML config and your existing OpenSSH setup._
+* [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia)  - _Make your screenshots ready for all_
 
 <details>
 <summary> Want to see my github stats ? </summary>
