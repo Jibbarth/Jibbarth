@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1737408011230-995d7a7aca1b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE3NDIwMzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1649482258237-8c1976c42c7d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE3NjI3NTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1641736494173-e7d5775121b2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE3NDIwMzV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1745674684498-1547fd240f5d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE3NjI3NTh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)  - _Weighs the soul of incoming HTTP requests to stop AI crawlers_
 * [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)  - _Discover best root apps, Magisk &amp; LSPosed(xposed) modules with step-by-step rooting guides_
 * [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf)  - _Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)_
 * [surajverma/homehub](https://github.com/surajverma/homehub)  - _A lightweight, no-login, self-hosted family utility for your home._
 * [strandnerd/tunn](https://github.com/strandnerd/tunn)  - _SSH tunnels made simple: Launch and monitor SSH tunnels from a single YAML config and your existing OpenSSH setup._
-* [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia)  - _Make your screenshots ready for all_
 
 <details>
 <summary> Want to see my github stats ? </summary>
