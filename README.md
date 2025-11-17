@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1526925539332-aa3b66e35444?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE5MzU1MTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMzNjk5Njd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1665360786492-ace5845fe817?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE5MzU1MjJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1630734242390-57d9437c08ab?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMzNjk5NzJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[SyliusSchedulerCommandPlugin] [Sylius-V1] Fix multiple launch when run at same time](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/112) - _OPEN_
 * [[symfony-docs] [UX] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 * [[SyliusAkeneoPlugin] [Sylius 2.x] Added post flush event for product](https://github.com/synolia/SyliusAkeneoPlugin/pull/208) - _OPEN_
-* [[site-src] Regular update](https://github.com/Jibbarth/site-src/pull/121) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [CorentinBoutillier/invoice-bundle](https://github.com/CorentinBoutillier/invoice-bundle)  - _Symfony Bundle for invoice and credit note management compliant with French legal regulations_
+* [beeyev/disposable-email-filter-php](https://github.com/beeyev/disposable-email-filter-php)  - _🗑 Disposable (temporary/throwaway/fake) email detection library. Framework agnostic with Laravel support included. Automatically updated._
 * [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)  - _Weighs the soul of incoming HTTP requests to stop AI crawlers_
 * [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)  - _Discover best root apps, Magisk &amp; LSPosed(xposed) modules with step-by-step rooting guides_
 * [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf)  - _Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)_
-* [surajverma/homehub](https://github.com/surajverma/homehub)  - _A lightweight, no-login, self-hosted family utility for your home._
-* [strandnerd/tunn](https://github.com/strandnerd/tunn)  - _SSH tunnels made simple: Launch and monitor SSH tunnels from a single YAML config and your existing OpenSSH setup._
 
 <details>
 <summary> Want to see my github stats ? </summary>
