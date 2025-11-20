@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1731924009776-2f486f3a2c1f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NDI4NTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1759661990336-51bd4b951fea?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NjM2NjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1649482258237-8c1976c42c7d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NDI4NTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1635076433900-bf2e97876e46?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NjM2NjV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusSchedulerCommandPlugin] [Sylius-V1] Fix multiple launch when run at same time](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/112) - _OPEN_
 * [[symfony-docs] [UX] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 * [[SyliusAkeneoPlugin] [Sylius 2.x] Added post flush event for product](https://github.com/synolia/SyliusAkeneoPlugin/pull/208) - _OPEN_
+* [[site-src] Regular update](https://github.com/Jibbarth/site-src/pull/121) - _OPEN_
 
 **🌟 Latest Stars**:
 
