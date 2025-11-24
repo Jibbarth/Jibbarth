@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1592609931095-54a2168ae893?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NjYxNjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1604781109199-ced99b89b0f6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5ODg2MjF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1630852722133-b0e7bd31aaf7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NjYxNjl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1661523892060-c9ab9eac3291?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5ODg2MjZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[tailwind-bundle] Allow symfony 8.0](https://github.com/SymfonyCasts/tailwind-bundle/pull/117) - _OPEN_
 * [[grumphp] Add support for Symfony 8.0](https://github.com/phpro/grumphp/pull/1194) - _OPEN_
 * [[SyliusSchedulerCommandPlugin] Use sylius/test-application](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/116) - _OPEN_
+* [[symfony-docs] [UX] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux)  - _PHPStan rules for Symfony UX_
 * [CorentinBoutillier/invoice-bundle](https://github.com/CorentinBoutillier/invoice-bundle)  - _Symfony Bundle for invoice and credit note management compliant with French legal regulations_
 * [beeyev/disposable-email-filter-php](https://github.com/beeyev/disposable-email-filter-php)  - _🗑 Disposable (temporary/throwaway/fake) email detection library. Framework agnostic with Laravel support included. Automatically updated._
 * [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)  - _Weighs the soul of incoming HTTP requests to stop AI crawlers_
 * [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)  - _Discover best root apps, Magisk &amp; LSPosed(xposed) modules with step-by-step rooting guides_
-* [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf)  - _Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)_
 
 <details>
 <summary> Want to see my github stats ? </summary>
