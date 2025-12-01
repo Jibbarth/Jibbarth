@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1563172218-cc4b58795905?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ1OTM0NjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1563019589-7e7db5152430?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2MTQzMTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1591453089343-9ee5e4ac7e2d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ1OTM0NjV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1763568258299-0bac211f204e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2MTQzMTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro)  - _🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model._
 * [SymfonyCon/2025-talks](https://github.com/SymfonyCon/2025-talks) 
 * [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux)  - _PHPStan rules for Symfony UX_
 * [CorentinBoutillier/invoice-bundle](https://github.com/CorentinBoutillier/invoice-bundle)  - _Symfony Bundle for invoice and credit note management compliant with French legal regulations_
 * [beeyev/disposable-email-filter-php](https://github.com/beeyev/disposable-email-filter-php)  - _🗑 Disposable (temporary/throwaway/fake) email detection library. Framework agnostic with Laravel support included. Automatically updated._
-* [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)  - _Weighs the soul of incoming HTTP requests to stop AI crawlers_
 
 <details>
 <summary> Want to see my github stats ? </summary>
