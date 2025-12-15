@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjU3ODA4Mzl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1760548425425-e42e77fa38f1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjU4MDMyNzh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1590739372883-d705f5549803?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjU3ODA4NDR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1734380882627-0494b238505d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjU4MDMyODR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [EdouardCourty/doctrine-export-bundle](https://github.com/EdouardCourty/doctrine-export-bundle)  - _A Symfony bundle for exporting Doctrine entities to various formats (CSV, JSON, XML)_
+* [abdellahrk/SeoBundle](https://github.com/abdellahrk/SeoBundle)  - _A complete SEO solution for Symfony projects. This bundle handles meta tags, Open Graph, Twitter Cards, canonical URLs, sitemaps, and more—helping your app stay search-engine friendly and socially shareable out of the box._
 * [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)  - _Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend._
 * [xMazaki/vps-nextjs-malware-cleaner](https://github.com/xMazaki/vps-nextjs-malware-cleaner) 
 * [TheGrimmChester/OpenProfilingAgent](https://github.com/TheGrimmChester/OpenProfilingAgent) 
-* [GromNaN/symfony-config-xml-to-php](https://github.com/GromNaN/symfony-config-xml-to-php)  - _Script to convert Symfony config files from XML to PHP_
-* [HGHugo/FreeboxOS-Ultra-Dashboard](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard)  - _Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique._
 
 <details>
 <summary> Want to see my github stats ? </summary>
