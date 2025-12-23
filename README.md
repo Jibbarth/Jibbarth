@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1588690154757-badf4644190f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY0OTQzMjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1517512006864-7edc3b933137?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY1MTQ5ODF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1649451844889-0110c54695f9?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY0OTQzMzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1763568258676-4820da595b60?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY1MTQ5ODZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusMaintenancePlugin] Use sylius/test-application](https://github.com/synolia/SyliusMaintenancePlugin/pull/52) - _OPEN_
-* [[symfony-docs] [UX] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
-* [[SyliusAkeneoPlugin] [Sylius 2.x] Added post flush event for product](https://github.com/synolia/SyliusAkeneoPlugin/pull/208) - _OPEN_
+* [[SyliusMaintenancePlugin] Fix documentation about start server](https://github.com/synolia/SyliusMaintenancePlugin/pull/53) - _OPEN_
+* [[SyliusSchedulerCommandPlugin] Fix documentation about start server](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/119) - _OPEN_
+* [[SyliusMailTesterPlugin] Use sylius/test-application](https://github.com/synolia/SyliusMailTesterPlugin/pull/45) - _OPEN_
 
 **🌟 Latest Stars**:
 
