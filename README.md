@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1763568258388-25a20ddd8a95?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY1ODA2MTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1624948384140-e48e47087fad?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY2MDEzMTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1634838083208-ce7a36701fe4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY1ODA2MTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1539151816554-d2f5c3abd1f2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY2MDEzMTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -50,8 +50,8 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 **👨‍💻 Latest Pull Requests**:
 
 * [[SyliusMaintenancePlugin] Fix documentation about start server](https://github.com/synolia/SyliusMaintenancePlugin/pull/53) - _OPEN_
-* [[SyliusSchedulerCommandPlugin] Fix documentation about start server](https://github.com/synolia/SyliusSchedulerCommandPlugin/pull/119) - _OPEN_
 * [[SyliusMailTesterPlugin] Use sylius/test-application](https://github.com/synolia/SyliusMailTesterPlugin/pull/45) - _OPEN_
+* [[symfony-docs] [UX] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 
 **🌟 Latest Stars**:
 
