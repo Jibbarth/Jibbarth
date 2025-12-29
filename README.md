@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY5OTA0NDh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1763568258672-7f0b6d2aeaf2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcwMTI3NzF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1707061229218-c7611e720882?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY5OTA0NTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1670726121764-037c4f862dc1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcwMTI3NzZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [pranshuparmar/witr](https://github.com/pranshuparmar/witr)  - _Why is this running?_
 * [chrome-php/chrome](https://github.com/chrome-php/chrome)  - _Instrument headless chrome/chromium instances from PHP_
 * [sonnymilton/vibedebug-bundle](https://github.com/sonnymilton/vibedebug-bundle)  - _A Symfony bundle for vibe-debugging (integrated with symfony/ai)_
 * [EdouardCourty/doctrine-export-bundle](https://github.com/EdouardCourty/doctrine-export-bundle)  - _A Symfony bundle for exporting Doctrine entities to various formats (CSV, JSON, XML)_
 * [abdellahrk/SeoBundle](https://github.com/abdellahrk/SeoBundle)  - _A complete SEO solution for Symfony projects. This bundle handles meta tags, Open Graph, Twitter Cards, canonical URLs, sitemaps, and more—helping your app stay search-engine friendly and socially shareable out of the box._
-* [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)  - _Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend._
 
 <details>
 <summary> Want to see my github stats ? </summary>
