@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1580894894513-541e068a3e2b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY3NzQwODF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1648407800298-2cdf339c8e47?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY5NzM5MDh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1587740924099-8f761e382e17?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY3NzQwODd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1669023414166-a4cc7c0fe1f5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY5NzM5MTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusMaintenancePlugin] Fix documentation about start server](https://github.com/synolia/SyliusMaintenancePlugin/pull/53) - _OPEN_
 * [[SyliusMailTesterPlugin] Use sylius/test-application](https://github.com/synolia/SyliusMailTesterPlugin/pull/45) - _OPEN_
 * [[symfony-docs] [UX] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
+* [[SyliusAkeneoPlugin] [Sylius 2.x] Added post flush event for product](https://github.com/synolia/SyliusAkeneoPlugin/pull/208) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [chrome-php/chrome](https://github.com/chrome-php/chrome)  - _Instrument headless chrome/chromium instances from PHP_
+* [sonnymilton/vibedebug-bundle](https://github.com/sonnymilton/vibedebug-bundle)  - _A Symfony bundle for vibe-debugging (integrated with symfony/ai)_
 * [EdouardCourty/doctrine-export-bundle](https://github.com/EdouardCourty/doctrine-export-bundle)  - _A Symfony bundle for exporting Doctrine entities to various formats (CSV, JSON, XML)_
 * [abdellahrk/SeoBundle](https://github.com/abdellahrk/SeoBundle)  - _A complete SEO solution for Symfony projects. This bundle handles meta tags, Open Graph, Twitter Cards, canonical URLs, sitemaps, and more—helping your app stay search-engine friendly and socially shareable out of the box._
 * [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)  - _Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend._
-* [xMazaki/vps-nextjs-malware-cleaner](https://github.com/xMazaki/vps-nextjs-malware-cleaner) 
-* [TheGrimmChester/OpenProfilingAgent](https://github.com/TheGrimmChester/OpenProfilingAgent) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
