@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1649442279048-1003921e23e0?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcwNzY2OTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1586244346400-7ec57cda0c8b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcwOTkxMjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcwNzY2OTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1606166325695-ce4d64e3195f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcwOTkxMjZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Gujal00/ResolveURL](https://github.com/Gujal00/ResolveURL)  - _Fork of UrlResolver for XBMC by @t0mm0, @eldorados, @bstrdsmkr, @tknorris and @jsergio123_
 * [pranshuparmar/witr](https://github.com/pranshuparmar/witr)  - _Why is this running?_
 * [chrome-php/chrome](https://github.com/chrome-php/chrome)  - _Instrument headless chrome/chromium instances from PHP_
 * [sonnymilton/vibedebug-bundle](https://github.com/sonnymilton/vibedebug-bundle)  - _A Symfony bundle for vibe-debugging (integrated with symfony/ai)_
 * [EdouardCourty/doctrine-export-bundle](https://github.com/EdouardCourty/doctrine-export-bundle)  - _A Symfony bundle for exporting Doctrine entities to various formats (CSV, JSON, XML)_
-* [abdellahrk/SeoBundle](https://github.com/abdellahrk/SeoBundle)  - _A complete SEO solution for Symfony projects. This bundle handles meta tags, Open Graph, Twitter Cards, canonical URLs, sitemaps, and more—helping your app stay search-engine friendly and socially shareable out of the box._
 
 <details>
 <summary> Want to see my github stats ? </summary>
