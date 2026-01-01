@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcyNzE4Mzd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1763568258449-44718bd82b70?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcyOTI1MTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1763568258676-4820da595b60?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcyNzE4NDN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1763568258696-32147bb44379?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcyOTI1MTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [browserless/browserless](https://github.com/browserless/browserless)  - _Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses._
 * [Gujal00/ResolveURL](https://github.com/Gujal00/ResolveURL)  - _Fork of UrlResolver for XBMC by @t0mm0, @eldorados, @bstrdsmkr, @tknorris and @jsergio123_
 * [pranshuparmar/witr](https://github.com/pranshuparmar/witr)  - _Why is this running?_
 * [chrome-php/chrome](https://github.com/chrome-php/chrome)  - _Instrument headless chrome/chromium instances from PHP_
 * [sonnymilton/vibedebug-bundle](https://github.com/sonnymilton/vibedebug-bundle)  - _A Symfony bundle for vibe-debugging (integrated with symfony/ai)_
-* [EdouardCourty/doctrine-export-bundle](https://github.com/EdouardCourty/doctrine-export-bundle)  - _A Symfony bundle for exporting Doctrine entities to various formats (CSV, JSON, XML)_
 
 <details>
 <summary> Want to see my github stats ? </summary>
