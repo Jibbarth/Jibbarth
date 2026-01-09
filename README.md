@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1763568258338-94886e7533ab?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc5NDA3NzZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1656680632373-e2aec264296b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc5NjMxNzl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1719253481072-5579e62d0a3f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc5NDA3ODJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649180564403-db28d5673f48?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc5NjMxODR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[symfony-docs] [UX-Bundle] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 * [[SyliusMailTesterPlugin] Use sylius/test-application](https://github.com/synolia/SyliusMailTesterPlugin/pull/45) - _OPEN_
-* [[symfony-docs] [UX] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 * [[SyliusAkeneoPlugin] [Sylius 2.x] Added post flush event for product](https://github.com/synolia/SyliusAkeneoPlugin/pull/208) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery)  - _Puts Docker Containers to sleep and wakes them back up when they&#039;re needed_
 * [ahmed-bhs/doctrine-doctor](https://github.com/ahmed-bhs/doctrine-doctor)  - _🩺⚡ Runtime Doctrine ORM analysis integrated into Symfony Web Profiler. Detect N+1 queries, security vulnerabilities, and performance issues that static analysis can&#039;t see  during query execution._
 * [portainer/portainer](https://github.com/portainer/portainer)  - _Making Docker and Kubernetes management easy._
 * [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata)  - _Home Assistant integration to detect washer cycles from smart plug power, match programs, and estimate time remaining_
 * [senyo888/Humidity-Intelligence](https://github.com/senyo888/Humidity-Intelligence)  - _Smart humidity intelligence for Home Assistant – badges, comfort band and 24-hour multi-room chart._
-* [browserless/browserless](https://github.com/browserless/browserless)  - _Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses._
 
 <details>
 <summary> Want to see my github stats ? </summary>
