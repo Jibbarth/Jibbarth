@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc5ODM4NzJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1724654814378-108c93f5fa54?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjgxMzQxMTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1657405826726-ac52271d3bb1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc5ODM4Nzh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1760548425425-e42e77fa38f1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjgxMzQxMTh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [vernu/vps-audit](https://github.com/vernu/vps-audit)  - _lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers._
 * [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery)  - _Puts Docker Containers to sleep and wakes them back up when they&#039;re needed_
 * [ahmed-bhs/doctrine-doctor](https://github.com/ahmed-bhs/doctrine-doctor)  - _🩺⚡ Runtime Doctrine ORM analysis integrated into Symfony Web Profiler. Detect N+1 queries, security vulnerabilities, and performance issues that static analysis can&#039;t see  during query execution._
 * [portainer/portainer](https://github.com/portainer/portainer)  - _Making Docker and Kubernetes management easy._
 * [3dg1luk43/ha_washdata](https://github.com/3dg1luk43/ha_washdata)  - _Home Assistant integration to detect washer cycles from smart plug power, match programs, and estimate time remaining_
-* [senyo888/Humidity-Intelligence](https://github.com/senyo888/Humidity-Intelligence)  - _Smart humidity intelligence for Home Assistant – badges, comfort band and 24-hour multi-room chart._
 
 <details>
 <summary> Want to see my github stats ? </summary>
