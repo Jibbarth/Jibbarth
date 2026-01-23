@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1753715613388-7e03410b1dce?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjkxNTA0MTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1622858674121-e8cb8b5e6d9f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjkxNzI5MTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjkxNTA0MjJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjkxNzI5MjF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Sylius/LegacyShopBridgePlugin](https://github.com/Sylius/LegacyShopBridgePlugin) 
 * [tomloprod/radiance](https://github.com/tomloprod/radiance)  - _Radiance is a modern PHP library designed to generate beautiful, deterministic mesh gradient avatars from any string. Same input always produces the same unique avatar: perfect for user profiles, identicons and more._
 * [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com)  - _The ux.symfony.com website_
 * [Thyraz/energy-custom-graph](https://github.com/Thyraz/energy-custom-graph)  - _Custom Home Assistant graph card based on the internal echarts and support for the energy date picker_
 * [FezVrasta/cafe-hass](https://github.com/FezVrasta/cafe-hass)  - _The &quot;Third Way&quot; for Home Assistant Automations._
-* [vernu/vps-audit](https://github.com/vernu/vps-audit)  - _lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers._
 
 <details>
 <summary> Want to see my github stats ? </summary>
