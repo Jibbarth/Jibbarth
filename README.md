@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1623282033815-40b05d96c903?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAyMTA0NTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1520583457224-aee11bad5112?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAyMzEzODd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAyMTA0NTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAyMzEzOTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [odolbeau/TestedRoutesCheckerBundle](https://github.com/odolbeau/TestedRoutesCheckerBundle)  - _A bundle to ensure all routes of a Symfony application have been tested!_
 * [giscus/giscus](https://github.com/giscus/giscus)  - _A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:_
 * [Sylius/LegacyShopBridgePlugin](https://github.com/Sylius/LegacyShopBridgePlugin) 
 * [tomloprod/radiance](https://github.com/tomloprod/radiance)  - _Radiance is a modern PHP library designed to generate beautiful, deterministic mesh gradient avatars from any string. Same input always produces the same unique avatar: perfect for user profiles, identicons and more._
 * [symfony/ux.symfony.com](https://github.com/symfony/ux.symfony.com)  - _The ux.symfony.com website_
-* [Thyraz/energy-custom-graph](https://github.com/Thyraz/energy-custom-graph)  - _Custom Home Assistant graph card based on the internal echarts and support for the energy date picker_
 
 <details>
 <summary> Want to see my github stats ? </summary>
