@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1759661881353-5b9cc55e1cf4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA0MDQxOTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1725800066480-7ccf189e9513?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA2MDQ0Njl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA0MDQxOTh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA2MDQ0NzR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome)  - _Minimalist, Unlimited Music Streaming._
 * [jaysalvat/image2css](https://github.com/jaysalvat/image2css)  - _Pointless PHP class to convert image to CSS box-shadow property._
 * [maxperei/SyliusDaisyuiAdminUi](https://github.com/maxperei/SyliusDaisyuiAdminUi) 
 * [odolbeau/TestedRoutesCheckerBundle](https://github.com/odolbeau/TestedRoutesCheckerBundle)  - _A bundle to ensure all routes of a Symfony application have been tested!_
 * [giscus/giscus](https://github.com/giscus/giscus)  - _A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:_
-* [Sylius/LegacyShopBridgePlugin](https://github.com/Sylius/LegacyShopBridgePlugin) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
