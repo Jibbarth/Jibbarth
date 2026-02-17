@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzMTE4Mjl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1639755507638-e34150b56db2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzMzM5MDR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzMTE4MzV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] Fix compatibility when mollie plugin is here](https://github.com/synolia/SyliusPayPlugPlugin/pull/180) - _OPEN_
 * [[symfony-docs] [UX-Bundle] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
+* [[SyliusPayPlugPlugin] Fix compatibility when mollie plugin is here](https://github.com/synolia/SyliusPayPlugPlugin/pull/180) - _OPEN_
 * [[webpack-encore] [Stimulus Bridge] Entrypoint: Allow to import aliases](https://github.com/symfony/webpack-encore/pull/1390) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [Kerrialn/autocomplete](https://github.com/Kerrialn/autocomplete)  - _Server side rendering autocomplete bundle for Symfony using Stimulus_
 * [pshenok/server-survival](https://github.com/pshenok/server-survival)  - _Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling._
 * [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome)  - _Minimalist, Unlimited Music Streaming._
 * [jaysalvat/image2css](https://github.com/jaysalvat/image2css)  - _Pointless PHP class to convert image to CSS box-shadow property._
 * [maxperei/SyliusDaisyuiAdminUi](https://github.com/maxperei/SyliusDaisyuiAdminUi) 
-* [odolbeau/TestedRoutesCheckerBundle](https://github.com/odolbeau/TestedRoutesCheckerBundle)  - _A bundle to ensure all routes of a Symfony application have been tested!_
 
 <details>
 <summary> Want to see my github stats ? </summary>
