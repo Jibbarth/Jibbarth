@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1763568258612-0ae7f6eb1422?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIwNzI3NzZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1546464033-5b15cf1168f1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIwODk0OTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIwNzI3ODJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIwODk1MDF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [tempestphp/100-million-row-challenge](https://github.com/tempestphp/100-million-row-challenge) 
 * [Kerrialn/autocomplete](https://github.com/Kerrialn/autocomplete)  - _Server side rendering autocomplete bundle for Symfony using Stimulus_
 * [pshenok/server-survival](https://github.com/pshenok/server-survival)  - _Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling._
 * [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome)  - _Minimalist, Unlimited Music Streaming._
 * [jaysalvat/image2css](https://github.com/jaysalvat/image2css)  - _Pointless PHP class to convert image to CSS box-shadow property._
-* [maxperei/SyliusDaisyuiAdminUi](https://github.com/maxperei/SyliusDaisyuiAdminUi) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
