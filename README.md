@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1622858674121-e8cb8b5e6d9f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI2MDcyNTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1731924009776-2f486f3a2c1f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI2Mjk0NjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI2MDcyNTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI2Mjk0NzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [knoop7/Ava](https://github.com/knoop7/Ava)  - _Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel_
 * [yoanbernabeu/WebMcpBundle](https://github.com/yoanbernabeu/WebMcpBundle)  - _Symfony bundle that exposes controller routes as Web MCP tools using PHP attributes_
 * [tempestphp/100-million-row-challenge](https://github.com/tempestphp/100-million-row-challenge) 
 * [Kerrialn/autocomplete](https://github.com/Kerrialn/autocomplete)  - _Server side rendering autocomplete bundle for Symfony using Stimulus_
 * [pshenok/server-survival](https://github.com/pshenok/server-survival)  - _Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling._
-* [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome)  - _Minimalist, Unlimited Music Streaming._
 
 <details>
 <summary> Want to see my github stats ? </summary>
