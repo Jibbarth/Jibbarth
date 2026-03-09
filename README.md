@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1542762933-ab3502717ce7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMwNDAwMTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1634838083208-ce7a36701fe4?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMwNjE5MDJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMwNDAwMTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMwNjE5MDd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] PPSYL-177 - handle canceled by oney status](https://github.com/synolia/SyliusPayPlugPlugin/pull/182) - _OPEN_
 * [[SyliusPayPlugPlugin] Feature/PPSYL-173 handle refunds properly](https://github.com/synolia/SyliusPayPlugPlugin/pull/181) - _OPEN_
 * [[webpack-encore] [Stimulus Bridge] Entrypoint: Allow to import aliases](https://github.com/symfony/webpack-encore/pull/1390) - _OPEN_
+* [[symfony-docs] [UX-Bundle] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [martinkup/symfony-profiler-optimization-advisor-bundle](https://github.com/martinkup/symfony-profiler-optimization-advisor-bundle)  - _Symfony Profiler meta data collector — reads from Doctrine, Cache, Twig, Events, HTTP Client, Messenger &amp; Stopwatch collectors to detect N+1 queries, slow SQL, cache misses, hot templates &amp; 10 more anti-patterns. Scores findings by impact/effort/confidence/ROI with prepared AI agent prompts. Directly queryable via AI coding tools like Claude Code._
 * [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr)  - _Get your valid antibot cookies yourself!_
 * [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)  - _The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel._
 * [Luligu/matterbridge](https://github.com/Luligu/matterbridge)  - _Matterbridge plugin manager for Matter_
 * [knoop7/Ava](https://github.com/knoop7/Ava)  - _Turn any Android 7-16 device into a Bluetooth proxy all-in-one smart home control panel_
-* [yoanbernabeu/WebMcpBundle](https://github.com/yoanbernabeu/WebMcpBundle)  - _Symfony bundle that exposes controller routes as Web MCP tools using PHP attributes_
 
 <details>
 <summary> Want to see my github stats ? </summary>
