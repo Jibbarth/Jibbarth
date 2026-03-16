@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM0Mjc3NjN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1763568258338-94886e7533ab?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM2MjkwMzN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM0Mjc3Njh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM2MjkwMzh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [pronskiy/php-debugger](https://github.com/pronskiy/php-debugger)  - _Lightweight PHP debugger extension (forked from Xdebug, stripped to debug-only and optimized)_
 * [upstash/context7](https://github.com/upstash/context7)  - _Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors_
 * [symfony/ai-mate](https://github.com/symfony/ai-mate)  - _AI development assistant MCP server for Symfony projects_
 * [martinkup/symfony-profiler-optimization-advisor-bundle](https://github.com/martinkup/symfony-profiler-optimization-advisor-bundle)  - _Symfony Profiler meta data collector — reads from Doctrine, Cache, Twig, Events, HTTP Client, Messenger &amp; Stopwatch collectors to detect N+1 queries, slow SQL, cache misses, hot templates &amp; 10 more anti-patterns. Scores findings by impact/effort/confidence/ROI with prepared AI agent prompts. Directly queryable via AI coding tools like Claude Code._
 * [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr)  - _Get your valid antibot cookies yourself!_
-* [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)  - _The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel._
 
 <details>
 <summary> Want to see my github stats ? </summary>
