@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1760548425425-e42e77fa38f1?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNTAxODF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1505238680356-667803448bb6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNzE3NjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNTAxODZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNzE3NzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [sfortis/massdroid_native](https://github.com/sfortis/massdroid_native)  - _Native Android client for Music Assistant built around music exploration and discovery. Multiroom ready, smart recommendations, Last.fm enrichment, similar artists and Sendspin protocol for phone playback._
 * [awf-project/cli](https://github.com/awf-project/cli)  - _A Go CLI tool for orchestrating AI agents through YAML workflows_
 * [php-debugger/php-debugger](https://github.com/php-debugger/php-debugger)  - _Lightweight PHP debugger extension (forked from Xdebug, stripped to debug-only and optimized)_
 * [upstash/context7](https://github.com/upstash/context7)  - _Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors_
 * [symfony/ai-mate](https://github.com/symfony/ai-mate)  - _AI development assistant MCP server for Symfony projects_
-* [martinkup/symfony-profiler-optimization-advisor-bundle](https://github.com/martinkup/symfony-profiler-optimization-advisor-bundle)  - _Symfony Profiler meta data collector — reads from Doctrine, Cache, Twig, Events, HTTP Client, Messenger &amp; Stopwatch collectors to detect N+1 queries, slow SQL, cache misses, hot templates &amp; 10 more anti-patterns. Scores findings by impact/effort/confidence/ROI with prepared AI agent prompts. Directly queryable via AI coding tools like Claude Code._
 
 <details>
 <summary> Want to see my github stats ? </summary>
