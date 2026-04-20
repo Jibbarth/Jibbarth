@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1701570062675-a0de525284b7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUxNTY1MDh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1653406759381-4d6ca279cab3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2NTYxMjd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUxNTY1MTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2NTYxMzJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[SyliusPayPlugPlugin] PPSYL-176 - Refact payment methods / improve ApplePay integration](https://github.com/synolia/SyliusPayPlugPlugin/pull/183) - _OPEN_
 * [[Stack] [BootstrapAdminUI] Expose as ux bundle ](https://github.com/Sylius/Stack/pull/362) - _OPEN_
 * [[webpack-encore] [Stimulus Bridge] Entrypoint: Allow to import aliases](https://github.com/symfony/webpack-encore/pull/1390) - _OPEN_
+* [[symfony-docs] [UX-Bundle] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 
 **🌟 Latest Stars**:
 
-* [rtk-ai/rtk](https://github.com/rtk-ai/rtk)  - _CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies_
-* [sfortis/massdroid_native](https://github.com/sfortis/massdroid_native)  - _Massdroid is a native Android client for Music Assistant, focused on music exploration and discovery. Features include Follow-me mode using BLE fingerprinting, smart recommendations, Last.fm enrichment, similar artists, and Sendspin protocol for phone playback._
-* [awf-project/cli](https://github.com/awf-project/cli)  - _A Go CLI tool for orchestrating AI agents through YAML workflows_
-* [php-debugger/php-debugger](https://github.com/php-debugger/php-debugger)  - _Lightweight PHP debugger extension (forked from Xdebug, stripped to debug-only and optimized)_
-* [upstash/context7](https://github.com/upstash/context7)  - _Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors_
+* [cinepro-org/core](https://github.com/cinepro-org/core)  - _A multi-site stream scraper for Movies and TV Shows! Get up to 100+ unique playable sources per media! Read the Docs: https://cinepro.mintlify.app_
+* [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)  - _A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES._
+* [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)  - _A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#039;s observations on LLM coding pitfalls._
+* [SvReenen/Deskdrop](https://github.com/SvReenen/Deskdrop)  - _Android keyboard with local AI (Ollama, Whisper, MCP) or cloud (Gemini, Groq, OpenAI)_
+* [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient)  - _One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes._
 
 <details>
 <summary> Want to see my github stats ? </summary>
