@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1724166551426-77aa7328d053?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4NjYzNjN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1723366319766-21a5f7352c5c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4ODU4Njl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4NjYzNjh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4ODU4NzR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [mhdzumair/mediaflow-proxy-light](https://github.com/mhdzumair/mediaflow-proxy-light)  - _A Lightweight &amp; Lightning MediaFlow Proxy ⚡️_
 * [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  - _🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman_
 * [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)  - _Production-grade engineering skills for AI coding agents._
 * [cinepro-org/core](https://github.com/cinepro-org/core)  - _A multi-site stream scraper for Movies and TV Shows! Get up to 100+ unique playable sources per media! Read the Docs: https://cinepro.mintlify.app_
 * [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)  - _A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES._
-* [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)  - _A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#039;s observations on LLM coding pitfalls._
 
 <details>
 <summary> Want to see my github stats ? </summary>
