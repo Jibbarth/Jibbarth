@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1589585374338-20ef873a738a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczNjUzMjN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1642697283420-194938fcc339?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczODY2MDB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczNjUzMjl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczODY2MDZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[SyliusPayPlugPlugin] PPSYL-184 - Always add a notification url when create payment](https://github.com/synolia/SyliusPayPlugPlugin/pull/184) - _OPEN_
 * [[Stack] [BootstrapAdminUI] Expose as ux bundle ](https://github.com/Sylius/Stack/pull/362) - _OPEN_
 * [[webpack-encore] [Stimulus Bridge] Entrypoint: Allow to import aliases](https://github.com/symfony/webpack-encore/pull/1390) - _OPEN_
-* [[symfony-docs] [UX-Bundle] Expose entrypoint](https://github.com/symfony/symfony-docs/pull/21292) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  - _🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!_
 * [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)  - _The headless browser for AI agents and web scraping_
 * [enetx/surf](https://github.com/enetx/surf)  - _SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping._
 * [ofalvai/home-assistant-candy](https://github.com/ofalvai/home-assistant-candy)  - _Unofficial Candy/Haier appliance integration for Home Assistant_
 * [mhdzumair/mediaflow-proxy-light](https://github.com/mhdzumair/mediaflow-proxy-light)  - _A Lightweight &amp; Lightning MediaFlow Proxy ⚡️_
-* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)  - _🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman_
 
 <details>
 <summary> Want to see my github stats ? </summary>
