@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1555099962-4199c345e5dd?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3NDg0MTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3Njg5ODd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3NDg0MTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649180559928-91d16a63bd39?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg3Njg5OTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [ruvnet/RuView](https://github.com/ruvnet/RuView)  - _π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video._
 * [decolua/9router](https://github.com/decolua/9router)  - _Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits._
 * [niri-wm/niri](https://github.com/niri-wm/niri)  - _A scrollable-tiling Wayland compositor._
 * [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)  - _Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)_
 * [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)  - _Comfortably monitor your Internet traffic 🕵️‍♂️_
-* [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)  - _🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!_
 
 <details>
 <summary> Want to see my github stats ? </summary>
