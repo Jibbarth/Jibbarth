@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1590608897129-79da98d15969?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NTUwMDV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1599837487527-e009248aa71b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NzQ0Njh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NTUwMTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg4NzQ0NzN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [imputnet/cobalt](https://github.com/imputnet/cobalt)  - _best way to save what you love_
 * [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio)  - _The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App_
 * [GromNaN/local-browser-translator](https://github.com/GromNaN/local-browser-translator)  - _Local in-browser translation using Chrome&#039;s built-in Gemini Nano (Prompt API). No server, no API key._
 * [ruvnet/RuView](https://github.com/ruvnet/RuView)  - _π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video._
 * [decolua/9router](https://github.com/decolua/9router)  - _Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits._
-* [niri-wm/niri](https://github.com/niri-wm/niri)  - _A scrollable-tiling Wayland compositor._
 
 <details>
 <summary> Want to see my github stats ? </summary>
