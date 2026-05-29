@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1669023414171-56f0740e34cd?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwNzAyNzd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwODY4NjZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwNzAyODN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwODY4NzF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)  - _🧘 An updatable, open source Instagram app for Android without distractions._
+* [Nutlope/hallmark](https://github.com/Nutlope/hallmark)  - _Anti-AI-slop design skill for Claude Code, Cursor, and Codex._
 * [affaan-m/ECC](https://github.com/affaan-m/ECC)  - _The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond._
 * [zouyq/jetbrains-ai-proxy](https://github.com/zouyq/jetbrains-ai-proxy)  - _convert jetbrains-ai to openai_
 * [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  - _omo; the best agent harness - previously oh-my-opencode_
-* [pbakaus/impeccable](https://github.com/pbakaus/impeccable)  - _The design language that makes your AI harness better at design._
-* [yceruto/bundle-skeleton](https://github.com/yceruto/bundle-skeleton)  - _A minimal Symfony bundle recommended to create new bundles_
 
 <details>
 <summary> Want to see my github stats ? </summary>
