@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1603575448360-153f093fd0b2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzMTQ1MTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1597239451147-f163967b8581?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzMzY0NTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzMTQ1MTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzMzY0NTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [smy778/EncDecEndpoints](https://github.com/smy778/EncDecEndpoints)  - _Fast and simple encryption/decryption API toolkit._
 * [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)  - _🧘 An updatable, open source Instagram app for Android without distractions._
 * [Nutlope/hallmark](https://github.com/Nutlope/hallmark)  - _Anti-AI-slop design skill for Claude Code, Cursor, and Codex._
 * [affaan-m/ECC](https://github.com/affaan-m/ECC)  - _The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond._
 * [zouyq/jetbrains-ai-proxy](https://github.com/zouyq/jetbrains-ai-proxy)  - _convert jetbrains-ai to openai_
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  - _omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering_
 
 <details>
 <summary> Want to see my github stats ? </summary>
