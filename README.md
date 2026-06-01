@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1681583484651-281ae2defb17?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyODk3NjF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1603575448360-153f093fd0b2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzMTQ1MTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyODk3NjV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzMTQ1MTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -59,7 +59,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 * [Nutlope/hallmark](https://github.com/Nutlope/hallmark)  - _Anti-AI-slop design skill for Claude Code, Cursor, and Codex._
 * [affaan-m/ECC](https://github.com/affaan-m/ECC)  - _The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond._
 * [zouyq/jetbrains-ai-proxy](https://github.com/zouyq/jetbrains-ai-proxy)  - _convert jetbrains-ai to openai_
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  - _omo; the best agent harness - previously oh-my-opencode_
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)  - _omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering_
 
 <details>
 <summary> Want to see my github stats ? </summary>
