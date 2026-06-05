@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1605379399642-870262d3d051?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2MzMzMDR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1625459201773-9b2386f53ca2?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NTM4MTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2MzMzMTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NTM4MjF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) 
 * [smy778/EncDecEndpoints](https://github.com/smy778/EncDecEndpoints)  - _Fast and simple encryption/decryption API toolkit._
 * [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram)  - _🧘 An updatable, open source Instagram app for Android without distractions._
 * [Nutlope/hallmark](https://github.com/Nutlope/hallmark)  - _Anti-AI-slop design skill for Claude Code, Cursor, and Codex._
 * [affaan-m/ECC](https://github.com/affaan-m/ECC)  - _The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond._
-* [zouyq/jetbrains-ai-proxy](https://github.com/zouyq/jetbrains-ai-proxy)  - _convert jetbrains-ai to openai_
 
 <details>
 <summary> Want to see my github stats ? </summary>
