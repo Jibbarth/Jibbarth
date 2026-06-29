@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1623479322729-28b25c16b011?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI1MDMyMDR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1555066932-e78dd8fb77bb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3MDQwNTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI1MDMyMTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3MDQwNjF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [ai-driven-dev/framework](https://github.com/ai-driven-dev/framework)  - _Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC_
+* [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models)  - _A curated list of free AI models, APIs, and tools you can use without paying a cent._
+* [Sylius/sylius-mate-extension](https://github.com/Sylius/sylius-mate-extension)  - _Dev-only Symfony AI Mate extension for Sylius: exposes runtime domain (resources, hooks, grids, routes, services) to AI clients via MCP._
 * [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)  - _git push no-mistakes_
 * [batrachianai/toad](https://github.com/batrachianai/toad)  - _A unified interface for AI in your terminal._
-* [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)  - _Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote._
-* [nloui/paperless-mcp](https://github.com/nloui/paperless-mcp)  - _An MCP (Model Context Protocol) server for interacting with a Paperless-NGX API server. This server provides tools for managing documents, tags, correspondents, and document types in your Paperless-NGX instance._
-* [aaif-goose/goose](https://github.com/aaif-goose/goose)  - _an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM_
 
 <details>
 <summary> Want to see my github stats ? </summary>
