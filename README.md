@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1638029202288-451a89e0d55f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI5NjA4Nzl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1592609931095-54a2168ae893?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI5ODIyOTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI5NjA4ODR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI5ODIzMDJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [paperclipai/paperclip](https://github.com/paperclipai/paperclip)  - _The open-source app everyone uses to manage agents at work_
+* [stablyai/orca](https://github.com/stablyai/orca)  - _Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile._
 * [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)  - _Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server._
 * [ai-driven-dev/framework](https://github.com/ai-driven-dev/framework)  - _Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC_
 * [12britz/awesome-free-models](https://github.com/12britz/awesome-free-models)  - _A curated list of free AI models, APIs, and tools you can use without paying a cent._
-* [Sylius/sylius-mate-extension](https://github.com/Sylius/sylius-mate-extension)  - _Dev-only Symfony AI Mate extension for Sylius: exposes runtime domain (resources, hooks, grids, routes, services) to AI clients via MCP._
-* [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)  - _git push no-mistakes_
 
 <details>
 <summary> Want to see my github stats ? </summary>
