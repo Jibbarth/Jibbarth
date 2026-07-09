@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM2MDg2NTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1692106979244-a2ac98253f6b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM2MjYwMTh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM2MDg2NTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM2MjYwMjN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -57,7 +57,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 * [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)  - _Official, Anthropic-managed directory of high quality Claude Code Plugins._
 * [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  - _Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop_
-* [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)  - _OpenWiki is a CLI that writes and maintains agent documentation for your codebase._
+* [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)  - _OpenWiki is a CLI that writes and maintains agent wikis for codebases or purpose memory._
 * [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind)  - _An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI._
 * [open-webui/open-webui](https://github.com/open-webui/open-webui)  - _User-friendly AI Interface (Supports Ollama, OpenAI API, ...)_
 
