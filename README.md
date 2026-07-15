@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1546146830-2cca9512c68e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQxMjIxOTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1573495628363-04667cedc587?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQxNDIzNjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQxMjIxOTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQxNDIzNzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)  - _OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required._
 * [littledivy/mimic](https://github.com/littledivy/mimic)  - _Intercept any app, then call it from Python like a library_
 * [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)  - _Official, Anthropic-managed directory of high quality Claude Code Plugins._
 * [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  - _Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop_
 * [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)  - _OpenWiki is a CLI that writes and maintains agent documentation for your codebase._
-* [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind)  - _An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI._
 
 <details>
 <summary> Want to see my github stats ? </summary>
