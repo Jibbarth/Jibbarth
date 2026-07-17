@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQyOTQ0Mzd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1618389041494-8fab89c3f22b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzMTQ5NTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQyOTQ0NDJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzMTQ5NTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [tobi/qmd](https://github.com/tobi/qmd)  - _mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local_
 * [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit)  - _Your feedback loop with the agent_
 * [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)  - _OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required._
 * [littledivy/mimic](https://github.com/littledivy/mimic)  - _Intercept any app, then call it from Python like a library_
 * [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)  - _Official, Anthropic-managed directory of high quality Claude Code Plugins._
-* [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)  - _Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop_
 
 <details>
 <summary> Want to see my github stats ? </summary>
