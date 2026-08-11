@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1573495628363-04667cedc587?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0NTI5NTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1731839329389-906c44fa1328?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0NzQ2NDV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0NTI5NjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY0NzQ2NDl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [hamr0/beeperbox](https://github.com/hamr0/beeperbox)  - _Plug your AI agent into 50+ messengers (WhatsApp, iMessage, Signal, Telegram, Slack…) through one MCP endpoint. Two modes: a self-contained Docker container (headless Beeper bundled) or a lite npx MCP layer pointed at the Beeper you already run._
+* [letta-ai/letta](https://github.com/letta-ai/letta)  - _Platform for stateful agents: AI with advanced memory that can learn and self-improve over time._
 * [mem0ai/mem0](https://github.com/mem0ai/mem0)  - _Universal memory layer for AI Agents_
 * [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony)  - _Claude Code plugin for Symfony 7.4 LTS &amp; 8.x — 44 skills, 7 AI subagents &amp; 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security &amp; DDD._
 * [mattpocock/skills](https://github.com/mattpocock/skills)  - _Skills for Real Engineers. Straight from my .agents directory._
-* [975L/ConfigBundle](https://github.com/975L/ConfigBundle)  - _Merged into c975l/core-bundle — this bundle now ships from https://github.com/975L/CoreBundle. Database-backed configuration, EasyAdmin dashboard, user accounts, health check and sitemaps of the c975L ecosystem._
-* [block/buzz](https://github.com/block/buzz)  - _A hive mind communication platform_
 
 <details>
 <summary> Want to see my github stats ? </summary>
