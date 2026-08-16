@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3MzMzMDZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1553390774-b4822481c894?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4OTI4Mjd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1649180559928-91d16a63bd39?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY3MzMzMTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4OTI4MzJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,17 +49,17 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
+* [[DoctrineMigrationsExtraBundle] Allow services migrations](https://github.com/SyliusLabs/DoctrineMigrationsExtraBundle/pull/19) - _OPEN_
 * [[symfony-ai] Feature/acp with json rpc peer](https://github.com/Jibbarth/symfony-ai/pull/1) - _OPEN_
 * [[ai] [Platform] Add Agent Client Protocol (ACP) platform Bridge](https://github.com/symfony/ai/pull/2306) - _OPEN_
-* [[Stack] [BootstrapAdminUI] Expose as ux bundle ](https://github.com/Sylius/Stack/pull/362) - _OPEN_
 
 **🌟 Latest Stars**:
 
+* [EvilFreelancer/acpbox](https://github.com/EvilFreelancer/acpbox)  - _OpenAI-compatible HTTP API that acts as a gateway to the Agent Client Protocol (ACP)_
+* [symfony/language-tools](https://github.com/symfony/language-tools)  - _Symfony-aware completion, navigation and diagnostics through the Language Server Protocol_
 * [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)  - _SpiderFoot automates OSINT for threat intelligence and mapping your attack surface._
 * [NanoNets/Graft](https://github.com/NanoNets/Graft)  - _Turbocharge Claude Code, Cursor, Codex, Gemini &amp; every coding agent: faster, cheaper, with contextual understanding specific to your codebase._
 * [hamr0/beeperbox](https://github.com/hamr0/beeperbox)  - _Plug your AI agent into 50+ messengers (WhatsApp, iMessage, Signal, Telegram, Slack…) through one MCP endpoint. Two modes: a self-contained Docker container (headless Beeper bundled) or a lite npx MCP layer pointed at the Beeper you already run._
-* [letta-ai/letta](https://github.com/letta-ai/letta)  - _Platform for stateful agents: AI with advanced memory that can learn and self-improve over time._
-* [mem0ai/mem0](https://github.com/mem0ai/mem0)  - _Universal memory layer for AI Agents_
 
 <details>
 <summary> Want to see my github stats ? </summary>
