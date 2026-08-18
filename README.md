@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwMzQ5OTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwNTY2NDZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwMzQ5OTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcwNTY2NTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  - _Hundreds of models &amp; providers. One command to find what runs on your hardware._
 * [EvilFreelancer/acpbox](https://github.com/EvilFreelancer/acpbox)  - _OpenAI-compatible HTTP API that acts as a gateway to the Agent Client Protocol (ACP)_
 * [symfony/language-tools](https://github.com/symfony/language-tools)  - _Symfony-aware completion, navigation and diagnostics through the Language Server Protocol_
 * [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)  - _SpiderFoot automates OSINT for threat intelligence and mapping your attack surface._
 * [NanoNets/Graft](https://github.com/NanoNets/Graft)  - _Turbocharge Claude Code, Cursor, Codex, Gemini &amp; every coding agent: faster, cheaper, with contextual understanding specific to your codebase._
-* [hamr0/beeperbox](https://github.com/hamr0/beeperbox)  - _Plug your AI agent into 50+ messengers (WhatsApp, iMessage, Signal, Telegram, Slack…) through one MCP endpoint. Two modes: a self-contained Docker container (headless Beeper bundled) or a lite npx MCP layer pointed at the Beeper you already run._
 
 <details>
 <summary> Want to see my github stats ? </summary>
