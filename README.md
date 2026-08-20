@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1690585703267-de31ea667ef0?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyMjk1OTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1670057046254-3b5095eb4b66?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyNTA4MzN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyMjk1OTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyNTA4Mzd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [bpolaszek/typed-http-client](https://github.com/bpolaszek/typed-http-client)  - _Symfony HTTP Client returning real objects._
 * [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  - _Hundreds of models &amp; providers. One command to find what runs on your hardware._
 * [EvilFreelancer/acpbox](https://github.com/EvilFreelancer/acpbox)  - _OpenAI-compatible HTTP API that acts as a gateway to the Agent Client Protocol (ACP)_
 * [symfony/language-tools](https://github.com/symfony/language-tools)  - _Official Symfony language tools for VS Code, Zed, Neovim, and other editors_
 * [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)  - _SpiderFoot automates OSINT for threat intelligence and mapping your attack surface._
-* [NanoNets/Graft](https://github.com/NanoNets/Graft)  - _Turbocharge Claude Code, Cursor, Codex, Gemini &amp; every coding agent: faster, cheaper, with contextual understanding specific to your codebase._
 
 <details>
 <summary> Want to see my github stats ? </summary>
