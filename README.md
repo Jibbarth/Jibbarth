@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1585076641399-5c06d1b3365f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMTU5MTJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzcwODV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMTU5MTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODczMzcwOTF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[strem-testing] feat: SQLite State specification](https://github.com/Jibbarth/strem-testing/pull/17) - _OPEN_
-* [[strem-testing] feat: Plugin System specification](https://github.com/Jibbarth/strem-testing/pull/16) - _OPEN_
-* [[strem-testing] spec: externalize hardcoded config to .env](https://github.com/Jibbarth/strem-testing/pull/13) - _OPEN_
+* [[DoctrineMigrationsExtraBundle] Allow services migrations](https://github.com/SyliusLabs/DoctrineMigrationsExtraBundle/pull/19) - _OPEN_
+* [[symfony-ai] Feature/acp with json rpc peer](https://github.com/Jibbarth/symfony-ai/pull/1) - _OPEN_
+* [[ai] [Platform] Add Agent Client Protocol (ACP) platform Bridge](https://github.com/symfony/ai/pull/2306) - _OPEN_
 
 **🌟 Latest Stars**:
 
