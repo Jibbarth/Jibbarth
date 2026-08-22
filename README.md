@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1585076641399-5c06d1b3365f?auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1619410283995-43d9134e7656?auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -49,9 +49,9 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **👨‍💻 Latest Pull Requests**:
 
-* [[site-src] typo: self-hosted Space Grotesk display font on headings (P4)](https://github.com/Jibbarth/site-src/pull/133) - _OPEN_
-* [[site-src] ux: fade hero into content (P3)](https://github.com/Jibbarth/site-src/pull/132) - _OPEN_
 * [[site-src] blog: card layout with abstract (P1)](https://github.com/Jibbarth/site-src/pull/130) - _OPEN_
+* [[DoctrineMigrationsExtraBundle] Allow services migrations](https://github.com/SyliusLabs/DoctrineMigrationsExtraBundle/pull/19) - _OPEN_
+* [[symfony-ai] Feature/acp with json rpc peer](https://github.com/Jibbarth/symfony-ai/pull/1) - _OPEN_
 
 **🌟 Latest Stars**:
 
