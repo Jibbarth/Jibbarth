@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1619410283995-43d9134e7656?auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc1MzM0MjJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649180559928-91d16a63bd39?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc1MzM0Mjh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)  - _Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端_
 * [bpolaszek/typed-http-client](https://github.com/bpolaszek/typed-http-client)  - _Symfony HTTP Client returning real objects._
 * [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)  - _Hundreds of models &amp; providers. One command to find what runs on your hardware._
 * [EvilFreelancer/acpbox](https://github.com/EvilFreelancer/acpbox)  - _OpenAI-compatible HTTP API that acts as a gateway to the Agent Client Protocol (ACP)_
 * [symfony/language-tools](https://github.com/symfony/language-tools)  - _Official Symfony language tools for VS Code, Zed, Neovim, and other editors_
-* [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)  - _SpiderFoot automates OSINT for threat intelligence and mapping your attack surface._
 
 <details>
 <summary> Want to see my github stats ? </summary>
