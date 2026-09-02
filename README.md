@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgyOTQ2MDJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgzMTY4NTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgyOTQ2MDd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649180559928-91d16a63bd39?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgzMTY4NjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [vercel-labs/skills](https://github.com/vercel-labs/skills)  - _The open agent skills tool - npx skills_
 * [rwnalds/engram](https://github.com/rwnalds/engram)  - _Self-hosted MCP server + dashboard giving Claude Code, Cursor &amp; Hermes agents shared long-term memory over a git-backed markdown vault. Agent-native, Obsidian-compatible second brain — markdown RAG, no vector DB._
 * [symfony/recipes](https://github.com/symfony/recipes)  - _Symfony Recipes Repository_
 * [ruvnet/ruflo](https://github.com/ruvnet/ruflo)  - _🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated_
 * [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)  - _Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review._
-* [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
