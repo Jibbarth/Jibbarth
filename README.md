@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1516116216624-53e697fedbea?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1MTc4NDR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1MzY1NDl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1MTc4NDl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1MzY1NTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [magnusoverli/opencode](https://github.com/magnusoverli/opencode) 
 * [humanlayer/skills](https://github.com/humanlayer/skills) 
 * [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)  - _Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production._
 * [vercel-labs/skills](https://github.com/vercel-labs/skills)  - _The open agent skills tool - npx skills_
 * [rwnalds/engram](https://github.com/rwnalds/engram)  - _Self-hosted MCP server + dashboard giving Claude Code, Cursor &amp; Hermes agents shared long-term memory over a git-backed markdown vault. Agent-native, Obsidian-compatible second brain — markdown RAG, no vector DB._
-* [symfony/recipes](https://github.com/symfony/recipes)  - _Symfony Recipes Repository_
 
 <details>
 <summary> Want to see my github stats ? </summary>
