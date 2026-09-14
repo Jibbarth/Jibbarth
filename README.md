@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzODYwNDJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk0MDczMjN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzODYwNDd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649180559928-91d16a63bd39?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk0MDczMjh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)  - _Secure, Fast, and Extensible Sandbox runtime for AI agents._
 * [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 
 * [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)  - _100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source._
 * [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)  - _Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows_
 * [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto)  - _Memory that AI Agents Love!_
-* [jbarbier/CLAUDE.md](https://github.com/jbarbier/CLAUDE.md)  - _One CLAUDE.md to make your coding agent ship like a senior engineer. Drop-in for Claude Code, Codex, Cursor, Gemini._
 
 <details>
 <summary> Want to see my github stats ? </summary>
