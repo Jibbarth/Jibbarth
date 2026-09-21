@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1573495628363-04667cedc587?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk3NjI4NTd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1602992708529-c9fdb12905c9?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5NjAwNzF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk3NjI4NjJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5NjAwNzZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)  - _Talk to one agent. Ship with a crew._
+* [stephrobert/pavois](https://github.com/stephrobert/pavois)  - _Pavois — effective Linux compliance &amp; hardening over CINC/InSpec (A–E grade, multi-standard, reboot-proof verdict)_
+* [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)  - _Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev_
+* [yelmuratoff/agent_sync](https://github.com/yelmuratoff/agent_sync)  - _One source of truth for your AI coding rules. AgentSync generates them for 13 tools in each tool&#039;s native format, and tells you when they drift._
 * [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill)  - _A skill for writing and improving programs that call Jev, TypeSafe&#039;s System One model_
-* [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli)  - _Generate anything from your terminal_
-* [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki)  - _Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting._
-* [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)  - _CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI._
-* [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)  - _The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence._
 
 <details>
 <summary> Want to see my github stats ? </summary>
