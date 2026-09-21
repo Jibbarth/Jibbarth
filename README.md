@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1617042375876-a13e36732a04?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5OTE2MjZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1605379399642-870262d3d051?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwMTI5NDF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk5OTE2MzF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAwMTI5NDZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [latent-spaces/brag](https://github.com/latent-spaces/brag)  - _You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command._
+* [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor)  - _AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai._
+* [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) 
 * [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)  - _Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent._
 * [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)  - _Talk to one agent. Ship with a crew._
-* [stephrobert/pavois](https://github.com/stephrobert/pavois)  - _Pavois — effective Linux compliance &amp; hardening over CINC/InSpec (A–E grade, multi-standard, reboot-proof verdict)_
-* [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)  - _Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI, and an MCP server. https://classifier.dev_
-* [yelmuratoff/agent_sync](https://github.com/yelmuratoff/agent_sync)  - _One source of truth for your AI coding rules. AgentSync generates them for 13 tools in each tool&#039;s native format, and tells you when they drift._
 
 <details>
 <summary> Want to see my github stats ? </summary>
