@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1599837565318-67429bde7162?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxMzI4NTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxNjAxNzF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxMzI4NTV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649180559928-91d16a63bd39?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAxNjAxNzV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -57,7 +57,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 * [latent-spaces/brag](https://github.com/latent-spaces/brag)  - _You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command._
 * [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor)  - _AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai._
-* [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) 
+* [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)  - _Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request._
 * [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)  - _Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent._
 * [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)  - _Talk to one agent. Ship with a crew._
 
