@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzNzAyMjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1690585703267-de31ea667ef0?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1NjU5MDh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzNzAyMjN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1NjU5MTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [clegginabox/salience-macos](https://github.com/clegginabox/salience-macos)  - _Ambient developer dashboard that follows the git branch across your tools — ticket → PR → CI → deploy and surfaces the joined state on a second monitor._
+* [Korbeil/pablo](https://github.com/Korbeil/pablo) 
+* [openclaw/acpx](https://github.com/openclaw/acpx)  - _Headless CLI client for stateful Agent Client Protocol (ACP) sessions_
+* [intellectronica/opencode-acpx](https://github.com/intellectronica/opencode-acpx)  - _Use Cursor, Claude, Codex, Grok, Hermes and other ACP agents as OpenCode providers_
 * [Hangzhi/diffusion-jev-sglang](https://github.com/Hangzhi/diffusion-jev-sglang)  - _A Jev-like decision engine powered by DiffusionGemma and SGLang. Jev with eyes._
-* [emirbartu/jev-for-all](https://github.com/emirbartu/jev-for-all)  - _Jev for every agentic development workflow — the System One decision model wired into whatever harness an agent codes in: OpenCode today, Claude Code and Hermes adapters next._
-* [zilliztech/memsearch](https://github.com/zilliztech/memsearch)  - _A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus._
-* [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)  - _Hindsight: Agent Memory That Learns_
-* [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)  - _A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI._
 
 <details>
 <summary> Want to see my github stats ? </summary>
