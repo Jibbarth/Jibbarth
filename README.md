@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1685558593626-686907d7ee4b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA2NTQ0NzF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA2ODM0MzV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA2NTQ0Nzd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649180559928-91d16a63bd39?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA2ODM0NDF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Mister-iks/pcybox-orbis](https://github.com/Mister-iks/pcybox-orbis)  - _PCYBOX Orbis - Real-time network traffic visualizer. Force graph, world map, anomaly detection, process attribution. Free Windows app._
+* [steipete/agent-scripts](https://github.com/steipete/agent-scripts)  - _Scripts for agents, shared between my repositories._
+* [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)  - _A self-improving RLM agent for coding workflows and long-running autonomous tasks._
 * [moguzbulbul/blueprint-animation](https://github.com/moguzbulbul/blueprint-animation)  - _Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul._
 * [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)  - _A skill file for removing AI tells from prose_
-* [clegginabox/salience-macos](https://github.com/clegginabox/salience-macos)  - _Ambient developer dashboard that follows the git branch across your tools — ticket → PR → CI → deploy and surfaces the joined state on a second monitor._
-* [Korbeil/pablo](https://github.com/Korbeil/pablo) 
-* [openclaw/acpx](https://github.com/openclaw/acpx)  - _Headless CLI client for stateful Agent Client Protocol (ACP) sessions_
 
 <details>
 <summary> Want to see my github stats ? </summary>
