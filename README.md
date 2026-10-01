@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1631624217902-d14c634ab17c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4NTczMTh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1564798605859-a4ab4a561b2a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4OTMwOTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4NTczMjN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4OTMwOTN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [openchamber/openchamber](https://github.com/openchamber/openchamber)  - _Agentic Development Environment based on OpenCode AI agent_
+* [openchamber/opencode-claude](https://github.com/openchamber/opencode-claude)  - _Anthropic provider plugin for OpenCode_
 * [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness)  - _Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark._
 * [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch)  - _Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT._
 * [castor-php/sylius](https://github.com/castor-php/sylius) 
-* [Mister-iks/pcybox-orbis](https://github.com/Mister-iks/pcybox-orbis)  - _PCYBOX Orbis - Real-time network traffic visualizer. Force graph, world map, anomaly detection, process attribution. Free Windows app._
-* [steipete/agent-scripts](https://github.com/steipete/agent-scripts)  - _Scripts for agents, shared between my repositories._
 
 <details>
 <summary> Want to see my github stats ? </summary>
