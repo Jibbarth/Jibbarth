@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1550063873-ab792950096b?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA5Nzc2Mjd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExNzIzMzF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA5Nzc2MzJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExNzIzMzd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Jibbarth/opencode-acp-provider](https://github.com/Jibbarth/opencode-acp-provider)  - _Expose an ACP (Agent Client Protocol) agent as an OpenCode model provider_
+* [wachterjohannes/symfony-skills](https://github.com/wachterjohannes/symfony-skills) 
+* [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)  - _Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。_
 * [openchamber/openchamber](https://github.com/openchamber/openchamber)  - _Agentic Development Environment based on OpenCode AI agent_
 * [openchamber/opencode-claude](https://github.com/openchamber/opencode-claude)  - _Anthropic provider plugin for OpenCode_
-* [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness)  - _Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark._
-* [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch)  - _Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT._
-* [castor-php/sylius](https://github.com/castor-php/sylius) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
