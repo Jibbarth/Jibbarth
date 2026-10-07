@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1624378515195-6bbdb73dff1a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEzNzY1MjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1547658719-da2b51169166?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE0MTI2ODN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1705988142466-e468bc654eeb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEzNzY1MjV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE0MTI2ODl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [samoylenkodmitry/optchat](https://github.com/samoylenkodmitry/optchat)  - _One memory for the Claude Code and Codex agents of one user, shared across machines. An MCP server that runs no models._
+* [jonaslsaa/pi-optchat](https://github.com/jonaslsaa/pi-optchat)  - _Persistent infinite memory with profiles, background agents, and conversation imports for Pi._
+* [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)  - _Permanent memory for AI agents. A 426-token prompt, a script, plug and play._
 * [uber/ADR](https://github.com/uber/ADR)  - _ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber._
 * [gastownhall/beads](https://github.com/gastownhall/beads)  - _Beads - A memory upgrade for your coding agent_
-* [Jibbarth/opencode-acp-provider](https://github.com/Jibbarth/opencode-acp-provider)  - _Expose an ACP (Agent Client Protocol) agent as an OpenCode model provider_
-* [wachterjohannes/symfony-skills](https://github.com/wachterjohannes/symfony-skills) 
-* [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)  - _Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。_
 
 <details>
 <summary> Want to see my github stats ? </summary>
