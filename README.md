@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1516116412344-6663387e8590?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1ODM5MjJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1623520333087-62b8793e3d23?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE3NzgxMDJ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1ODM5MjZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE3NzgxMDV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)  - _An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects._
+* [bigmoby/home-assistant-candy](https://github.com/bigmoby/home-assistant-candy)  - _🔌 Plug-and-play Candy &amp; Haier appliance integration for Home Assistant — no keys, no config, just works_
+* [morluto/rea](https://github.com/morluto/rea)  - _Reverse engineer anything with agents, from app behavior down to native binaries._
+* [silarhi/picasso-bundle](https://github.com/silarhi/picasso-bundle)  - _Responsive images for Symfony: one Twig component for AVIF/WebP srcset, blur placeholders, Glide/Imgix, inspired by next/image_
 * [elpapi42/pi-observational-memory](https://github.com/elpapi42/pi-observational-memory)  - _Make Pi sessions feel endless_
-* [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)  - _Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window._
-* [96Ems/opencode2-plugin-optchat](https://github.com/96Ems/opencode2-plugin-optchat) 
-* [samoylenkodmitry/optchat](https://github.com/samoylenkodmitry/optchat)  - _One memory for the Claude Code and Codex agents of one user, shared across machines. An MCP server that runs no models._
-* [jonaslsaa/pi-optchat](https://github.com/jonaslsaa/pi-optchat)  - _Persistent infinite memory with profiles, background agents, and conversation imports for Pi._
 
 <details>
 <summary> Want to see my github stats ? </summary>
