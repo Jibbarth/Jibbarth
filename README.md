@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIxODI0ODV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1632910138458-5bf601f3835e?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzNzkwOTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIxODI0OTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzNzkxMDR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)  - _Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API_
 * [thibmonier/sylius-quick-order-plugin](https://github.com/thibmonier/sylius-quick-order-plugin)  - _B2B quick order for Sylius 2: paste codes or upload a CSV, preview, add everything to the cart at once, reorder past orders_
 * [emagma/sylius-order-withdrawal-plugin](https://github.com/emagma/sylius-order-withdrawal-plugin)  - _Order withdrawal management for Sylius_
 * [tacticmedia/component-guide-for-symfony](https://github.com/tacticmedia/component-guide-for-symfony)  - _A skillset and a Claude Plugin helping your agent to not reintent a wheel that&#039;s already handled by first-party Symfony components._
 * [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)  - _An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects._
-* [bigmoby/home-assistant-candy](https://github.com/bigmoby/home-assistant-candy)  - _🔌 Plug-and-play Candy &amp; Haier appliance integration for Home Assistant — no keys, no config, just works_
 
 <details>
 <summary> Want to see my github stats ? </summary>
