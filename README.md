@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1505238680356-667803448bb6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI2Mzg0NzN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1619410283995-43d9134e7656?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2MTg5MTZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI2Mzg0Nzh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2MTg5MjB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
-* [anomalyco/opencode](https://github.com/anomalyco/opencode)  - _The open source coding agent._
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)  - _Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API_
-* [thibmonier/sylius-quick-order-plugin](https://github.com/thibmonier/sylius-quick-order-plugin)  - _B2B quick order for Sylius 2: paste codes or upload a CSV, preview, add everything to the cart at once, reorder past orders_
-* [emagma/sylius-order-withdrawal-plugin](https://github.com/emagma/sylius-order-withdrawal-plugin)  - _Order withdrawal management for Sylius_
-* [tacticmedia/component-guide-for-symfony](https://github.com/tacticmedia/component-guide-for-symfony)  - _A skillset and a Claude Plugin helping your agent to not reintent a wheel that&#039;s already handled by first-party Symfony components._
+* [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  - _Experience-Driven Black-Box Cost Control for Coding Agents_
+* [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)  - _Towards a More Autonomous Agent System_
+* [anomalyco/hokum](https://github.com/anomalyco/hokum)  - _Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune._
+* [anomalyco/hex](https://github.com/anomalyco/hex)  - _Local voice dictation for mac, windows and linux_
+* [pank-su/opencode-prompt-completion](https://github.com/pank-su/opencode-prompt-completion)  - _Inline prompt completion for the OpenCode V2 terminal UI_
 
 <details>
 <summary> Want to see my github stats ? </summary>
