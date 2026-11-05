@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM4ODg2NzB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1599507593548-0187ac4043c6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM5MjEzNTR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM4ODg2NzR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM5MjEzNTh8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Sloydai/make-native](https://github.com/Sloydai/make-native)  - _An awesome skill to make new code look like it was always there_
 * [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  - _Experience-Driven Black-Box Cost Control for Coding Agents_
 * [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)  - _Towards a More Autonomous Agent System_
 * [anomalyco/hokum](https://github.com/anomalyco/hokum)  - _Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune._
 * [anomalyco/hex](https://github.com/anomalyco/hex)  - _Local voice dictation for mac, windows and linux_
-* [pank-su/opencode-prompt-completion](https://github.com/pank-su/opencode-prompt-completion)  - _Inline prompt completion for the OpenCode V2 terminal UI_
 
 <details>
 <summary> Want to see my github stats ? </summary>
