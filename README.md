@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1604145559206-e3bce0040e2d?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQwMDU2OTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1719400471588-575b23e27bd7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQyMzg5NTl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQwMDU3MDN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1557200134-3103da7b6bff?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQyMzg5NjR8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [Kocal/symfony-contribution-skills](https://github.com/Kocal/symfony-contribution-skills)  - _IA skills for contributing to the Symfony framework &amp; related packages_
+* [gmkurtzer/hdae](https://github.com/gmkurtzer/hdae) 
+* [anomalyco/browse](https://github.com/anomalyco/browse)  - _Let your AI agents use your real browser: an MCP server and a Chromium extension_
 * [Sloydai/make-native](https://github.com/Sloydai/make-native)  - _An awesome skill to make new code look like it was always there_
 * [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)  - _Experience-Driven Black-Box Cost Control for Coding Agents_
-* [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)  - _Towards a More Autonomous Agent System_
-* [anomalyco/hokum](https://github.com/anomalyco/hokum)  - _Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune._
-* [anomalyco/hex](https://github.com/anomalyco/hex)  - _Local voice dictation for mac, windows and linux_
 
 <details>
 <summary> Want to see my github stats ? </summary>
