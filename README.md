@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUxMDIyMDV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1621361365424-06f0e1eb5c49?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUxMzQ0NjF8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUxMDIyMTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUxMzQ0Njd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
-* [ai-timon/timon](https://github.com/ai-timon/timon) 
+* [thibmonier/sylius-bulk-actions-plugin](https://github.com/thibmonier/sylius-bulk-actions-plugin)  - _Bulk actions for the Sylius 2 admin grids: products, orders, payments, shipments and customers_
+* [agence-adeliom/sylius-happy-cms-plugin](https://github.com/agence-adeliom/sylius-happy-cms-plugin) 
+* [ai-timon/timon](https://github.com/ai-timon/timon)  - _Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place_
 * [getwud/wud](https://github.com/getwud/wud)  - _Keep your containers up-to-date!_
 * [quentinRogeret34/Mnemo](https://github.com/quentinRogeret34/Mnemo)  - _The memory of your project for humans and AI agents: code, business rules and typed memories in one graph, served to any agent over MCP. Built with Symfony AI._
-* [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)  - _Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository._
-* [pentiminax/ux-datatables](https://github.com/pentiminax/ux-datatables)  - _UX DataTables is a Symfony bundle integrating the DataTables library in Symfony applications._
 
 <details>
 <summary> Want to see my github stats ? </summary>
