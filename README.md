@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1545670723-196ed0954986?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUyMTg2MzV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU0MTYyODZ8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1602265568624-29e8dc535bd6?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUyMTg2Mzl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1660137340590-d48549625980?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU0MTYyOTB8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
+* [system1970/opencode-antigravity-acp](https://github.com/system1970/opencode-antigravity-acp)  - _Use your Antigravity subscription models in OpenCode via the official agy acp protocol, with Code Mode, MCP tools, skills, AGENTS.md, and cross-model context handoff._
 * [elripalda/RecompLauncher](https://github.com/elripalda/RecompLauncher)  - _PC recomps, all in one place. Find, install, update and play PC recomps from one launcher._
 * [backnotprop/plannotator](https://github.com/backnotprop/plannotator)  - _The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click._
-* [wachterjohannes/synapse](https://github.com/wachterjohannes/synapse) 
+* [wachterjohannes/synapse](https://github.com/wachterjohannes/synapse)  - _A second brain of markdown notes: Symfony AI agents write and answer with RAG, an MCP server shares them._
 * [thibmonier/sylius-bulk-actions-plugin](https://github.com/thibmonier/sylius-bulk-actions-plugin)  - _Bulk actions for the Sylius 2 admin grids: products, orders, payments, shipments and customers_
-* [agence-adeliom/sylius-happy-cms-plugin](https://github.com/agence-adeliom/sylius-happy-cms-plugin) 
 
 <details>
 <summary> Want to see my github stats ? </summary>
