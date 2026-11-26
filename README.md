@@ -1,4 +1,4 @@
-![banner image](https://images.unsplash.com/photo-1516101922849-2bf0be616449?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU2Nzg3ODN8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
+![banner image](https://images.unsplash.com/photo-1611924707078-da8777fc99cb?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU3Mjc1NDV8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=854&amp;h=300&amp;fit=crop&amp;crop=edges,entropy)
 
 <h2 align="center">Hi, I'm Jibé 👋</h2>
 
@@ -19,7 +19,7 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
       <td width="33.333333333333%" align="center">
           <a href="https://github.com/Jibbarth/slacknewsletter">
             <p>Slack Newsletter</p>
-            <img src="https://images.unsplash.com/photo-1644574141709-c739285ae771?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU2Nzg3ODd8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
+            <img src="https://images.unsplash.com/photo-1649180559928-91d16a63bd39?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w2MzI5ODF8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU3Mjc1NDl8&amp;ixlib=rb-4.1.0&amp;q=85&amp;auto=format&amp;w=200&amp;h=150&amp;fit=crop&amp;crop=edges,entropy" />
           </a>
       </td>
       <td width="33.333333333333%" align="center">
@@ -55,11 +55,11 @@ I'm **Lead developer** at **Synolia** based in **Bordeaux**.
 
 **🌟 Latest Stars**:
 
-* [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp)  - _Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant._
+* [SymfonyCon/2026-talks](https://github.com/SymfonyCon/2026-talks) 
+* [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)  - _Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents._
+* [PHPantom-dev/phpantom_lsp](https://github.com/PHPantom-dev/phpantom_lsp)  - _Fast PHP language server with deep type intelligence. Generics, frameworks, PHPStan annotations. Ready in an instant._
 * [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)  - _XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)_
 * [system1970/opencode-antigravity-acp](https://github.com/system1970/opencode-antigravity-acp)  - _Use your Antigravity subscription models in OpenCode via the official agy acp protocol, with Code Mode, MCP tools, skills, AGENTS.md, and cross-model context handoff._
-* [elripalda/RecompLauncher](https://github.com/elripalda/RecompLauncher)  - _PC recomps, all in one place. Find, install, update and play PC recomps from one launcher._
-* [backnotprop/plannotator](https://github.com/backnotprop/plannotator)  - _The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click._
 
 <details>
 <summary> Want to see my github stats ? </summary>
